@@ -1,0 +1,3794 @@
+
+
+
+
+
+Artificial Intelligence | Samsung Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Areas
+
+
+
+
+
+Intelligence
+
+
+Artificial Intelligence
+Data Intelligence
+
+
+
+Device Innovation
+
+Robotics
+Next Generation Digital Appliances
+
+
+
+Communications & Media
+
+Next Generation Communications
+Next Generation Display & Media
+
+
+
+Platform
+
+Tizen
+SoC Architecture
+Security & Privacy
+Software Engineering
+
+
+
+
+
+
+
+Publications
+
+
+R&D Networks
+
+
+
+
+R&D Centers
+
+
+America
+
+Samsung Research America
+Samsung R&D Institute Canada
+
+
+
+Europe/CIS/Middle East
+
+Samsung R&D Institute United Kingdom
+Samsung R&D Institute Poland
+Samsung R&D Institute Ukraine
+Samsung R&D Institute Russia
+Samsung R&D Institute Israel
+Samsung R&D Institute Jordan
+
+
+
+Southwest/Southeast Asia
+
+Samsung R&D Institute India-Bangalore
+Samsung R&D Institute Philippines
+Samsung R&D Institute Indonesia
+Samsung R&D Institute Bangladesh
+
+
+
+China
+
+Samsung R&D Institute China-Beijing
+Samsung R&D Institute China-Nanjing
+
+
+
+Japan
+
+Samsung R&D Institute Japan
+
+
+
+
+
+
+
+AI Centers
+
+Seoul
+Mountain View
+Toronto
+Cambridge
+Warsaw
+
+
+
+
+
+
+
+
+News & Blog
+
+
+
+
+News
+Blog
+SR Talks
+Newsletter
+
+
+
+
+
+Careers
+
+About
+
+
+
+
+About Samsung Research
+
+Who We Are
+Vision & Mission
+
+
+
+Events
+
+Events
+Gallery
+
+
+
+Culture
+
+Meet Our Researchers
+Life at Samsung Research
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+Site Map
+
+
+
+
+
+
+
+
+
+Research Areas
+
+Intelligence
+
+
+Artificial Intelligence
+Data Intelligence
+
+
+Device Innovation
+
+
+Robotics
+Next Generation Digital Appliances
+
+
+Communications & Media
+
+
+Next Generation Communications
+Next Generation Display & Media
+
+
+Platfrom
+
+
+Tizen
+Soc Architecture
+Security & Privacy
+Software Engineering
+
+
+
+
+
+
+
+
+R&D Networks
+
+R&D Centers
+
+America
+
+Samsung Research America
+Samsung R&D Institute Canada
+
+
+
+Europe/CIS/Middle East
+
+Samsung R&D Institute United Kingdom
+Samsung R&D Institute Poland
+Samsung R&D Institute Ukraine
+Samsung R&D Institute Russia
+Samsung R&D Institute Israel
+Samsung R&D Institute Jordan
+
+
+
+Southwest/Southeast Asia
+
+Samsung R&D Institute India-Bangalore
+Samsung R&D Institute Philippines
+Samsung R&D Institute Indonesia
+Samsung R&D Institute Bangladesh
+
+
+
+China
+
+Samsung R&D Institute China-Beijing
+Samsung R&D Institute China-Nanjing
+
+
+
+Japan
+
+Samsung R&D Institute Japan
+
+
+
+
+
+AI Centers
+
+Korea
+
+Seoul
+
+
+
+North America
+
+Mountain View
+Toronto
+
+
+
+
+Europe
+
+Cambridge
+Warsaw
+
+
+
+
+
+
+News & Blog
+
+News
+Blog
+SR Talks
+Newsletter
+
+
+
+
+
+Careers
+
+
+
+About
+
+
+About Samsung Research
+
+Who We Are
+Vision & Mission
+
+
+
+Events
+
+Events
+Gallery
+
+
+
+Culture
+
+Meet Our Researchers
+Life at Samsung Research
+
+
+
+
+
+
+
+Site map close
+
+
+
+
+
+
+
+
+Search Text
+
+Search
+
+
+
+
+
+
+
+
+
+Research Areas
+
+
+Intelligence
+
+Artificial Intelligence
+Data Intelligence
+
+Device Innovation
+
+Robotics
+Next Generation Digital Appliances
+
+Communications & Media
+
+Next Generation Communications
+Next Generation Display & Media
+
+Platfrom
+
+Tizen
+Soc Architecture
+Security & Privacy
+Software Engineering
+
+
+
+
+
+
+Publications
+
+
+ R&D Networks
+
+
+ R&D Centers
+
+ R&D Centers
+
+America
+
+Samsung Research America
+Samsung R&D Institute Canada
+
+
+Europe/CIS/Middle East
+
+Samsung R&D Institute United Kingdom
+Samsung R&D Institute Poland
+Samsung R&D Institute Ukraine
+Samsung R&D Institute Russia
+Samsung R&D Institute Israel
+Samsung R&D Institute Jordan
+
+
+Southwest/Southeast Asia
+
+Samsung R&D Institute India-Bangalore
+Samsung R&D Institute Philippines
+Samsung R&D Institute Indonesia
+Samsung R&D Institute Bangladesh
+
+
+China
+
+Samsung R&D Institute China-Beijing
+Samsung R&D Institute China-Nanjing
+
+
+Japan
+
+Samsung R&D Institute Japan
+
+
+
+
+
+
+ AI Centers
+
+ AI Centers
+Samsung Research
+Mountain View
+Toronto
+Cambridge
+Warsaw
+
+
+
+
+
+
+
+News & Blog
+
+News
+Blog
+SR Talks
+Newsletter
+
+
+
+CAREERS
+
+
+About
+
+
+About Samsung Research
+
+Who We Are
+Vision & Mission
+
+Events
+
+Events
+Gallery
+
+Culture
+
+Meet Our Researchers
+Life at Samsung Research
+
+
+
+
+
+
+
+
+
+
+
+Artificial Intelligence
+
+
+
+
+Artificial Intelligence
+Data Intelligence
+Robotics
+Next GenerationDigital Appliances
+Next GenerationCommunications
+Next GenerationDisplay & Media
+Tizen
+SoC Architecture
+Security & Privacy 
+Software Engineering
+
+
+
+
+
+
+
+
+Overview
+
+
+
+
+					Artificial intelligence (AI) technology is poised to become increasingly integral to our daily lives, facilitating interactions with smart devices through chat, speech, gestures, and various cues. These advancements will significantly enhance the efficiency of our routines both at home and in the workplace, highlighting the necessity of operating these technologies in a secure and safe manner.
+					
+
+
+
+
+
+Our Vision
+
+
+
+
+					Under the vision of "AI for All," Samsung plans to integrate AI services across all product lines, enabling users to enjoy a more convenient and enriched daily life. At Samsung Research, our mission is to develop innovative AI solutions that enrich the customer experience for the billions of users and devices under the Samsung brand. We are committed to shaping a new era of connected living with AI, creating entirely new experiences and values tailored for users. Our principles emphasize being user-centric, always safe, always helpful, and always learning, with a focus on fairness, accountability, and transparency.
+					
+
+
+
+
+
+Research Topics
+
+
+
+
+					We focus on developing device AI methodologies while incorporating a range of applied AI techniques. We strive to enable seamless interaction between users and Samsung devices, ensuring a smooth experience amid the complexities of modern technology. Our work also extends to developing multimodal agentic systems through the integration of speech recognition, language comprehension, and visual understanding technologies.
+					
+
+
+Language AI
+
+						Our goal is to enhance the intelligence of generative AI models through extensive research in large language models (LLMs) and code models. Our commitment includes building reliable models and services using technologies such as reinforcement learning, Retrieval-Augmented Generation (RAG), prompt engineering, and efficient model serving. We tackle fundamental challenges such as integrating learning and perception with high-level knowledge. This approach aims to enhance reasoning capabilities by incorporating the user’s context and domain knowledge. This research not only improves our product competitiveness but also boosts internal productivity .
+						
+
+						We develop technologies that provide real-time multilingual translation in various apps such as translation tools, browsers, and Notes within smartphones. Additionally, typical use cases include converting the style of sentences when users write, recommending spelling/grammar, and suggesting appropriate response content.
+						
+
+
+Voice and Sound AI
+
+						Our development of voice and sound AI technology aims to achieve a human-like understanding of speech and sounds, facilitating natural conversations and expressions. We are also enhancing listening experiences through advanced analysis and understanding. Our core technologies is the E2E Speech LLM solution, which includes voice-related solutions such as voice recognition, synthesis, and processing, as well as sound recognition, source separation, quality improvement, audio search, and voice biomarker-based Brain health.  These technologies enable Samsung devices such as smartphones, home appliances and wearables to offer tailored intelligent services in various settings. 
+						
+
+						In the case of videos in the smartphone gallery, there are cases where background noise is included, so we develop technologies that can reduce or amplify it. This can be used to search for target audio sources and separate them, like an audio eraser."
+						
+
+
+Vision AI
+
+						As more Samsung devices come equipped with cameras, there is a significant opportunity to transform these from smart to AI-driven devices with the support of vision AI. We aim to provide a comprehensive and on-device vision solutions for Samsung devices, ranging from low-level camera sensor processing to high-level visual intelligence for smartphone and TV.  
+						
+
+						Photos usually contain various text information, and the technology to recognize this text information has many applications. For example, in the case of a prescription photo, it contains information such as drug names, drugs, and dosages, so it can be registered in an app that automatically manages them. Another example is when signs/menus/newspapers/books contain text, it can perform useful functions such as copying & pasting these texts or searching and translating them. In addition, we develop generative AI technologies such as removing unnecessary objects from photos in the smartphone gallery, and generating wallpaper images that dynamically changes according to the weather and time.
+						
+
+
+Generative AI
+
+
+
+
+						We are developing a generative AI model named Samsung Gauss. This model is inspired by Carl Friedrich Gauss, a renowned mathematician known for formulating the theory of normal distribution, which is crucial in fields like machine learning and AI. Samsung Gauss embodies our aim to harnessing the power of AI to significantly improve consumer lives worldwide. 
+						
+
+						Samsung Gauss2 offers enhanced performance and efficiency by handling various data types simultaneously as a multimodal model that integrates language, code, and images. It is available in three distinct models designed for different purposes: Compact, Balanced, and Supreme. 
+						
+
+						• Compact Model: This small-sized model is specifically designed for efficient operation in limited computing environments, maximizing each device's unique capabilities for optimized on-device performance. 
+						• Balanced Model: This model achieves a balance between stability and efficiency, providing consistent performance across a variety of tasks. 
+						• Supreme Model: Aiming for top-tier performance, this model utilizes a new model architecture built upon the Balanced model, enabling significant reductions in computational requirements during training and inference while maintaining high levels of both performance and efficiency. 
+						
+
+						Samsung Gauss2 supports up to 14 languages as well as various programming languages, depending on the model. To ensure maximum efficiency for these supported languages, Samsung has developed and incorporated its own stabilization techniques for training large language models (LLMs) and designed a custom Tokenizer.
+						
+
+						Looking ahead, Samsung aims to continually enhance the performance of its code.i service through Samsung Gauss2, improve the natural language question-and-answer functionality of the Samsung Gauss Portal, and support multimodal features such as understanding tables, charts, and creating images. Each of these enhancements is intended to boost productivity within the company.
+						
+
+
+
+
+
+
+
+
+
+
+Principles for AI Ethics
+
+As AI technology unfolds its boundless potential, ushering in a new era of experiences, it simultaneously poses potential social and ethical challenges. To ensure the sustainable and ethical deployment of AI and its applications, we have established the principles of “Fairness,” “Transparency,” and “Accountability.” These guidelines are not just about legal compliance but are a testament to our commitment to social and ethical responsibilities.
+To integrate these ethical principles into our corporate culture, they will be embedded into our internal guidelines and training programs. This initiative aims to educate and direct our employees toward the ethical development and use of AI.
+
+
+1. Fairness
+
+							Our commitment extends to embedding the values of equality and diversity diversity across the AI system’s entire lifecycle, ensuring that our AI does not perpetuate or amplify negative or unfair biases. 
+							We will make AI accessible to all users, promoting inclusivity.
+						
+
+
+2. Transparency
+
+							Users will be clearly informed when they are interacting with AI., fostering an environment of trust.
+							AI will be designed to be explainable, allowing users to comprehend the basis of its decisions or recommendations within the bounds of technological possibility.
+							The processes involving the collection or use of personal data by AI will be conducted with utmost transparency.
+						
+
+
+3. Accountability
+
+							We pledge to imbue our AI systems with social and ethical responsibility, reflecting our corporate values.
+							AI systems will be fortified with robust security measures to safeguard against data breaches and cyberattacks, ensuring user data protection.
+							Through our AI systems, we aim to contribute to society and enhance our stature as responsible corporate citizens.
+						
+
+
+
+
+
+
+
+Events
+
+
+Samsung AI Forum 2024
+Videos
+
+
+Samsung AI Forum 2023
+Videos
+
+
+
+Samsung AI Forum 2022
+Videos
+Photos
+
+
+
+Samsung AI Forum 2021
+Videos
+Photos
+
+
+
+Samsung AI Forum 2020
+Videos
+Photos
+
+
+
+Samsung AI Forum 2019
+Videos
+Photos
+
+
+Samsung AI Forum 2018
+Videos
+Photos
+
+
+View More
+
+
+
+
+
+
+
+×
+
+Samsung AI Forum 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+  
+
+
+
+
+
+
+
+
+
+
+
+×
+Samsung AI Forum 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Samsung AI Forum 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Samsung AI Forum 2019
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Samsung AI Forum 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Samsung AI Forum 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Samsung AI Forum 2022
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Samsung AI Forum 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Samsung AI Forum 2024
+
+
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+
+
+
+
+
+
+
+
+[Blog] SemEval-2025 Task 8: LLM Ensemble Methods for QA over Tabular Data
+On September 9, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Robust neural codec language modeling with phoneme position prediction for zero-shot TTS
+On August 28, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Predicting High-precision Depth on Low-Precision Devices Using 2D Hilbert Curves
+On August 27, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Fairness in Dysarthric Speech Synthesis: Understanding Intrinsic Bias in Dysarthric Speech Cloning using F5-TTS
+On August 22, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] A Lightweight Hybrid Dual Channel Speech Enhancement System under Low-SNR Conditions
+On August 21, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Robust Unsupervised Adaptation of a Speech Recogniser Using Entropy Minimisation and Speaker Codes
+On August 21, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Efficient Streaming TTS Acoustic Model with Depthwise RVQ Decoding Strategies in a Mamba Framework
+On August 20, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] SPCODEC: Split and Prediction for Neural Speech Codec
+On August 20, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Low Complex IIR Adaptive Hear Through Ambient Filtering for Overcoming Practical Constraints in Earbuds
+On August 19, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog]  Adversarial Deep Metric Learning for Cross-Modal Audio-Text Alignment in Open-Vocabulary Keyword Spotting
+On August 19, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Significance of Time-Frequency Preprocessing for Automatic Ultrasonic Vocalization Classification in Autism Spectrum Disorder Model Detection
+On August 18, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Beyond Hard Sharing: Efficient Multi-Task Speech-to-Text Modeling with Supervised Mixture of Experts
+On August 18, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] DreamCache: Finetuning-Free Lightweight Personalized Image Generation via Feature Caching
+On June 19, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Edge-SD-SR: Low Latency and Parameter Efficient On-device Super-Resolution with Stable Diffusion via Bidirectional Conditioning
+On June 18, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Accurate Scene Text Recognition with Efficient Model Scaling and Cloze Self-Distillation
+On June 17, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] VladVA: Discriminative Fine-tuning of LVLMs
+On June 16, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Augmenting Perceptual Super-Resolution via Image Quality Predictors
+On June 13, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion
+On June 12, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] From AI Concept to Real World:  AI-powered Modem for Next Samsung Cellular Networks
+On May 26, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Trick-GS: A Balanced Bag of Tricks for Efficient Gaussian Splatting
+On May 19, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Exploring Simple Siamese Network for High-Resolution Video Quality Assessment
+On May 2, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Unified Arbitrary-Time Video Frame Interpolation and Prediction
+On May 2, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Interview] A New and Enhanced Gallery Experience: How Samsung Transformed Photo Searching and Video Editing With the Galaxy S25 Series
+On April 30, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] AI-Driven Modem Innovations for Shaping the Future RAN
+On April 28, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] On-device hand model for robust gesture detection
+On April 24, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] OAMaskFlow: Occlusion-Aware Motion Mask for Scene Flow
+On April 18, 2025
+
+
+
+
+
+
+
+
+
+
+
+Designing With the User in Mind: Inside the Advanced Research Behind Audio Eraser
+On April 17, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] MambaNext: An Enhanced Backbone Network with Focus Linear Attention
+On April 17, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Globally Normalizing the Transducer for Streaming Speech Recognition
+On April 16, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Find Details in Long Videos: Tower-of-Thoughts and Self-Retrieval Augmented Generation for Video Understanding
+On April 15, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Diffusion based Text-to-Music Generation with Global and Local Text based Conditioning
+On April 14, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Single-Channel Distance-Based Source Separation for Mobile GPU in Outdoor and Indoor Environments
+On April 11, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Text-Aware Adapter for Few-Shot Keyword Spotting
+On April 10, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Vision-Language Model Guided Semi-Supervised Learning for No-Reference Video Quality Assessment
+On April 9, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Better Exploiting Spatial Separability in Multichannel Speech Enhancement with an Align-and-Filter Network
+On April 8, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Evaluation of Wearable Head BCG for PTT Measurement in Blood Pressure Intervention
+On April 7, 2025
+
+
+
+
+
+
+
+
+
+
+
+Samsung R&D Institute Japan Special Interview Report
+On April 7, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] CheapNVS: Real-Time On-Device Novel View Synthesis for Mobile Applications
+On March 19, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] FaceMe: Robust Blind Face Restoration With Personal Identification
+On February 25, 2025
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Off-Policy Selection for Optimizing Ad Display Timing in Mobile Games (Samsung Instant Plays)
+On January 16, 2025
+
+
+
+
+
+
+
+
+
+
+
+Five Samsung Electronics Researchers Named IEEE Fellows
+On December 17, 2024
+
+
+
+
+
+
+
+
+
+
+
+[AI Leadership] ③ Samsung's AI Strategy Centered on Customer Experiences
+On December 9, 2024
+
+
+
+
+
+
+
+
+
+
+
+[AI Leadership] ① Revolutionizing Everyday Devices Using On-Device AI
+On December 9, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] SOI: Scaling Down Computational Complexity by Estimating Partial States of the Model
+On December 4, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] EnsIR: An Ensemble Algorithm for Image Restoration via Gaussian Mixture Models
+On November 18, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Blind Face Video Restoration with Temporal Consistent Generative Prior and Degradation-Aware Prompt
+On November 6, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Editorial] The New Future Shaped by AI
+On November 6, 2024
+
+
+
+
+
+
+
+
+
+
+
+Samsung Electronics Hosts Samsung AI Forum 2024
+On November 5, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Is Your HD Map Constructor Reliable  under Sensor Corruptions?
+On October 29, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] HIMap: HybrId Representation Learning for End-to-end Vectorized HD Map Construction
+On October 24, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] SAMSEMO: New Dataset for Multilingual and Multimodal Emotion Recognition
+On October 22, 2024
+
+
+
+
+
+
+
+
+
+
+
+[SDC24] Keynote: A Decade of Innovation and a Journey Toward AI for All
+On October 4, 2024
+
+
+
+
+
+
+
+
+
+
+
+How Machine Translation Team in Samsung R&D Institute Poland contributed to success of Galaxy AI
+On September 17, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] A Unified Approach to Multilingual Automatic Speech Recognition with Improved Language Identification for Indic Languages
+On September 5, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] SummaryMixing makes speech technologies faster and cheaper
+On September 4, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Speech Boosting: Low-Latency Live Speech Enhancement for TWS Earbuds
+On September 4, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Speaker Personalization for Automatic Speech Recognition using Weight-Decomposed Low-Rank Adaptation
+On September 3, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] High Fidelity Text-to-Speech Via Discrete Tokens Using Token Transducer and Group Masked Language Model
+On September 3, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] NL-ITI: Enhancing LLM Truthfulness Through Internal Modifications
+On September 2, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Relational Proxy Loss for Audio–Text based Keyword Spotting
+On September 2, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Handwriting Enhancement: Recognition-Based and Recognition-Independent Approaches for On-device Online Handwritten Text Alignment
+On August 22, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Sentimental and Object-Preserving On-Device AI Wallpaper
+On August 19, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] UPR-Net: A Unified Pyramid Recurrent Network for Video Frame Interpolation
+On August 1, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] FT-CSR: Cascaded Frequency-Time Method for Coded Speech Restoration
+On July 18, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Object-Centric Representation Learning for Video Scene Understanding
+On July 10, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] A Multi-Stage Framework for Emotion-Cause Pair Extraction in Conversations
+On July 9, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Learning Representations from Explainable and Connectionist Approaches for Visual Question Answering
+On July 8, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] MR-VNet: Media Restoration Using Volterra Networks
+On June 24, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] FFF: Fixing Flawed Foundations in Contrastive Pre-training Results in Very Strong Vision-Language Models
+On June 19, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Multiscale Vision Transformers Meet Bipartite Matching for Efficient Single-Stage Action Localization
+On June 17, 2024
+
+
+
+
+
+
+
+
+
+
+
+Samsung Electronics Partners with SNU to Launch Joint AI Research Center
+On June 17, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Achievement-based Training Progress Balancing for Multi-Task Learning
+On May 21, 2024
+
+
+
+
+
+
+
+
+
+
+
+Celebrating SRC-B's Multiple Championships at the CVPR 2024 Competitions
+On May 16, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] AI Technology's Foray Into The Enchanting World of Video Compression
+On May 16, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Robust Speaker Personalisation Using Generalized Low-Rank Adaptation for Automatic Speech Recognition
+On April 29, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Object-Conditioned Bag of Instances for Few-Shot Personalized Instance Recognition
+On April 26, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Interview] Fast, Lightweight and On-Device AI: How Samsung Research Built AI Features That Translate in Real Time
+On April 26, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] A Class-Balanced Soft-Voting System for Detecting Multi-Generator Machine-Generated Text
+On April 25, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Dynamic Video Frame Interpolator with Integrated Difficulty Pre-Assessment
+On April 24, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Towards LLM-Based Automatic Boundary Detection for Human-Machine Mixed Text
+On April 24, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Enabling Device Control Planning Capabilities of Small Language Model
+On April 22, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] FSPEN: An Ultra-Lightweight Network for Real Time Speech Enhancement
+On April 19, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Latent Filling: Latent Space Data Augmentation for Zero-shot Speech Synthesis
+On April 17, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] MELS-TTS: Multi-Emotion Multi-Lingual Multi-Speaker Text-To-Speech System via Disentangled Style Tokens
+On April 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] A Modular System for Enhanced Robustness of Multimedia Understanding Networks via Deep Parametric Estimation
+On April 15, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog]  Finding Waldo: Towards Efficient Exploration of NeRF Scene Spaces
+On March 21, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Locality Enhanced Dynamic Biasing And Sampling Strategies For Contextual ASR
+On March 8, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Consistency Based Unsupervised ASR Personalisation
+On March 6, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Enabling Light-Weight AI-based Positioning by Log Signature Transform of Wireless Channels
+On February 28, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Multi-Modal Beam Selection: A Transfer Methodology for Multi-Frequency
+On February 28, 2024
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Back Transcription as a Method for Evaluating Robustness of Natural Language Understanding Models to Speech Recognition Errors
+On December 11, 2023
+
+
+
+
+
+
+
+
+
+
+
+Samsung AI Forum 2023 Day 2: Discussing Technological Trends and the Future of Generative AI
+On November 13, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] A Model for Every User and Budget: Label-Free and Personalized Mixed-Precision Quantization
+On November 7, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Personalized Sound Enhancement: A Journey From Idea To Deployment Into The Hands Of Millions Of Samsung Users
+On October 13, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Online Continual Learning in Keyword Spotting for Low-Resource Devices via Pooling High-Order Temporal Statistics
+On September 26, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Hierarchical Timbre-Cadence Speaker Encoder for Zero-shot Speech Synthesis
+On September 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] A More Accurate Internal Language Model Score Estimation for the Hybrid Autoregressive Transducer
+On September 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Website Clustering via Transformer Context Models
+On September 8, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Multilingual Open Custom Keyword Spotting Testset
+On August 30, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] RandMasking Augment: A Simple and Randomized Data Augmentation for Acoustic Scene Classification
+On August 1, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Short-Term Memory Convolutions
+On July 28, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Prompt Based and Cross-Modal Retrieval Enhanced Visual Word Sense Disambiguation
+On July 25, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] An AL-R Model for Multilingual Complex Named Entity Recognition
+On July 24, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Pretrained Bidirectional Distillation for Machine Translation
+On July 19, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Self-Supervised Accent Learning for Under-Resourced Accents Using Native Language Data
+On July 12, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] TrickVOS: A Bag of Tricks for Video Object Segmentation
+On July 5, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2023 Series #7] Zero-Shot Everything Sketch-Based Image Retrieval, and in Explainable Style
+On June 21, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2023 Series #6] LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models
+On June 14, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2023 Series #5] MobileVOS: Real-Time Video Object Segmentation Contrastive Learning Meets Knowledge Distillation
+On June 9, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2023 Series #4] A Unified Pyramid Recurrent Network for  Video Frame Interpolation
+On June 7, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2023 Series #3] GENIE: Show Me the Data for Quantization
+On May 31, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Dynamic VFI (Video Frame Interpolation) with Integrated Difficulty Pre-Assessment
+On May 26, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2023 Series #2] StepFormer: Self-supervised Step Discovery and Localization in Instructional Videos
+On May 24, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2023 Series #1] SPIn-NeRF: Multiview Segmentation and Perceptual Inpainting with Neural Radiance Fields
+On May 17, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] GOHSP: A Unified Framework of Graph and Optimization-based  Heterogeneous Structured Pruning for Vision Transformer
+On April 27, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] LP-IOANet: Efficient High Resolution Document Shadow Removal
+On April 4, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Multi-Stage Progressive Audio Bandwidth Extension
+On February 8, 2023
+
+
+
+
+
+
+
+
+
+
+
+Samsung Electronics Showcases Award-Winning Machine Translation at WMT
+On January 30, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Enabling Accurate Positioning in NLOS Scenarios by Hybrid Machine Learning with Denoising and Inpainting
+On January 25, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] FlowFormer: A Transformer Architecture for Optical Flow
+On January 12, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] FedMargin - Federated Learning via Attentive Margin of Semantic Feature Representations
+On January 5, 2023
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Task Generalizable Spatial and Texture Aware Image Downsizing Network
+On December 14, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Resolving Privacy-Personalization Paradox
+On November 9, 2022
+
+
+
+
+
+
+
+
+
+
+
+Samsung Unveils Vision for the Future of AI at Samsung AI Forum 2022
+On November 8, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] pMCT - Patched Multi-Condition Training
+On November 7, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [INTERSPEECH 2022 Series #6] Multi-stage Progressive Compression of Conformer Transducer for On-device Speech Recognition
+On October 27, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [INTERSPEECH 2022 Series #5] Prototypical Speaker-Interference Loss for Target Voice Separation Using Non-Parallel Audio Samples
+On October 20, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Enhanced Bi-directional Motion Estimation for Video Frame Interpolation
+On October 18, 2022
+
+
+
+
+
+
+
+
+
+
+
+Under the themes "Shaping the Future with AI and Semiconductor" and "Scaling AI for the Real World," renowned experts will share the latest AI research achievements
+On October 18, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [INTERSPEECH 2022 Series #4] Cross-Modal Decision Regularization for Simultaneous Speech Translation
+On October 13, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [INTERSPEECH 2022 Series #3] Bunched LPCNet2: Efficient Neural Vocoders Covering Devices from Cloud to Edge
+On October 6, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [INTERSPEECH 2022 Series #2]FedNST: Federated Noisy Student Training for Automatic Speech Recognition
+On September 29, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [INTERSPEECH 2022 Series #1] Human Sound Classification based on Feature Fusion Method with Air and Bone Conducted Signal
+On September 22, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Detecting Depression, Anxiety and Mental Stress in One Sequential Model with Multi-task Learning
+On August 18, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Task-Driven and Experience-Based Question Answering Corpus for In-Home Robot Application in the House3D Virtual Environment
+On August 8, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Dynamic Multi-scale Network for Dual-pixel Images Defocus Deblurring with Transformer
+On August 5, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2022 Series #6] Gaussian Process Modeling of Approximate Inference Errors for Variational Autoencoders
+On July 20, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2022 Series #5] P>M>F: The Pre-Training, Meta-Training and Fine-Tuning Pipeline for Few-Shot Learning
+On July 13, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2022 Series #2] Day-to-Night Image Synthesis for Training Nighttime Neural ISPs
+On June 22, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] TFPSNet Time-Frequency Domain Path Scanning Network for Speech Separation
+On June 16, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] [CVPR 2022 Series #1] Probabilistic Procedure Planning in Instructional Videos
+On June 15, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Extending NNStreamer: Pipeline Framework and Among-Device AI
+On June 7, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] MetaCC: A Channel Coding Benchmark for Meta-Learning
+On June 2, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Drop-DTW: A Differentiable Method for Sequence Alignment that can Handle Outliers
+On May 18, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Empowering the Telecommunication System with Reinforcement Learning
+On April 8, 2022
+
+
+
+
+
+
+
+
+
+
+
+Samsung Ranks 1st in the Top Semantic Evaluation International Competition
+On April 8, 2022
+
+
+
+
+
+
+
+
+
+
+
+Dual-Pixel Image Defocus Deblurring Technique at the ICME 2022
+On April 8, 2022
+
+
+
+
+
+
+
+
+
+
+
+Samsung's New Predictable Sparse Attention Technique
+On April 8, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Feature Kernel Distillation
+On April 7, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Mobile Twin Recognition
+On March 30, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog]  Using sound to add scale to computer vision
+On March 22, 2022
+
+
+
+
+
+
+
+
+
+
+
+Samsung AI Center – Montreal Researchers Win the Best Paper Award at IEEE GLOBECOM 2021
+On March 7, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] FjORD: Fair and Accurate Federated Learning under heterogeneous targets with Ordered Dropout
+On March 7, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Smart at what cost? Characterising Mobile DNNs in the wild
+On March 7, 2022
+
+
+
+
+
+
+
+
+
+
+
+[CES 2022] Live Video from Las Vegas
+On January 7, 2022
+
+
+
+
+
+
+
+
+
+
+
+[CES 2022] Video : Virtual Booth Tour
+On January 6, 2022
+
+
+
+
+
+
+
+
+
+
+
+[CES 2022] Samsung Research's New Tech Trio ① AI Avatar – Who is he/she?
+On January 6, 2022
+
+
+
+
+
+
+
+
+
+
+
+[CES 2022] Video : Digital, meet Physical
+On January 6, 2022
+
+
+
+
+
+
+
+
+
+
+
+[CES 2022] Experts Behind Samsung's Newest Products and Technologies Discuss Innovating for the Future ②
+On January 6, 2022
+
+
+
+
+
+
+
+
+
+
+
+[CES 2022] Samsung Introduces a Futuristic Lifestyle with Innovative Technology, Connecting the Customer Experience at CES 2022
+On January 5, 2022
+
+
+
+
+
+
+
+
+
+
+
+[Samsung AI Forum 2021] Advancing AI Technologies That Can Help Humankind
+On November 8, 2021
+
+
+
+
+
+
+
+
+
+
+
+[Blog] ASAM: Adaptive Sharpness-Aware Minimization for Scale-Invariant Learning of Deep Neural Networks
+On November 4, 2021
+
+
+
+
+
+
+
+
+
+
+
+[Samsung AI Forum 2021] Day 2: Harnessing AI To Improve People's Lives
+On November 2, 2021
+
+
+
+
+
+
+
+
+
+
+
+Changing the Daily Life of the Future: SDC21 Experts Discuss Next-Generation Technologies
+On October 27, 2021
+
+
+
+
+
+
+
+
+
+
+
+Samsung AI Forum 2021 Explores Future of AI Research
+On October 6, 2021
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Meta-Learning in Neural Networks
+On September 2, 2021
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Zero-Cost Neural Architecture Search
+On August 16, 2021
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Leveraging the Availability of Two Cameras for Illuminant Estimation​
+On July 13, 2021
+
+
+
+
+
+
+
+
+
+
+
+Open-Source Project for MPEG-5 EVC (Essential Video Coding)
+On July 8, 2021
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Learning to Align Temporal Sequences
+On June 21, 2021
+
+
+
+
+
+
+
+
+
+
+
+SRC-B Won the 1st Place in CVPR-NAS 2021 Competition
+On June 18, 2021
+
+
+
+
+
+
+
+
+
+
+
+This year SRPOL takes WAT 2021
+On June 2, 2021
+
+
+
+
+
+
+
+
+
+
+
+[Blog] VIDEO SCALENET (VSN) – TOWARDS THE NEXT GENERATION VIDEO STREAMING SERVICE
+On May 24, 2021
+
+
+
+
+
+
+
+
+
+
+
+Samsung R&D Institute China-Beijing Take Top Places in Prominent AI Challenges
+On April 27, 2021
+
+
+
+
+
+
+
+
+
+
+
+[Blog] Towards explainable representations for natural language understanding
+On April 20, 2021
+
+
+
+
+
+
+
+
+
+
+
+Leveraging Human Intervention for Continuously Personalized AI Robot: UX Innovation Lab at Samsung Research Wins HCI Korea 2021 Best Paper Award
+On March 15, 2021
+
+
+
+
+
+
+
+
+
+
+
+"When deep learning meets logic": a three days virtual workshop on neural-symbolic integration sponsored by Samsung Research.
+On January 15, 2021
+
+
+
+
+
+
+
+
+
+
+
+Samsung's head researcher wants human–AI interactions to be a multisensory experience
+On December 9, 2020
+
+
+
+
+
+
+
+
+
+
+
+Samsung AI Forum 2020: Humanity Takes Center Stage in Discussing the Future of AI
+On November 10, 2020
+
+
+
+
+
+
+
+
+
+
+
+[Samsung AI Forum 2020] Day 2: Putting People at the Center of AI Development
+On November 3, 2020
+
+
+
+
+
+
+
+
+
+
+
+'Samsung AI Forum 2020' Explores the Future of Artificial Intelligence
+On October 6, 2020
+
+
+
+
+
+
+
+
+
+
+
+LF AI Foundation Announces NNStreamer as Its Newest Incubation Project
+On May 11, 2020
+
+
+
+
+
+
+
+
+
+
+
+Experts Discuss Taking AI to the Next Level at Samsung AI Forum 2019
+On November 8, 2019
+
+
+
+
+
+
+
+
+
+
+
+[Hearing from an AI Expert – 6] AI and 5G: A Two-Pronged Revolution
+On October 24, 2019
+
+
+
+
+
+
+
+
+
+
+
+[Hearing from an AI Expert – 5] At the Intersection of Robotics and Innovation
+On October 18, 2019
+
+
+
+
+
+
+
+
+
+
+
+[Hearing from an AI Expert – 4] On-device AI Breathes Life into IoT
+On October 11, 2019
+
+
+
+
+
+
+
+
+
+
+
+[Hearing from an AI Expert – 3] Vision is About Understanding the World
+On October 4, 2019
+
+
+
+
+
+
+
+
+
+
+
+[Hearing from an AI Expert – 2] How AI Will Change the World
+On September 27, 2019
+
+
+
+
+
+
+
+
+
+
+
+[Hearing from an AI Expert – 1] The Age of AI is Coming
+On September 20, 2019
+
+
+
+
+
+
+
+
+
+
+
+Samsung Named Among Winners at DCASE 2019 Challenge
+On July 26, 2019
+
+
+
+
+
+
+
+
+
+
+
+Samsung Electronics Sweeps Coveted Global AI Awards
+On November 23, 2018
+
+
+
+
+
+
+
+
+
+
+
+Samsung Electronics Joins ‘Partnership on AI’ for the Future of AI Safety
+On November 9, 2018
+
+
+
+
+
+
+
+
+
+
+
+Samsung Electronics Opens another AI Center in Montreal and Expands AI Research Presence in North America
+On October 18, 2018
+
+
+
+
+
+
+
+
+
+
+
+Samsung AI Forum Offers a Roadmap for the Future of AI
+On September 18, 2018
+
+
+
+
+
+
+
+
+
+
+
+Samsung Artificial Intelligence (AI) Forum 2018
+On September 14, 2018
+
+
+
+
+
+
+
+
+
+
+
+Samsung Electronics Opens a New AI Center in New York City
+On September 9, 2018
+
+
+
+
+
+
+
+
+
+
+
+[Interview]“With Samsung’s Unique Strengths, We Are Developing a User-Oriented AI Algorithm”
+On July 9, 2018
+
+
+
+
+
+
+
+
+
+
+
+Samsung Electronics Wins at Two Top Global AI Machine Reading Comprehension Challenges
+On July 9, 2018
+
+
+
+
+
+
+
+
+
+
+
+World-Renowned AI Scientists, Dr. Sebastian Seung and Dr. Daniel Lee Join Samsung Research
+On June 4, 2018
+
+
+
+
+
+
+
+
+
+
+
+Toronto Lab to Help Lead Global AI Research & Development; Joins UK, and Russia as Part of a Network of Global AI Centres
+On May 24, 2018
+
+
+
+
+
+
+
+
+
+
+
+Samsung Opens Global AI Centers in the U.K., Canada and Russia
+On May 22, 2018
+
+
+
+
+
+
+
+
+
+
+
+Samsung Advocates for Collaborative AI Research at 2018 Artificial Intelligence Summit
+On January 19, 2018
+
+
+
+
+
+
+
+
+
+
+
+Samsung Discusses the Future of AI with Leading Academics, Industry Leaders
+On September 28, 2017
+
+
+
+
+
+
+View More
+
+
+
+
+
+
+
+
+
+
+
+
+Publications
+
+
+
+
+
+
+Careers
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms & Use
+Privacy Policy
+Copyright © 2018-2025 SAMSUNG All Rights Reserved.
+
+
+
+
+
+SNS
+
+
+Twitter
+
+
+Linkedin
+
+
+Facebook
+
+
+
+
+
+Family Site
+
+Site View
+
+Samsung
+Samsung Newsroom
+Samsung Open Source
+Samsung Developers
+
+
+
+
+
+Top
+
+
+
+
+
+
+
+
+
+
+
+
+
+

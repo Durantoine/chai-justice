@@ -1,0 +1,521 @@
+
+
+
+
+
+
+Principles for Digital Development
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Principles for Digital Development
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+Menu
+
+ 
+
+
+HOME
+PRINCIPLES
+
+Understand the existing ecosystem
+Share, reuse, and improve
+Design with people
+Design for inclusion 
+Build for sustainability
+Establish people-first data practices
+Create open and transparent practices
+Anticipate and mitigate harms
+Use evidence to improve outcomes
+
+
+ENDORSERS
+RESOURCES
+
+
+
+
+
+
+
+
+
+
+
+
+Home 
+
+
+
+
+
+
+The Principles for Digital Development: a compass for those working to promote sustainable and inclusive development in today’s complex digital landscape 
+
+
+
+
+
+
+EXPLORE THE PRINCIPLES
+
+
+
+
+
+
+
+
+
+
+
+ The Principles for Digital Development serve as a compass for those working to promote sustainable and inclusive development in today’s complex digital landscape. Using these Principles as a starting point, policymakers, practitioners, and technologists will be better equipped to ensure that all people can benefit from digital initiatives and from the broader digital society. 
+
+
+
+Originally developed in 2014, the Principles are officially endorsed by more than 300 organizations, including donors, international organizations, and civil society organizations. During the first decade (2014-2024), they widely influenced funder procurement policies and the design and implementation of development programs. 
+
+
+
+In 2024, the Principles were updated in consultation with a diverse set of individuals and organizations. Through this effort, the community expressed the need for the Principles to better reflect that people today largely interact with technology outside of development programs. Today, all people – even those who do not yet have access to or use technology – live in societies that are increasingly shaped by digital ecosystems that can bring both immense benefit and immense harm. Therefore, the refreshed Principles recognize the need for radical inclusion and local ownership; elevate issues arising from the generation and use of digital data; emphasize that open approaches to innovation can support the realization of the nine Principles; and intentionally speak to the original audience while resonating further with the full diversity of individuals and organizations that exert power over the design, deployment, and governance of digital systems and solutions. The Principles are mutually reinforcing, as they emphasize the actions needed to ensure no one is left behind in an increasingly digital world.  
+
+
+
+Ultimately, when designing and implementing a policy, solution, system, or intervention, endorsers of these Principles commit, at minimum, to do no harm, and at best, to ensure their work maximizes the agency of people and communities to drive their own development. To achieve these objectives, each endorser will define how these Principles can be operationalized in their work, sphere of influence, and specific initiative.  Read the Principles in العربية , 中文, Español, Français, Kanuni, or ภาษาไทย.Want to contribute a translation of the Principles? Start with the English version here. 
+
+
+
+
+
+
+
+Principles 
+
+
+
+
+
+
+
+
+Understand the existing ecosystem 
+
+
+
+
+
+Share, reuse,  and improve 
+
+
+
+
+
+Design with people 
+
+
+
+
+
+
+
+
+
+Design for inclusion 
+
+
+
+
+
+Build for sustainability 
+
+
+
+
+
+Establish people-first data practices 
+
+
+
+
+
+
+
+
+
+Create open and transparent practices 
+
+
+
+
+
+Anticipate and mitigate harms 
+
+
+
+
+
+Use evidence to improve outcomes 
+
+
+
+
+
+
+
+
+
+
+
+2000s
+
+
+Donor and multilateral representatives begin discussing common challenges in implementing digital development projects
+
+
+
+
+2009
+
+
+UNICEF launches its Innovation Principles
+
+
+
+
+2010
+
+
+The Greentree Principles are created out of a concerted effort to capture the most important lessons learned by the digital development community
+
+
+
+
+
+
+2012
+
+
+UK Government develops its Digital Service Design PrinciplesBuilding on and inspired by these previous principles and consensus from the digital development community - The Principles for Digital Development are created
+
+
+
+
+2014
+
+
+The Principles for Digital Development Working Group, made up of implementers and development practitioners in addition to donors, is formed to gather community insights, recommendations, and challenges
+
+
+
+
+2015
+
+
+USAID launches an endorsement campaign for the Principles - with 54 international organizations endorsing in the first year
+
+
+
+
+2022
+
+
+The Principles reach a major milestone with 300 endorsers
+
+
+
+
+2023
+
+
+The Freedom Online Coalition introduces the Donor Principles for Human Rights in the Digital AgeThe consultative process begins for refreshing the Principles to future-proof them for the next decade
+
+
+
+
+2024
+
+
+The newly refreshed Principles for Digital Development are launched at ICT4D Conference
+
+
+
+
+
+
+
+
+
+
+
+Frequently asked questions
+ 
+
+
+
+
+
+
+
+ What are the Principles for Digital Development?
+
+ 
+
+
+
+
+
+The Principles for Digital Development are nine living guidelines that are designed to serve as a compass for those working to promote sustainable and inclusive development in today’s complex digital landscape. The Digital Principles were created in a community-driven effort. All are encouraged to use them, including policymakers, practitioners, and technologists. 
+
+
+
+
+
+
+Who created the Principles, and when?
+
+ 
+
+
+
+
+
+In the late 2000s, donors and implementing organizations began to recognize that digital development programs were fragmented, uncoordinated, siloed, and struggled to scale or sustain themselves in the long term. To address these challenges, donors and implementers began discussing how to understand and share best practices in the use of digital tools in international development. These conversations led to the UNICEF Innovation Principles of 2009, the Greentree Principles of 2010, and the UK Design Principles, amongst others. 
+
+
+
+
+
+
+What does it mean to endorse the Principles?
+
+ 
+
+
+
+
+
+Endorsement means that an organization officially agrees to use the Digital Principles to guide its work. Ultimately, when designing and implementing a policy, solution, system, or intervention, endorsers of these Principles commit, at minimum, to do no harm, and at best, to ensure their work maximizes the agency of people and communities to drive their own development. To achieve these objectives, each endorser will define how these Principles can be operationalized in their work, sphere of influence, and specific initiative. 
+
+
+
+
+
+
+Why are the Principles relevant to my work?
+
+ 
+
+
+
+
+
+These Principles aim to be broadly relevant. Today, all people – even those who do not yet have access to or use technology – live in societies that are increasingly shaped by digital ecosystems that can bring both immense benefit and immense harm. More and more, technology is being integrated into service delivery across sectors such as education, health, agriculture, finance, and humanitarian assistance, amongst others. The refreshed Principles elevate issues that arise in all of these sectors, including the need for radical inclusion and local ownership; the need to manage risks assocated with digital data; and the need to anticipate and mitigate potential harm. Where the Principles are not yet specific enough to feel relevant to your work, we encourage you to use these as the basis for creating more specific guidance and training materials. 
+
+
+
+
+
+
+Are the Principles listed in priority or process order?
+
+ 
+
+
+
+
+
+No, the Digital Principles are not intended to be implemented in any particular order. You can start with any of the Principles, depending on what seems most useful for your initiative. The current order lends itself to serve as a design checklist in the early phases of creating a new project, policy, or institution. 
+
+
+
+
+
+
+How can I use the Principles in my own work?
+
+ 
+
+
+
+
+
+The Principles can be useful in many different ways, depending on the specifics of your project or program. They may serve as a design checklist in the early phases of creating a new project, policy, or institution, or they may serve as a way to kick-off critical conversations as to how to maximize impact and minimize risks to people and communities. We invite you to help develop the body of knowledge around putting the Principles into practice. The Principles are a community-owned resource and we encourage everyone in the digital development community to share their learnings and help us to continue to improve this guidance to drive lasting positive impact. 
+
+
+
+
+
+
+What will happen to the archived material from the original Principles? 
+
+ 
+
+
+
+
+
+The Digital Principles team is working on opening the archive and making those resources available to the community. We also encourage the broader community to create and share updated resources that reflect the refreshed Principles.  
+
+
+
+
+
+
+How do these Principles relate to the UN DPI Safeguards Framework?
+
+ 
+
+
+
+
+
+The DPI Safeguards Framework serves as a comprehensive guide for governments, civil society organizations, policymakers, and practitioners to ensure that Digital Public Infrastructure (DPI) implementations are both safe and inclusive. With over 300 process and practice recommendations, the framework offers a structured approach to addressing the diverse risks that emerge across the lifecycle of DPI projects. By providing a common starting point for risk assessment and mitigation, the framework equips stakeholders with the necessary tools to identify and address potential challenges related to inclusion, safety, and structural vulnerabilities, fostering the development of resilient and equitable digital ecosystems.The DPI Safeguards Framework are aligned with the Principles of Digital Development and can complement these globally recognized best practices by providing actionable guidance to support the principles. The framework’s recommendations are designed to help various stakeholders proactively identify and address potential risks at different stages of DPI implementation, ensuring that the values of inclusivity, security, and structural integrity are upheld. By embedding these safeguards into the design and deployment of DPI, the framework helps drive sustainable, people-centered digital transformation while advancing the broader objectives of the Principles of Digital Development. 
+
+
+
+
+
+
+How can I get in touch with the Principles team?
+
+ 
+
+
+
+
+
+You can email us at [email protected]. We look forward to hearing from you.  
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Join the Digital Principles Community
+* indicates required
+Email Address *First Name Last Name 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

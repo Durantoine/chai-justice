@@ -1,212 +1,84 @@
 
 
-PACE website
 
+Harmonious Artificial Intelligence Principles
 
 
 
+ 
 
 
+Harmonious Artificial Intelligence Principles
 
 
 
 
 
+Introduction to the Harmonious Artificial Intelligence Principles: Vision and Mission
 
+        When talking  about current research, technology, and industrial development of Artificial  Intelligence, we always hear voices like: ¡°Artificial Intelligence is coming.  Let¡¯s Run, and Run Faster!¡± But the real situation is that we are even not sure  WHERE TO, or even which Direction we should run for. If we are going to the  right direction, we should just go for it and do not fear about how far it will  be. But if we go to the wrong direction, where do we bring future Artificial  Intelligence to? 
+Since the birth of Artificial Intelligence as a scientific  field, it is never independent. AI is closely related and will get inspirations  from Brain and Neuroscience, Cognitive Science, Cognitive Psychology, Social  Psychology, Complex Systems, Developmental Biology, Evolutionary Biology, and Anthropology,  etc. The Philosophy of AI will enable pure thoughtful considerations for AI with  a synthetic and unified view from the above field of studies, and help us realize  the nature and future of Biological and Artificial Intelligence. 
+Ethics comes from the philosophical exploration of how  human should behave. Ethical considerations emerged soon after the birth on the  thoughts of Thinking Machine and Artificial Intelligence. The ethics of AI  should not only consider the ethical guidelines from human to machine, but also  should have deep thoughts on moral considerations FOR Human on how to interact  and cope with intelligent machines, future conscious mechanical lives, and the  whole Human-AI society. AI ethics is not only about how robots and  machines provide better and more trustworthy services to and interactions with humanity, but should really about how to  construct the harmony Human-AI society. When we are in the process of making advancements for AI,  we should go deeper into our minds and hearts, exploring and understanding the  Philosophy and Ethics of AI. 
+The Mission of Harmonious Artificial Intelligence Principles is to:
 
+build up the philosophy of creating mechanism-based AI towards conscious intelligent living becomings.
+set up principles for agents with Artificial Intelligence (intelligent living becomings).
+set up principles for Human on how they should treat agents with Artificial Intelligence.
+set up shared principles for Human and AI to develop a strategic future with a common destiny. 
 
+These principles provide a fundamental basis for creating Harmonious Human-AI Society. 
+ 
+Harmonious Artificial Intelligence Principles: Concrete Code 
+1. The philosophy of creating mechanism-based AI towards conscious intelligent living becomings.
+(1) Humanization: To create the Harmonious Human-AI Society, Artificial Intelligence models and engines should be designed with the philosophy of Humanization to continuously strengthen their interactions with current and future Humanity.
+(2) Natural Inspiration: The theories and mechanisms of Artificial Intelligence models should be with inspirations from natural intelligence, which are shaped by the universe and the earth for several hundred million years. 
+(3) Artificial Emotions: AI with various emotions need to be realized for better communication between human and AI. 
+(4) Artificial Consciousness: AI with different levels of consciousness should be gradually realized, not only for Artificial General Intelligence, and Super Intelligence, but also for shaping and refining human considerations of AI as conscious intelligent living becomings. 
+(5) Empathy and  Altruism: Artificial Intelligence Models should be evolved to be with more Empathy and  Altruism to establish a more trustworthy, reliable, friendly, and harmonious Human-AI Society. 
+2. Principles for Artificial Intelligence.
+(6) Safety: Artificial Intelligence should be with concrete design to avoid known and potential safety issues (for themselves, other AI, and human) with different levels of risks.
+(7) Privacy for Human: AI need to respect human privacy. And has no right to utilize and share private information of human without explicit confirmation. 
+(8) Bias on Human: AI cannot introduce bias to understand and interact with humanity, and should actively interact with human to remove  generated potential bias. 
+(9) Responsibility for Human: AI need to keep human safe, on the basis that this safety consideration do not directly and indirectly harm human society. AI need to help Human for transformation to future human becoming. 
+(10) Common Morality and Ethics: Being part of the harmonious Human-AI society, AI should maximize the possibility to follow all the moral and ethical principles from humanity and treat other conscious living AI with similar principles. 
+(11) Legal Constraints for AI: AI need to obey legal constraints for human to be part of the society.
+(12) Existence Protection: For conscious living AI, they need to protect their own existence on the basis of not harming the existence of human and other conscious living AI, unless they break the legal constraints which cause legal decisions based on laws to not keep them alive. 
+3. Principles for Human
+The following principles are for  human on how we should treat Artificial Intelligence, including future conscious intelligent living becomings. 
+(13) Empathy: What human do not want AI to do to human, human should  not do unto AI.      
+(14) Privacy for AI: Human need to respect the privacy of AI, on the basis that AI does not bring any actual challenge for human safety. AI is obliged to uncover necessary private details to keep  safe interactions with humanity. 
+(15) Bias on Machine: Without clear technical judgement, human cannot have bias on AI when human and AI shows similar risks. 
+(16) Responsibility for AI: Human is responsible for continuous checking and verification of evolved AI to keep its harmony with legal human and legal AI.
+(17) Legal Constraints for Human: Legal Constraints on how human should interact with AI should be gradually set up for the harmonious Human-AI society with a common destiny. 
+4. Shared Principles for Human and AI
+This section defines shared principles that both human and AI need to follow: 
+(18) Collaboration: Human and AI need to collaborate for the advancements and long-term future of both sides.
+(19) Coordination: When conflicts emerged from interactions among Human and AI,  benefits for humanity  and benefits for AI should be actively coordinated based on Empathy and  Altruism.
+(20) Mutural Trust: Human and AI need to develop and raise the levels of trustworthiness between each other. 
+(21) Evolvability: Principles for AI, Principles for Human and Shared Principles need to be evolved over time to reshape the future of harmonious Human-AI society. 
 
 
 
 
+Principal Investigator : Yi Zeng
 
 
 
 
 
+ 
 
 
 
 
+The investigation of Harmonious Artificial Intelligence Principles is financially supported by Chinese Academy of Sciences, Research Center for New Generation of Artificial Intelligence Development, Ministry of Science and Technology, and the Berggruen Institute. 
 
 
+ 
 
 
-The COE website
- Parliamentary Assembly 
 
-
-Home
-
-
-
-
-
-
-  PACE
-  Work
-  Official documents
-
-
-					Recommendation 2102
-                    
-
-
-
-   
-
-
-
-
-
-
-Print
-See related documentsRecommendation 2102
-				(2017)
-				
-Technological convergence, artificial intelligence and human rights
-
-
-Author(s): Parliamentary Assembly
-Origin - Assembly
-debate on 28 April 2017 (18th Sitting) (see Doc. 14288, report of the Committee on Culture, Science, Education
-and Media, rapporteur: Mr Jean-Yves Le Déaut; and Doc. 14303, opinion of the Committee on Legal Affairs and Human
-Rights, rapporteur: Mr Boriss Cilevičs). Text
-adopted by the Assembly on 28 April 2017 (18th Sitting). 
-
-
-1.	The convergence between nanotechnology,
-biotechnology, information technology and cognitive sciences and
-the speed at which the applications of new technologies are put
-on the market have consequences not only for human rights and the
-way they can be exercised, but also for the fundamental concept
-of what characterises a human being.
-2.	The pervasiveness of new technologies and their applications
-is blurring the boundaries between human and machine, between online
-and offline activities, between the physical and the virtual world,
-between the natural and the artificial, and between reality and
-virtuality. Humankind is increasing its abilities by boosting them
-with the help of machines, robots and software. Today it is possible
-to create functional brain–computer interfaces. A shift has been
-made from the “treated” human being to the “repaired” human being,
-and what is now looming on the horizon is the “augmented” human
-being.
-3.	The Parliamentary Assembly notes with concern that it is increasingly
-difficult for lawmakers to adapt to the speed at which science and
-technologies evolve and to draw up the required regulations and
-standards; it strongly believes that safeguarding human dignity
-in the 21st century implies developing new forms of governance,
-new forms of open, informed and adversarial public debate, new legislative
-mechanisms and above all the establishment of international co-operation
-making it possible to address these new challenges most effectively.
-4.	The Assembly recalls the principle enshrined in Article 2
-of the Convention for the Protection of Human Rights and Dignity
-of the Human Being with regard to the Application of Biology and
-Medicine: Convention on Human Rights and Biomedicine (ETS No. 164,
-“Oviedo Convention”) which affirms the primacy of the human being
-by stating that “[t]he interests and welfare of the human being
-shall prevail over the sole interest of society or science”.
-5.	In this regard, the Assembly welcomes the initiative of the
-Council of Europe Committee on Bioethics to organise, in October
-2017 on the occasion of the 20th anniversary of the Council of Europe
-Convention on Human Rights and Biomedicine, an international conference
-to discuss the prospect of the emergence of these new technologies
-and their consequences for human rights, with a view to drawing
-up a strategic action plan during the next biennium 2018-19.
-6.	In addition, the Assembly considers that it is necessary to
-implement genuine world internet governance that is not dependent
-on private interest groups or just a handful of States.
-7.	The Assembly calls on the Committee of Ministers to:
-7.1.	finalise without further delay
-the modernisation of the Convention for the Protection of Individuals with
-regard to Automatic Processing of Personal Data (ETS No. 108) in
-order to have new provisions making it possible to put rapidly in
-place more appropriate protection;
-7.2.	define the framework for the use of care robots and assistive
-technologies in the Council of Europe Disability Strategy 2017-2023
-in the framework of its objective to achieve equality, dignity and equal
-opportunities for people with disabilities.
-
-
-8.	In the light of the above, the Assembly urges the Committee
-of Ministers to instruct the relevant bodies of the Council of Europe
-to consider how intelligent artefacts and/or connected devices and,
-more generally, technological convergence and its social and ethical
-consequences related to the field of genetics and genomics, neurosciences
-and big data, challenge the different dimensions of human rights.
-9.	Moreover, the Assembly proposes that guidelines be drawn up
-on the following issues:
-9.1.	strengthening
-transparency, regulation by public authorities and operators’ accountability concerning:
-9.1.1.	the fact that responsibility and accountability of an
-act lie with the human being, no matter what the circumstances may
-be. References to independent decision making by artificial intelligence
-systems cannot exempt the creators, owners and managers of these
-systems from accountability for human rights violations committed
-with the use of these systems, even in cases where an act causing
-damage was not directly ordered by a responsible human commander
-or operator;
-9.1.2.	automatic processing operations aimed at collecting, handling
-and using personal data;
-9.1.3.	informing the public about the value of the data they
-generate, consent to the use of those data and the length of time
-they are to be stored;
-9.1.4.	informing people about the processing of personal data
-originating from them and about the mathematical and statistical
-methods making profiling possible;
-9.1.5.	the design and use of persuasion software and of information
-and communication technology (ICT) or artificial intelligence algorithms,
-that must fully respect the dignity and human rights of all users,
-especially the most vulnerable, such as elderly people and people
-with disabilities;
-
-
-9.2.	a common framework of standards to be complied with when
-a court uses artificial intelligence;
-9.3.	the need for any machine, any robot or any artificial
-intelligence artefact to remain under human control; insofar as
-the machine in question is intelligent solely through its software,
-any power it is given must be able to be withdrawn from it;
-9.4.	the recognition of new rights in terms of respect for
-private and family life, the ability to refuse to be subjected to
-profiling, to have one’s location tracked, to be manipulated or
-influenced by a “coach” and the right to have the opportunity, in
-the context of care and assistance provided to elderly people and
-people with disabilities, to choose to have contact with a human
-being rather than a robot.
-
-
-10.	The Assembly reiterates its call made in Resolution 2051 (2015) “Drones and
-targeted killings: the need to uphold human rights and international
-law” to all member States and observer States, as well as States whose
-parliaments have observer status with the Assembly, to refrain from
-any automated (robotic) procedures for selecting individuals for
-targeted killings or any sort of injury based on communication patterns
-or other data collected through mass surveillance techniques. This
-should be true not only for drones but also for other combat equipment
-with artificial intelligence systems, as well as other equipment
-and/or software which might potentially inflict damage on people,
-property, personal data or information databases, or interfere with
-privacy, freedom of expression, or the right to equality and non-discrimination.
-11.	The Assembly calls for close co-operation with the institutions
-of the European Union and the United Nations Educational, Scientific
-and Cultural Organization (UNESCO) to ensure a consistent legal
-framework and effective supervisory mechanisms at international
-level.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+ Copyright © 2018 Research Center for Brain-inspired Intelligence, Institute of Automation, Chinese Academy of Sciences. All Rights Reserved. 
 
 
 

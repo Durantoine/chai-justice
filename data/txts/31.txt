@@ -1,0 +1,821 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AI4Belgium | BOSA
+
+
+
+
+
+
+Aller au contenu principal
+
+
+
+
+
+NLFR
+
+
+
+
+Autres informations et services officiels : www.belgium.be
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Toggle menu
+
+
+
+
+
+
+
+Thèmes
+
+
+
+Travailler dans la fonction publique
+
+
+Recrutement, sélection et certification
+
+
+Carrière et statut
+
+
+Temps de travail, congés et absences
+
+
+Rémunération et avantages
+
+
+Administration du personnel et des salaires
+
+
+Formation et développement
+
+
+Bien-être et prévention
+
+
+À propos de l’administration fédérale
+
+
+Services pour professionnels RH
+
+
+
+
+Marchés publics
+
+
+Notions de base
+
+
+Types de procédures
+
+
+Phases d'un marché
+
+
+Centre de connaissances des marchés
+
+
+Politique d'achat fédérale
+
+
+Commission des marchés publics
+
+
+La facturation électronique
+
+
+Templates
+
+
+Formations
+
+
+Réglementation
+
+
+
+
+Administration numérique
+
+
+Digital Dashboard
+
+
+Améliorer l’expérience des utilisateurs
+
+
+Inclusion et accessibilité numérique
+
+
+Intelligence artificielle et nouvelles technologies
+
+
+Simplification administrative
+
+
+Facturation électronique
+
+
+Coopération nationale et internationale
+
+
+Echange de données
+
+
+Collaboration numérique
+
+
+Nos produits et services
+
+
+
+
+Soutien stratégique
+
+
+Culture de l'organisation
+
+
+Diversité, inclusion et accessibilité
+
+
+Intégrité
+
+
+Gestion de l'organisation
+
+
+Communication
+
+
+Politique RH
+
+
+Leadership
+
+
+Innovation
+
+
+Gestion du changement
+
+
+Chiffres de la fonction publique fédérale
+
+
+
+
+Budget et Comptabilité
+
+
+Budget fédéral     
+
+
+Budget compréhensible
+
+
+Budgets en Belgique
+
+
+Cadre budgétaire européen
+
+
+Comptabilité publique
+
+
+Spending review
+
+
+
+
+
+
+
+Offre
+
+
+
+Formations
+
+
+Réglementation
+
+
+Applications
+
+
+Services
+
+
+Réseaux
+
+
+Évènements
+
+
+Actualités
+
+
+Publications
+
+
+Newsletters
+
+
+Plan du site
+
+
+
+
+
+À propos du SPF BOSA
+
+
+
+
+
+
+
+
+Contact
+
+
+
+
+
+
+
+
+
+
+Rechercher
+
+
+
+Résultats par page
+2550100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AccueilAdministration numériqueIntelligence artificielle et nouvelles technologies 
+
+
+
+
+AI4Belgium
+L’intelligence artificielle (IA) est au centre d’une transformation profonde de notre société et de la « quatrième révolution industrielle ». 
+La technologie en matière d’IA est en constante évolution et le SPF BOSA suit cela de près via AI4Belgium : une coalition qu’elle coordonne et qui rassemble les acteurs de l’IA issus des services publics, du secteur privé, du monde académique et de la société civile, experts et non-experts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Table des matières
+
+
+
+ 
+
+Qu’est-ce que l’IA ?
+
+L’AI Act définit un système d’IA comme : « Un système automatisé qui est conçu pour fonctionner à différents niveaux d'autonomie et peut faire preuve d'une capacité d'adaptation après son déploiement, et qui, pour des objectifs explicites ou implicites, déduit, à partir des entrées qu'il reçoit, la manière de générer des sorties telles que des prédictions, du contenu, des recommandations ou des décisions qui peuvent influencer les environnements physiques ou virtuels ».
+
+
+
+
+ 
+
+ 
+
+
+
+Rejoignez AI4Belgium !
+Rejoignez la coalition en tant que particulier, expert ou organisation et contribuez à développer l'écosystème de l'IA en Belgique !
+Rejoignez-nous
+
+
+
+
+
+
+
+
+ 
+
+Objectifs
+
+
+
+Animer l’écosystème belge des acteurs de l’IA issus du monde académique, du secteur public, du secteur privé, et de la société civile.
+
+Stimuler et soutenir des synergies avec les entités fédérées.
+
+Contribuer au rayonnement de la Belgique, en ce comprises ses régions, sur la carte européenne et internationale de l’IA.
+
+Alimenter le monitoring du plan national de convergence et la réflexion sur la stratégie au sein des différents niveaux de pouvoir.
+
+
+
+
+
+ 
+
+
+Pour ce faire AI4Belgium :
+
+Agit en tant que hub et facilite la mise en relation entre les acteurs pour la réalisation de leurs projets.
+Assure le rôle d’observatoire des acteurs et des tendances technico-économiques de l’IA.
+Maintient un agenda national des activités relatives à l’IA.
+Favorise la communication au sein de l'écosystème.
+Offre une plateforme de consultation des acteurs belges dans le cadre, notamment, d’études ou d’enquêtes.
+Organise des groupes de travail thématiques à l’échelle nationale, favorisant ainsi un large partage d’expérience entre les acteurs et l’identification des principaux défis actuels pour la Belgique, en ce comprises ses régions.
+Organise ou contribue à l’organisation d’événements.
+
+
+
+
+
+ 
+
+Observatoire de l’IA et des nouvelles technologies digitales
+
+
+
+ 
+
+
+ 
+
+
+
+Découvrez les acteurs clés de l’écosystème de l’IA en Belgique et les projets menés par le secteur public belge dans ce domaine.
+En savoir plus sur l'observatoire
+
+
+
+
+ 
+
+Centre d’expertise en intelligence artificielle et AI Lab
+
+
+
+ 
+
+
+ 
+
+
+
+Nous encourageons l'innovation et développons des solutions novatrices en intelligence artificielle et en technologie des registres distribuées (DLT) grâce à une expertise approfondie et à des projets de recherche.
+En savoir plus sur le centre d'expertise
+
+
+
+
+ 
+
+ 
+
+Plan national de convergence pour le développement de l'intelligence artificielle
+
+L’administration fédérale veut profiter pleinement des opportunités offertes par l'IA, et a donc élaboré un plan national de convergence pour le développement de l'intelligence artificielle. Ce plan a été approuvé lors du Conseil des ministres du 28 octobre 2022, et propose des actions concrètes pour faire de la Belgique une #SmartAINation.
+En savoir plus sur le plan national de convergence
+
+
+
+
+
+
+
+ 
+
+Partenaires
+
+Nos partenaires sont les acteurs structurants de l’IA en Belgique.
+Consultez la liste de nos partenaires
+
+
+
+
+ 
+
+Membres
+
+Les différents membres de la coalition sont des particuliers, des experts et des organisations.
+Consultez la liste de nos membres et rejoignez-nous
+
+
+
+
+ 
+
+Évènements
+
+Retrouvez-ci-dessous une partie des évènements coordonnés par AI4Belgium.
+
+
+
+
+
+
+
+
+
+
+EU AI Week 2025 : innovation versus regulation ?
+
+
+Date
+17 mars 2025
+ - 21 mars 2025
+
+
+
+  Du 17 au 21 mars 2025, plongez au cœur des enjeux sociétaux, technologiques, et industriels à l’ère de l’intelligence artificielle. Consultez le programme et visionnez les...
+
+
+
+
+
+
+
+SmartNation AI Hackathon
+
+
+Date
+12 mars 2024
+ - 14 mars 2024
+
+
+
+  Vous êtes passionné par la numérisation et l'innovation ? Vous appréciez travailler en équipe sur un projet stimulant ayant un impact sociétal ? Alors, le SmartNation AI Hackathon...
+
+
+
+
+
+
+
+Présentation de l'AI Act
+
+
+Date
+19 septembre 2024
+
+
+
+  L'AI Act, la première réglementation mondiale à établir des normes strictes en matière d'IA, est entrée en vigueur le 1er août 2024. Mais quel impact aura-t-elle sur le travail des...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sujets
+
+
+
+
+
+Observatoire de l’IA et des nouvelles technologies digitales
+
+
+            Nous surveillons et analysons les tendances émergentes en technologies numériques pour anticiper leurs évolutions et accompagner les stratégies publiques. Dans ce cadre, nous suivons les projets relatifs à l’intelligence artificielle en Belgique et mettons en place des cartographies reflétant l’intérêt du pays pour ces nouvelles technologies.
+          
+
+
+
+
+
+Plan national de convergence pour le développement de l'intelligence artificielle
+
+
+            des actions concrètes pour faire de la Belgique une #SmartAINation
+          
+
+
+
+
+
+Les acteurs de l'IA en Belgique
+
+
+            Les programmes et organismes qui favorisent le développement de l’IA en Belgique.
+          
+
+
+
+
+
+Nos membres
+
+
+            Les différents membres de la coalition AI4Belgium sont des particuliers, des experts et des organisations.
+          
+
+
+
+
+
+
+
+
+Plus sur Intelligence artificielle et nouvelles technologies
+
+
+
+
+Blockchain4Belgium
+
+
+
+
+L’intelligence artificielle dans les services publics : une charte pour une utilisation responsable
+
+
+
+
+Agenda
+
+
+
+
+Éthique et Droit
+
+
+
+
+L’IA dans le secteur public (AI4GOV)
+
+
+
+
+
+
+
+
+
+
+
+
+Thèmes
+
+
+
+Travailler dans la fonction publique
+
+
+Marchés publics
+
+
+Administration numérique
+
+
+Soutien stratégique
+
+
+Budget et Comptabilité
+
+
+
+
+
+
+
+Aperçu
+
+
+
+Formations
+
+
+Réglementation
+
+
+Applications
+
+
+Offre de services
+
+
+Réseaux
+
+
+Évènements
+
+
+Actualités
+
+
+Publications
+
+
+Plan du site
+
+
+
+
+
+
+
+SPF BOSA
+
+
+
+À propos du SPF BOSA
+
+
+Travailler pour le SPF BOSA
+
+
+Bibliothèque
+
+
+Newsletters
+
+
+Contact
+
+
+
+
+
+
+
+
+LinkedIn
+
+
+X
+
+
+Youtube
+
+
+
+
+
+
+
+
+          SPF BOSA
+        
+
+
+
+
+Conditions d'utilisation
+
+
+Déclaration de confidentialité
+
+
+Politique relative aux cookies
+
+
+Déclaration d'accessibilité
+
+
+
+
+
+
+Remonter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            For full functionality of this site it is necessary to enable JavaScript.
+        Here are the instructions how to enable JavaScript in your web browser.    
+
+

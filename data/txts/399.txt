@@ -1,0 +1,922 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IEEE SA - Autonomous and Intelligent Systems (AIS)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IEEE.org
+IEEE Xplore®
+IEEE Standards
+IEEE Spectrum
+More Sites
+ 
+ 
+
+
+eTools
+IEEE.org
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+Featured Links
+IEEE Conformity Assessment Program (ICAP)
+IEEE SA Entity Membership
+Strong Sustainability by Design: IEEE Planet Positive 2030
+ 
+
+Quick Links
+Search Standards
+Access Standards
+IEEE SA Membership
+ 
+
+Most Viewed Pages
+SearchHomeRegistration Authority 
+
+
+ 
+ 
+Search the IEEE SA Website...
+ 
+
+
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+About Us
+
+IEEE SA
+IEEE SA Governance
+IEEE Standards Association Awards
+Events
+News
+
+
+
+Standards
+
+Access Standards
+Developing Standards
+Standards in Action
+
+
+
+Products & Programs
+
+IEEE GET Program™
+Conformity Assessment & Certification
+
+Overview
+IEEE CertifAIEd™
+Medical Devices Cybersecurity
+
+
+
+Industry Connections
+Registration Authority
+Standards Related Products
+
+Overview
+The National Electrical Safety Code® (NESC®)
+Time Sensitive Networking (TSN) Licensing
+
+
+
+Training & Development
+
+Overview
+Ethical AI For Systems Design
+IEEE 1547-2018 (DER) In-Person Training
+IEEE CertifAIEd™ Professional Certification
+Time Sensitive Networking
+
+
+
+
+
+
+Practices & Focuses
+
+Global Practices
+
+Overview
+Connectivity & Telecom
+Energy
+Foundational Technologies
+Healthcare and Life Sciences
+Mobility
+
+
+
+Focus Areas
+
+Overview
+Autonomous and Intelligent Systems (AIS)
+Children’s Data Governance
+
+
+
+
+
+
+Engage
+
+Opportunities to Participate
+Membership
+
+Overview
+IEEE SA Membership for Individuals
+IEEE SA Entity Membership
+Industry Affiliate Network (IAN)
+
+
+
+Distributor Partner Program
+Government Engagement
+Provide Feedback
+
+
+
+Resources
+
+IEEE SA Beyond Standards Blog
+IEEE SA Newsletter
+Policies and Procedures
+Frequently Asked Questions (FAQs)
+
+
+
+MAC ADDRESS
+ 
+ 
+
+
+
+
+
+
+
+
+
+Featured Links
+IEEE Conformity Assessment Program (ICAP)
+IEEE SA Entity Membership
+Strong Sustainability by Design: IEEE Planet Positive 2030
+ 
+
+Quick Links
+Search Standards
+Access Standards
+IEEE SA Membership
+ 
+
+Most Viewed Pages
+SearchHomeRegistration Authority 
+
+
+
+
+
+ 
+Search the IEEE SA Website...
+ 
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+Autonomous and Intelligent Systems (AIS)
+
+At IEEE SA, our global community has developed resources and standards globally recognized in the area of applied ethics and systems engineering. IEEE SA offers standards, training and education, certification programs, and more, to empower stakeholders designing, developing, and using AIS.
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+Home
+
+Focus Areas & Initiatives
+Autonomous and Intelligent Systems (AIS)                                                                    
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+Overview
+
+
+New technology comes with unknown obstacles and unintended risks requiring accountable design and lifecycle planning to ensure responsible innovation. As artificial intelligence, autonomous intelligent systems (AIS), machine learning, autonomous vehicles, and robotics advance at a rapid pace, careful considerations need to be made during development and implementation regarding humanity. At IEEE SA, our global community has developed resources and standards globally recognized in the area of applied ethics and systems engineering and continues to develop accessible and sustainable approaches and solutions for pragmatic application of AIS principles and frameworks. IEEE SA offers standards, training and education, certification programs, and more, to empower stakeholders designing, developing, and using AIS. Global participation is encouraged to offer the broadest regional and cultural perspectives required to best contextualize how AIS systems can avoid risk and offer greatest benefit in operation.
+
+
+Featured
+
+
+
+
+
+IEEE CertifAIEd™: The Mark of AI Ethics
+
+
+For assessing ethics of AIS to help protect, differentiate, and grow product adoption.
+Learn More About IEEE CertifAIEd™
+
+
+
+
+
+
+
+
+IEEE Ethics for AI System Design Training
+
+
+This training helps bridge the gap between principles and practice, enabling real-world implementation of ethically aligned systems design strategy from the planning phase.
+Learn More About IEEE Ethics for AI System Design Training 
+
+
+
+
+
+
+
+
+IEEE Responsible Procurement of AI Training
+
+
+This training provides a framework of the processes and procedures for procuring AI tools to help minimize risk in the purchasing lifecycle of AI and automated decision systems.
+Learn More About IEEE Responsible Procurement of AI Training
+
+
+Programs and ServicesAIS Certification
+
+
+IEEE CertifAIEd™ is a certification program for assessing ethics of AIS to help protect, differentiate, and grow product adoption. The resulting certificate and mark demonstrates the organization’s effort to deliver a solution with a more trustworthy AIS experience to their users.
+
+
+
+
+Learn More About IEEE CertifAIEd™
+
+
+Artificial Intelligence and Ethics in Design Course Program
+
+
+This educational program offers 10 courses focused on ethics in design of artificial intelligence systems.
+
+
+
+
+Learn More About The Artificial Intelligence and Ethics in Design Course Program
+
+
+New Program for Free Access to AI Ethics and Governance Standards
+
+
+Program brings sociotechnical standards providing guidance and considerations to aid the development of trustworthy AI to the global community at no cost.
+
+
+
+
+View Free Standards
+
+
+Get Involved
+
+
+Learn more about how to engage with AIS related Communities and Industry Connections Programs.
+
+
+The Global Initiative on Ethics of Autonomous and Intelligent Systems
+
+
+This community’s mission is to ensure every stakeholder involved in the development of AIS is educated and trained to prioritize ethical considerations so that these technologies are advanced for the benefit of humanity.
+
+
+
+
+Learn More About The Global Initiative on Ethics of Autonomous and Intelligent Systems
+
+
+Pre-Standardization Activities On Industrial AI
+
+
+Industrial AIS differs from consumer AIS applications. Participants from corporations, academia, industry, and government agencies collaborate to identify potential gaps that need to be bridged by new standards.
+
+
+
+
+Learn More About Pre-Standardization Activities On Industrial AI
+
+
+AI Systems Governance for Cities
+
+
+The goal of the AI-Driven Innovation for Cities and People Team is to provide cities a mechanism to support responsible AIS innovation through proper governance mechanisms.
+
+
+
+
+Learn More About AI Systems Governance for Cities
+
+
+The Open Community for Ethics in Autonomous and Intelligent Systems (OCEANIS)
+
+
+Sociotechnical standards can elevate and further the development of AIS solutions. This forum offers collaboration between relevant organizations to foster locally and globally applicable solutions.
+
+
+
+
+Learn More About OCEANIS
+
+
+Children's Tech Design Governance
+
+
+A group of key industry, government, and policy stakeholders focus on developing standards and establishing frameworks and processes for age appropriate digital services and protecting children’s data.
+
+
+
+
+Learn More About Children’s Tech Design Governance
+
+
+View All Ways to Get InvolvedEvents
+
+
+
+
+
+IEEE CertifAIEd™ Training
+
+
+This course has been developed for individuals who are interested in learning how to assess AIS for their conformity to IEEE CertifAIEd AI Ethics criteria. Completion of this course is an integral step towards becoming recognized as an IEEE CertifAIEd Authorized Assessor.
+Learn More About IEEE CertifAIEd™ Training
+
+
+
+
+
+
+
+
+Demystifying GenAI for TelehealthMonthly in 2025 | Webinar
+
+
+A virtual meet-up with multidisciplinary stakeholders to begin the groundwork on considerations that need to be addressed in the use of Generative AI in telehealth tools and platforms.
+Register for Demystifying GenAI for Telehealth
+
+
+Related StandardsAdaptive Instructional SystemsIEEE P2247.1™
+
+
+Standard for the Classification of Adaptive Instructional Systems
+
+
+IEEE P2247.2™
+
+
+Interoperability Standards for Adaptive Instructional Systems (AISs)
+
+
+IEEE P2247.3™
+
+
+Recommended Practices for Evaluation of Adaptive Instructional Systems
+
+
+IEEE P2247.4™
+
+
+Recommended Practice for Ethically Aligned Design of Artificial Intelligence (AI) in Adaptive Instructional Systems
+
+
+Age Appropriate DesignIEEE 2089-2021
+
+
+IEEE Standard for an Age Appropriate Digital Services Framework Based on the 5Rights Principles for Children
+
+
+Ethically Aligned Autonomous and Intelligent SystemsIEEE 7000™
+
+
+IEEE Standard Model Process for Addressing Ethical Concerns during System Design
+
+
+IEEE 7001™
+
+
+IEEE Standard for Transparency of Autonomous Systems
+
+
+IEEE P7002™
+
+
+IEEE Standard for Data Privacy Process
+
+
+IEEE 7003™
+
+
+Algorithmic Bias Considerations
+
+
+IEEE P7004™
+
+
+Standard for Child and Student Data Governance
+
+
+IEEE 7005™
+
+
+IEEE Standard for Transparent Employer Data Governance
+
+
+IEEE 7007™
+
+
+IEEE Ontological Standard for Ethically Driven Robotics and Automation Systems
+
+
+IEEE P7008™
+
+
+Standard for Ethically Driven Nudging for Robotic, Intelligent and Autonomous Systems
+
+
+IEEE P7009™
+
+
+Standard for Fail-Safe Design of Autonomous and Semi-Autonomous Systems
+
+
+IEEE P7009.1™
+
+
+Standard for Safety Management of Autonomous and Semi-Autonomous Systems–Interventions in the Event of Anomalous Behavior
+
+
+View All Related Standards and ProjectsMachine LearningIEEE P3109™
+
+
+Standard for Arithmetic Formats for Machine Learning
+
+
+IEEE 3652.1™-2020
+
+
+IEEE Guide for Architectural Framework and Application of Federated Machine Learning
+
+
+IEEE P3127™
+
+
+Guide for an Architectural Framework for Blockchain-based Federated Machine Learning
+
+
+IEEE P3187™
+
+
+Guide for Framework for Trustworthy Federated Machine Learning
+
+
+IEEE P2986™
+
+
+Recommended Practice for Privacy and Security for Federated Machine Learning
+
+
+IEEE P2805.3™
+
+
+Cloud-Edge Collaboration Protocols for Machine Learning
+
+
+IEEE 2830™-2021
+
+
+IEEE Standard for Technical Framework and Requirements of Trusted Execution Environment based Shared Machine Learning
+
+
+IEEE P3123™
+
+
+Standard for Artificial Intelligence and Machine Learning (AI/ML) Terminology and Data Formats
+
+
+IEEE P1900.8™
+
+
+Standard for Training, Testing, and Evaluating Machine-Learned Spectrum Awareness Models
+
+
+IEEE P3157™
+
+
+Recommended Practice for Vulnerability Test for Machine Learning Models for Computer Vision Applications
+
+
+View All Related Standards and ProjectsView Complete List of All AIS StandardsResourcesPapers & ReportsEthically Aligned Design (EAD):
+
+
+
+EAD For Artists
+EAD For Business
+EAD, First Edition
+Defining A/IS Ethics – Glossary
+
+
+
+IEEE CertifAIEd™:
+
+
+
+AI Ethics for Solutions Developers
+IEEE CertifAIEd™ – Ontological Specification for Ethical Transparency
+IEEE CertifAIEd™ – Ontological Specification for Ethical Algorithmic Bias
+IEEE CertifAIEd™ – Ontological Specification for Ethical Accountability
+IEEE CertifAIEd™ – Ontological Specification for Ethical Privacy
+AI Ethics Support Badge
+
+
+
+Children's Data Governance:
+
+
+
+IEEE SA Children’s Data Governance Applied Case Study Report
+Applied Case Studies for Designing Trustworthy Digital Experiences for Children
+
+
+
+Other:
+
+
+
+IEEE SA Statement on Generative AI
+The IEEE Trusted Data and Artificial Intelligence Systems (AIS) Playbook for Financial Services
+Report: Decoupling Human Characteristics from Algorithmic Capabilities
+Report: Addressing Ethical Dilemmas in AI: Listening to Engineers
+Measuring What Matters in the Era of Global Warming and the Age of Algorithmic Promises
+
+
+
+News & Blog
+
+
+
+Mitigating AI risk in the enterprise
+RCR Wireless News
+How AI Makes Data Processing Better, Faster, And More Efficient
+RF Globalnet
+Crafting Integrated Solutions to Minimize Energy and Water Consumption
+POWER Magazine
+
+
+
+Past Webinars & Courses
+
+
+Measurementality Series
+Measurementality, is a series of podcasts, webinars, and reports created by IEEE SA in collaboration with The Radical AI Podcast and explores what measurements of success we’re optimizing for AIS development.
+
+
+
+
+IEEE Course Program on AI Standards
+The purpose of this course series is to provide instructions for a comprehensive approach to creating ethical and responsible digital ecosystems.
+
+
+
+
+IEEE Ethics for AI System Design Training
+This training helps bridge the gap between principles and practice, enabling real-world implementation of ethically aligned systems design strategy from the planning phase.
+
+
+
+
+
+Webinar: Is it Technically Possible to Make the World Age Appropriate
+Today, one in three people online is under 18. There is an urgent need to address the vulnerabilities and evolving capacities associated with children and their online experiences.
+
+
+
+
+IEEE Course Program on Artificial Intelligence and Ethics in Design
+Responsible artificial intelligence, law, compliance, and ethics in artificial intelligence and practical applied ethics for use in the responsible design of artificial intelligence systems.
+
+
+
+
+IEEE Responsible Procurement of AI Training
+This training provides a framework of the processes and procedures for procuring AI tools to help minimize risk in the purchasing lifecycle of AI and automated decision systems.
+
+
+
+  
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ LinkedIn
+ Facebook
+ Instagram
+ YouTube
+ X
+ Beyond Standards RSS Feed
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+IEEE SA
+About Us
+IEEE SA Membership
+Distributor Partner Program
+Training & Development
+Policies & Procedures
+Contact Us
+Provide Feedback
+
+
+
+
+
+Board of Governors
+About Board of Governors
+Awards Committee
+Registration Authority Committee (RAC)
+
+
+
+
+
+Entity Collaborative Activities Governance Board
+About the Entity Collaborative Activities Governance Board
+Blended Learning Platform
+Industry Affiliate Network
+Industry Connections Committee
+
+
+
+
+
+Standards Board
+About Standards Board
+Board Approvals
+Audit Committee
+New Standards Committee
+Patent Committee
+Procedures Committee
+Standards Review Committee
+
+
+
+
+
+News & Events
+News
+IEEE SA Newsletter
+Events
+Beyond Standards Blog
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+Home
+Sitemap
+Contact & Support
+Accessibility
+Nondiscrimination Policy
+IEEE Ethics Reporting
+IEEE Privacy Policy
+Terms & Disclosures
+IEEE SA Copyright Policy
+ 
+
+© Copyright 2021 IEEE – All rights reserved. A public charity, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
+ 
+ 
+ 
+ 
+ 
+
+Subscribe 
+
+
+Subscribe to our Newsletter
+
+ 
+
+Sign up for our monthly newsletter to learn about new developments, including resources, insights and more.
+
+
+
+
+
+
+
+Thank you for signing up for the IEEE SA Newsletter. Check your email for a confirmation message.
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

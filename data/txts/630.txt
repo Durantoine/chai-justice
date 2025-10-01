@@ -1,0 +1,383 @@
+ 
+
+
+
+
+The Data Ethics Canvas | The ODI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We use necessary cookies that allow our site to work. We also set optional cookies that help us improve our website.
+For more information about the types of cookies we use, and to manage your preferences, visit our Cookies policy here.
+
+Cookie settings
+Accept all cookies
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+                    About us
+                    
+
+
+
+
+
+
+About us
+The ODI is a non-profit company committed to promoting and advancing trust in data, including open data, shared data and closed - or private - data.
+
+
+
+
+
+
+
+                                    Back
+                                
+About us
+
+
+Our vision, mission and principles
+Our strategy
+Impact
+The ODI team
+Work with us
+Governance
+Key documents
+Press and media
+The ODI brand book
+
+
+
+
+
+Our five year plan
+Download The ODI's five year strategy
+Read it here
+
+
+
+
+
+
+
+                    What we do
+                    
+
+
+
+
+
+
+What we do
+We provide training, consultancy services, tools and guides that enable organisations to become more confident and capable in their stewardship and use of data.
+
+
+
+
+
+
+
+                                    Back
+                                
+What we do
+
+
+Research
+Consultancy and products
+Learning
+Commercial partnerships
+Membership
+Policy
+Engagement
+Data as culture
+Solid
+
+
+
+
+
+Solid
+The ODI is now the steward of Solid. your data, you choice.
+Solid
+
+
+
+
+
+
+
+                    Learning
+                
+
+
+
+                    Membership
+                    
+
+
+
+
+
+
+Membership
+Looking to enhance your organisation's data practices? Become a member of the ODI.
+
+
+
+
+
+
+
+                                    Back
+                                
+Membership
+
+
+Membership directory
+Free and discounted courses for members
+Free tools for members
+Priority booking for webinars
+
+
+
+
+
+
+
+                    Insights
+                
+
+
+
+                    News & events
+                
+
+Register
+Log in
+
+
+
+
+
+
+
+
+Register
+Log in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tool
+The Data Ethics Canvas
+Use the Data Ethics Canvas to help you identify and manage ethical issues in your data project
+
+
+
+
+
+
+
+
+
+
+
+
+Mon Jun 28, 2021
+
+
+
+
+What is the Data Ethics Canvas?The Data Ethics Canvas is a tool for anyone who collects, shares or uses data.It can help you to identify and manage ethical issues – at the start of a project that uses data, and throughout.It encourages you to ask important questions about projects that use data and reflect on the responses. These might be:What is your primary purpose for using data in this project?Who could be negatively affected by this project?The Data Ethics Canvas provides a framework to develop ethical guidance that suits any context, whatever the project’s size or scope.Introduction to Data Ethics and the Data Ethics Canvas courseIn this half-day interactive course run by our experts you will be given an introduction to the concept of data ethics, and how to help your organisation use the ODI Data Ethics Canvas to help make better and more ethical decisions about data.
+
+
+Learn more and book
+
+
+Print-at-home versionsGuide (A4, print-at-home): English, German, French, Italian, Spanish and Dutch versionsThis guide explains when and how to use the Data Ethics Canvas, whether for an organisation or sector, and which aspects of data practice to consider in the process.EnglishData Ethics Canvas print-at-home A4 guide [PDF colour]Data Ethics Canvas print-at-home A4 guide [PDF grey]FrenchData Ethics Canvas print-at-home A4 guide [PDF colour]Data Ethics Canvas print-at-home A4 guide [PDF grey]SpanishData Ethics Canvas print-at-home A4 guide [PDF colour]Data Ethics Canvas print-at-home A4 guide [PDF grey]ItalianData Ethics Canvas print-at-home A4 guide [PDF colour]Data Ethics Canvas print-at-home A4 guide [PDF grey]GermanData Ethics Canvas print-at-home A4 guide [PDF colour]Data Ethics Canvas print-at-home A4 guide [PDF grey]DutchData Ethics Canvas print-at-home A4 guide [PDF colour]Data Ethics Canvas print-at-home A4 guide [PDF grey]Portuguesehttps://theodi.github.io/data-ethics-canvas/?lang=ptGitHub toolWe have created a tool on GitHub which you can use to to view different translations on both the colour and black and white versions of the Data Ethics Canvas.The Data Ethics Canvas: Japanese translation. データ倫理に関する意思決定や評価を補助するために開発・提案されているツール（ガイドライン・チェックリスト等）をご紹介します。A translation of The Data Ethics Canvas in Japanese is maintained by the Data Ethics team in the School of Social Sciences at Waseda University.The Data Ethics Canvas: JapaneseData Ethics Canvas user guide
+
+
+Download the Data Ethics Canvas user guide
+
+
+Get help using our Data Ethics CanvasIf you would like to get support with using our Data Ethics Canvas, please share your details belowOriginal sourceThe Data Ethics Canvas is based on the Ethics Canvas, a higher-level framework for assessing the ethical implications of any project, developed by the ADAPT Centre for Digital Content Technology. The ADAPT Centre’s Ethics Canvas is itself based on the original Business Model Canvas by Alex Osterwalder.
+
+
+‘A branch of ethics that evaluates data practices with the potential to adversely impact on people and society – in data collection, sharing and use’
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dave Tarrant
+
+
+
+
+
+
+
+
+
+
+James Maddison
+
+
+
+
+
+
+
+
+
+
+Olivier Thereaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Open Data Institute, 
+                4th Floor, Kings Place, 90 York Way, London N1 9AG
+            
+
+© The Open Data Institute. 2025
+
+
+
+
+Our policies
+Press and media
+The ODI brand book
+Work with us
+Sign up to The Week in Data and our weekly events newsletter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

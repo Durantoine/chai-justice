@@ -1,0 +1,1498 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GitHub - GoodTechnologyCollective/GTS: Good Technology Standard (GTS:2019-DRAFT-1)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+
+
+Navigation Menu
+
+Toggle navigation
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Sign in
+          
+
+
+ 
+
+
+Appearance settings
+
+
+
+
+
+
+
+
+
+
+
+        Platform
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          GitHub Copilot
+
+        
+
+        Write better code with AI
+      
+
+
+
+
+
+
+
+
+          GitHub Spark
+
+            
+              New
+            
+
+
+        Build and deploy intelligent apps
+      
+
+
+
+
+
+
+
+
+          GitHub Models
+
+            
+              New
+            
+
+
+        Manage and compare prompts
+      
+
+
+
+
+
+
+
+
+          GitHub Advanced Security
+
+        
+
+        Find and fix vulnerabilities
+      
+
+
+
+
+
+
+
+
+          Actions
+
+        
+
+        Automate any workflow
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Codespaces
+
+        
+
+        Instant dev environments
+      
+
+
+
+
+
+
+
+
+          Issues
+
+        
+
+        Plan and track work
+      
+
+
+
+
+
+
+
+
+          Code Review
+
+        
+
+        Manage code changes
+      
+
+
+
+
+
+
+
+
+          Discussions
+
+        
+
+        Collaborate outside of code
+      
+
+
+
+
+
+
+
+
+          Code Search
+
+        
+
+        Find more, search less
+      
+
+
+
+
+
+
+Explore
+
+
+
+      Why GitHub
+
+    
+
+
+
+      Documentation
+
+    
+
+
+
+
+
+      GitHub Skills
+
+    
+
+
+
+
+
+      Blog
+
+    
+
+
+
+
+
+
+Integrations
+
+
+
+      GitHub Marketplace
+
+    
+
+
+
+      MCP Registry
+
+    
+
+
+
+
+
+
+
+              View all features
+              
+
+
+ 
+
+
+
+
+        Solutions
+        
+
+
+
+
+
+
+
+By company size
+
+
+
+      Enterprises
+
+    
+
+
+
+      Small and medium teams
+
+    
+
+
+
+      Startups
+
+    
+
+
+
+      Nonprofits
+
+    
+
+
+
+
+
+
+By use case
+
+
+
+      App Modernization
+
+    
+
+
+
+      DevSecOps
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      CI/CD
+
+    
+
+
+
+      View all use cases
+
+    
+
+
+
+
+
+
+By industry
+
+
+
+      Healthcare
+
+    
+
+
+
+      Financial services
+
+    
+
+
+
+      Manufacturing
+
+    
+
+
+
+      Government
+
+    
+
+
+
+      View all industries
+
+    
+
+
+
+
+
+
+
+              View all solutions
+              
+
+
+ 
+
+
+
+
+        Resources
+        
+
+
+
+
+
+
+
+Topics
+
+
+
+      AI
+
+    
+
+
+
+      DevOps
+
+    
+
+
+
+      Security
+
+    
+
+
+
+      Software Development
+
+    
+
+
+
+      View all
+
+    
+
+
+
+
+
+
+Explore
+
+
+
+      Learning Pathways
+
+    
+
+
+
+
+
+      Events & Webinars
+
+    
+
+
+
+      Ebooks & Whitepapers
+
+    
+
+
+
+      Customer Stories
+
+    
+
+
+
+      Partners
+
+    
+
+
+
+
+
+      Executive Insights
+
+    
+
+
+
+
+
+
+
+
+
+        Open Source
+        
+
+
+
+
+
+
+
+
+
+
+
+
+          GitHub Sponsors
+
+        
+
+        Fund open source developers
+      
+
+
+
+
+
+
+
+
+
+          The ReadME Project
+
+        
+
+        GitHub community articles
+      
+
+
+
+
+Repositories
+
+
+
+      Topics
+
+    
+
+
+
+      Trending
+
+    
+
+
+
+      Collections
+
+    
+
+
+
+
+
+
+
+
+
+        Enterprise
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Enterprise platform
+
+        
+
+        AI-powered developer platform
+      
+
+
+
+
+Available add-ons
+
+
+
+
+
+
+
+
+          GitHub Advanced Security
+
+        
+
+        Enterprise-grade security features
+      
+
+
+
+
+
+
+
+
+          Copilot for business
+
+        
+
+        Enterprise-grade AI features
+      
+
+
+
+
+
+
+
+
+          Premium Support
+
+        
+
+        Enterprise-grade 24/7 support
+      
+
+
+
+
+
+
+
+
+Pricing
+
+
+
+
+
+
+
+
+
+
+
+
+Search or jump to...
+
+
+
+
+
+
+
+Search code, repositories, users, issues, pull requests...
+
+ 
+
+
+
+
+        Search
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+Clear
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+Search syntax tips 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Provide feedback
+      
+
+
+
+
+
+
+
+
+
+ 
+We read every piece of feedback, and take your input very seriously.
+
+
+Include my email address so I can be contacted
+
+
+     Cancel
+
+    Submit feedback
+
+
+
+
+
+
+
+
+
+
+        Saved searches
+      
+Use saved searches to filter your results more quickly
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+Name
+
+
+
+
+
+
+Query
+
+
+
+            To see all available qualifiers, see our documentation.
+          
+ 
+
+
+
+
+
+     Cancel
+
+    Create saved search
+
+
+
+
+
+
+
+
+                Sign in
+              
+
+
+                Sign up
+              
+
+
+ 
+
+
+Appearance settings
+
+
+
+Resetting focus
+
+
+
+
+
+
+
+
+
+You signed in with another tab or window. Reload to refresh your session.
+You signed out in another tab or window. Reload to refresh your session.
+You switched accounts on another tab or window. Reload to refresh your session.
+ 
+
+
+Dismiss alert
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        GoodTechnologyCollective
+ 
+/
+
+GTS
+
+Public
+
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+ 
+
+Fork
+    0
+
+
+
+
+ 
+
+
+          Star
+ 15
+
+
+
+
+
+
+
+
+        Good Technology Standard (GTS:2019-DRAFT-1)
+      
+
+
+
+
+
+15
+          stars
+ 
+
+
+
+0
+          forks
+ 
+
+
+
+Branches
+ 
+
+
+
+Tags
+ 
+
+
+
+Activity
+ 
+
+
+
+ 
+
+
+          Star
+
+
+
+
+ 
+
+Notifications
+ You must be signed in to change notification settings
+
+
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+
+
+
+
+
+
+Issues
+1
+
+
+
+
+
+
+Pull requests
+0
+
+
+
+
+
+
+Actions
+
+
+
+
+
+
+
+Projects
+0
+
+
+
+
+
+
+Security
+
+
+
+
+
+        Uh oh!
+
+ There was an error while loading. Please reload this page.
+
+ 
+ 
+
+
+
+
+
+
+
+Insights
+
+
+
+ 
+
+ 
+
+
+Additional navigation options
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+          Code
+
+
+
+
+
+
+
+
+
+
+
+          Issues
+
+
+
+
+
+
+
+
+
+
+
+          Pull requests
+
+
+
+
+
+
+
+
+
+
+
+          Actions
+
+
+
+
+
+
+
+
+
+
+
+          Projects
+
+
+
+
+
+
+
+
+
+
+
+          Security
+
+
+
+
+
+
+
+
+
+
+
+          Insights
+
+
+
+
+
+
+ 
+
+
+
+
+
+GoodTechnologyCollective/GTS
+
+
+
+ 
+
+
+    masterBranchesTagsGo to fileCodeOpen more actions menuFolders and filesNameNameLast commit messageLast commit dateLatest commit History2 Commits20192019  README.mdREADME.md  View all filesRepository files navigationREADMEThe Good Technology Standard (GTS:2019-DRAFT-1)
+Introduction
+In recent years, we have all felt the massive societal impact of technologies such as machine learning, social networks and data-driven
+decision-making. And it has become increasingly clear to many of us that it is time for engineers to stop just "chasing the challenge." We
+need to assume greater responsibility for our technological creations, or we risk the possibility of waking up one day to find that our
+technologies have done society far more harm than good.
+That is why we decided to develop the draft Good Technology Standard (GTS) at the Good Technology Collective. It is aimed at helping
+technologists consider what "good technology" is and ensuring that the technologies they create reflect the ethical values that guide them.
+The GTSI is a practical, everyday set of guidelines and principles that can help engineers and technology organizations build products and
+applications that not only serve the bottom-line but also reduce their adverse impact on society. The standard is divided into five primary
+criteria, which we feel encompass the most pressing ethical challenges facing us today.
+Contributing
+We are always looking for new ideas about how to develop better technologies. So please feel free to send us your thoughts. Contact us
+directly if you wish to speak with us in person. If you would like to propose changes, please make a pull request, although we recommend you
+first discuss the request with the maintainers (except for minor changes, of course).
+How to use the Good Technology Standard
+The standard consists of three parts: This readme, which gives you an overview over what the Good Technology Standard is. The second
+document is the Standards itself, which consists of a list of brief mantras and checklists. The third document is a guideline which explains
+how to implement the Standard within an organization.
+Right now, these document are still a draft. We want to collect feedback from diverse groups of people before they will be used in practise
+by any organization.
+Part 1 - Introduction (This Document)
+Part 2 - Standard
+Part 3 - Implementation
+About the Good Technology Collective
+The Good Technology Collective was founded in December 2017 in Berlin by a diverse group of experts from academia, government and the
+private sector to address significant issues at the cross-section of technology and society. We host regular events to educate engineers,
+publish articles and commentary, and hold internal roundtables and workshops. If you want to know more or partner with us, write us at:
+contact@goodtechnologycollective.com.
+License
+The document is licensed CC-BY-SA-4.0, which means others can use and modify it. If you would like to redistribute the document, you need to
+do so under a similar license.
+   
+
+
+
+
+
+
+
+
+About
+
+        Good Technology Standard (GTS:2019-DRAFT-1)
+      
+Resources
+
+
+
+
+
+        Readme
+ 
+
+
+
+
+
+        Uh oh!
+
+ There was an error while loading. Please reload this page.
+
+ 
+ 
+
+
+
+
+
+Activity 
+
+
+
+
+Custom properties 
+Stars
+
+
+
+
+15
+      stars 
+Watchers
+
+
+
+
+5
+      watching 
+Forks
+
+
+
+
+0
+      forks 
+
+
+          Report repository
+ 
+
+
+
+
+
+
+Releases
+No releases published
+
+
+
+
+
+Packages
+      0
+
+        No packages published 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer
+
+
+
+
+
+
+
+
+        © 2025 GitHub, Inc.
+      
+
+
+Footer navigation
+
+
+Terms
+
+
+Privacy
+
+
+Security
+
+
+Status
+
+
+Community
+
+
+Docs
+
+
+Contact
+
+
+
+
+       Manage cookies
+    
+
+
+
+
+
+      Do not share my personal information
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    You can’t perform that action at this time.
+  
+
+
+
+
+
+
+
+
+
+
+
+

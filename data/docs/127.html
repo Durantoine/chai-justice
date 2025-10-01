@@ -1,0 +1,248 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+   <meta http-equiv="Content-Security-Policy" content="default-src *.coe.int; script-src *.coe.int https://code.jquery.com http://www.google-analytics.com 'nonce-2726c7f26d' 'unsafe-eval'; style-src *.coe.int *.cloudflare.com 'unsafe-inline'; img-src *.coe.int http://www.google-analytics.com https://stats.g.doubleclick.net data:; font-src *.coe.int *.cloudflare.com data:; connect-src *.coe.int http://www.google-analytics.com https://stats.g.doubleclick.net;">
+    <title>CoE Search - CM</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+	<link rel="icon" type="image/vnd.microsoft.icon" href="/images/Icons/COEfavicon.ico" />
+    <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="/images/Icons/COEfavicon.ico" />
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+    <![endif]-->
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link rel="stylesheet" media="screen" type="text/css" href="/css/screen.css?v=1751367956947">
+	<link rel="stylesheet" media="print" type="text/css" href="/css/print.css?v=1751367956947">
+	<link rel="stylesheet" media="screen,print" type="text/css" href="/cm/shared/override.css?v=1751367956947">
+
+    <script src="/javascript/jquery-1.12.4.min.js" type="text/javascript" instruction="ignore"></script>
+    <script src="/javascript/jquery-ui-1.12.1.custom.min.js" type="text/javascript" instruction="ignore"></script>
+    <script src="/javascript/openidconnect.js" type="text/javascript" instruction="ignore"></script>
+ 
+    <!-- Old versions for jquery v1.7 and jquery-ui v1.11.4 -->
+    <!-- <script src="/javascript/jquery-1.7.min.js" type="text/javascript" instruction="ignore"></script> -->
+    <!-- <script src="/javascript/jquery-ui.min.js" type="text/javascript" instruction="ignore"></script> -->
+
+    <script instruction="" nonce="2726c7f26d">
+        const GLOBAL_IS_USE_OPEN_ID = 'true';
+        const GLOBAL_CLIENT_ID_OPEN_ID = 'prd-search';
+        const GLOBAL_DOMAIN_OPEN_ID = 'https://sso.coe.int/realms/CoE';
+        const GLOBAL_SCOPE_OPEN_ID = 'openid';
+    
+        const GLOBAL_URL_ODATA = '';
+        const GLOBAL_URL_CONVERSION = '';
+        const GLOBAL_URL_TRANSFORM = '';
+        const GLOBAL_URL_QUERY = '';
+        const GLOBAL_URL_SPELLING = '';
+        const GLOBAL_URL_MANAGEMENT = '';
+        const GLOBAL_URL_JSONWS = '';
+        const GLOBAL_URL_DISPLAY_DOCUMENTUM_CONTENT = 'https://rm.coe.int/CoERMPublicCommonSearchServices/sso/SSODisplayDCTMContent';
+    </script>
+	<script type="text/javascript" instruction="ignore" nonce="2726c7f26d">		var siteinfo = {			isMain: true,			siteInstitution: "coecm",			siteLanguage: "eng"		};	</script>	<script src="/cm/shared/compiled.js?v=1751367956947" type="text/javascript" instruction="ignore"></script>
+	
+</head>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="adminInclude">
+	 
+</div> 
+<body class="site_coecmeng language_eng"><div class="skipLinksListContainer">
+  <div id="mainSkipLinksPlaceholder" class="skipLinksList"></div>
+  <div id="navigatorSkipLinksPlaceholder" class="skipLinksList"></div>
+</div>
+
+<div id="backgroundgradient"></div>
+
+<!-- Notification ================================================== -->
+<div id="notification"></div>
+<!-- End of Notification ================================================== -->
+
+<!--disable cookie part-->
+<div id="CookieMessage"></div>
+<!--end disable cookie part-->
+
+<!--disable feature part-->
+<div id="FeatureMessage"></div>
+<!--end disable feature part-->
+
+<!-- Heading ================================================== -->
+<header id="heading">
+  <div>
+    <div id="banner"></div>
+    <div id="sitetitle"></div>
+    <!-- <div id="keywordsearch"></div>	 -->
+  </div>
+</header>
+<!-- End of Heading ================================================== -->
+
+<!-- Links ================================================== -->
+<div id="subHeading">
+  <div id="linksBar"></div>
+</div>
+<!-- End of Links ================================================== -->
+
+<!-- Footer ================================================== -->
+<div id="footerBar">
+  <div class="footer-empty"></div>
+  <div id="footer"></div>
+</div>
+<!-- End of Footer ================================================== -->
+
+<div id="refiners-backdrop"></div>
+
+<!-- Main Content ================================================== -->
+<div id="main-content" class="cm-main-content">
+  <!-- Inner Content ================================================== -->
+  <div id="inner-content">
+    <div class="content">
+      <!-- Refiners (left side) ================================================== -->
+      <div class="refiners-container">
+        <!-- Narrow Your Search -->
+        <div id="close-filters-button" onclick="$('.refiners-container').toggleClass('opened');$('#refiners-backdrop').toggleClass('show');">
+          <i class="glyphicon glyphicon-remove"></i>
+        </div>
+        <div class="refinements-container-to-scroll">
+          <div id="refinement-heading-narrowyoursearch" class="refinements-heading refinements-narrowyoursearch-bar">
+          </div>
+
+          <!-- Refinements Section -->
+          <div id="refinements-section">
+            <!-- Collections -->
+            <div id="refinement-heading-collections" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-collections" class="refinements-results"></div>
+
+            <!-- Filter 1 -->
+            <div id="refinement-heading-filter1" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter1" class="refinements-results"></div>
+
+            <!-- Filter 2 -->
+            <div id="refinement-heading-filter2" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter2" class="refinements-results"></div>
+
+            <!-- Filter 3 -->
+            <div id="refinement-heading-filter3" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter3" class="refinements-results"></div>
+
+            <!-- Filter 4 -->
+            <div id="refinement-heading-filter4" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter4" class="refinements-results"></div>
+
+            <!-- Filter 5 -->
+            <div id="refinement-heading-filter5" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter5" class="refinements-results"></div>
+
+            <!-- Filter 6 -->
+            <div id="refinement-heading-filter6" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter6" class="refinements-results"></div>
+
+            <!-- Filter 7 -->
+            <div id="refinement-heading-filter7" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter7" class="refinements-results"></div>
+
+            <!-- Filter 8 -->
+            <div id="refinement-heading-filter8" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter8" class="refinements-results"></div>
+
+            <!-- Filter 9 -->
+            <div id="refinement-heading-filter9" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter9" class="refinements-results"></div>
+
+            <!-- Filter 10 -->
+            <div id="refinement-heading-filter10" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter10" class="refinements-results"></div>
+
+            <!-- Filter 11 -->
+            <div id="refinement-heading-filter11" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter11" class="refinements-results"></div>
+
+            <!-- Filter 12 -->
+            <div id="refinement-heading-filter12" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter12" class="refinements-results"></div>
+
+            <!-- Filter 13 -->
+            <div id="refinement-heading-filter13" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter13" class="refinements-results"></div>
+
+            <!-- Filter 14 -->
+            <div id="refinement-heading-filter14" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter14" class="refinements-results"></div>
+
+            <!-- Filter 15 -->
+            <div id="refinement-heading-filter15" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter15" class="refinements-results"></div>
+
+            <!-- Filter 16 -->
+            <div id="refinement-heading-filter16" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter16" class="refinements-results"></div>
+
+            <!-- Filter 17 -->
+            <div id="refinement-heading-filter17" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter17" class="refinements-results"></div>
+
+            <!-- Filter 18 -->
+            <div id="refinement-heading-filter18" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter18" class="refinements-results"></div>
+
+            <!-- Filter 19 -->
+            <div id="refinement-heading-filter19" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter19" class="refinements-results"></div>
+
+            <!-- Filter 20 -->
+            <div id="refinement-heading-filter20" class="refinements-heading refinements-heading-fullbar"></div>
+            <div id="refinement-filter20" class="refinements-results"></div>
+          </div>
+          <!-- End of Refinements Section -->
+        </div>
+      </div>
+      <!-- End of Refiners (left side) ================================================== -->
+
+      <!-- Results (right side) ================================================== -->
+      <div class="results-container">
+        <div>
+          <!-- Keyword Search ================================================== -->
+          <div id="keywordsearch"></div>
+          <!-- End of Keyword Search ================================================== -->
+          <!-- Advanced Search ================================================== -->
+          <div id="advancedsearch"></div>
+          <!-- End of Advanced Search ================================================== -->
+        </div>
+
+        <!-- Login ================================================== -->
+        <div id="login" class="loginbutton-container"></div>
+        <!-- End of Login ================================================== -->
+
+        <div id="results-block">
+          <!-- Results Heading Bar ================================================== -->
+          <div id="results-headingbar">
+            <span id="results-count"></span>
+            <span id="sortby"></span>
+            <!-- sortby is dead, now inside the resultcountview template -->
+          </div>
+          <!-- End of Results Heading Bar ================================================== -->
+          <!-- Criteria ================================================== -->
+          <div id="criteria"></div>
+          <!-- End of Criteria ================================================== -->
+          <!-- Results QuerySuggestion (Query Suggestion, etc.) ================================================== -->
+          <div id="query-suggestions"></div>
+          <!-- End of Spelling Suggestion ================================================== -->
+          <!-- Result Status (Spelling Suggestion, etc.) ================================================== -->
+          <div id="spelling"></div>
+          <!-- End of Spelling Suggestion ================================================== -->
+          <!-- Results - List ================================================== -->
+          <div id="results-list"></div>
+          <!-- End of Results - List ================================================== -->
+        </div>
+      </div>
+      <!-- End of Results (right side) ================================================== -->
+    </div>
+  </div>
+  <!-- End of Inner Content ================================================== -->
+</div>
+<!-- End of Main Content ================================================== -->
+</body></html>

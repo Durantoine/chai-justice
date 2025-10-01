@@ -1,0 +1,329 @@
+
+
+INFORMATIZÁCIA - Národná koncepcia informatizácie verejnej správy (2016)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MenuMapa Stránok 
+
+
+
+  Hľadaj:  
+
+
+
+ 
+ 
+Titulka | English | Nastavenia | Textová verzia 
+
+
+Hlavná navigácia:
+Preskočiť hlavnú navigáciu
+
+
+O nás Informatizácia Zahraničie 
+eGovernment
+
+Štandardy IS VS OPIS OPII 
+
+
+ 
+
+
+
+
+
+
+
+
+Strategické dokumenty eGovernmentu 
+Stratégia informatizácie verejnej správy
+Národná koncepcia informatizácie verejnej správy (2008)
+Národná koncepcia informatizácie verejnej správy (2016) 
+Strategické priority
+Súvisiace dokumenty
+Pracovné skupiny k strategickým prioritám informatizácie
+
+
+Návrh centralizácie a rozvoja dátových centier v štátnej správe
+
+
+Architektúra verejnej správy
+Vládny cloud
+Manažment údajov
+Referenčné údaje
+Licencie
+Verejné obstarávanie a zmluvy pre IKT
+Rada vlády SR pre digitalizáciu VS
+
+
+
+
+
+
+
+
+
+
+
+
+Národná koncepcia informatizácie verejnej správy (2016)
+Národná koncepcia informatizácie verejnej správy (ďalej len „NKIVS“) je strategický dokument vypracovaný Úradom podpredsedu vlády SR pre investície a informatizáciu, ktorý sa venuje princípom budovania eGovernmentu na Slovensku.
+Národná koncepcia informatizácie verejnej správy Slovenskej republiky (ďalej len „NKIVS“ alebo „koncepcia“) navrhovaná na indikatívne obdobie do roku 2020 nadväzuje na pôvodné princípy informatizácie definované v NKIVS schválenej v roku 2008 a zároveň prezentuje aktuálny stav architektúry integrovaného informačného systému verejnej správy, zrealizované rozvojové projekty a uskutočnené aktivity, ktoré rozširuje o nové princípy vyplývajúce zo súčasných trendov a získaných skúseností, ako aj z možností poskytovaných rozvojom informačno-komunikačných technológií (ďalej len „IKT“).
+NKIVS nadväzuje na Strategický dokument pre oblasť rastu digitálnych služieb a oblasť infraštruktúry prístupovej siete novej generácie (2014 – 2020), ktorý obsahuje podrobnú analýzu situácie v oblasti informatizácie verejnej správy na Slovensku, porovnanie so svetom, zhrnutie výsledkov Operačného programu Informatizácia spoločnosti a poučenia z obdobia 2007 – 2013.  Východiskom pre NKIVS je zároveň legislatíva prijatá v nedávnom období.
+NKIVS prináša nový systematický a koordinovaný prístup do riešenia problematiky informatizácie verejnej správy predovšetkým tým, že sa tentokrát nezameriava len na centrálnu architektúru a centrálne komponenty architektúry integrovaného informačného systému verejnej správy, ale detailnejšie rieši aj problematiku informatizácie riešení jednotlivých povinných osôb, definovaním centrálnych pravidiel, tak aby verejná správa poskytovala kvalitné služby nielen voči občanom a podnikateľom, ale i voči iným orgánom verejnej moci (ďalej len „OVM“), a to aj cezhranične. Uvedená zmena prístupu je podporená zavedením strategickej architektúry verejnej správy ako nástroja pre systematické modelovanie, analyzovanie a komunikovanie architektúry informačných systémov verejnej správy vrátane jej previazaných súčastí tak, aby došlo k rozvoju informatizácie verejnej správy ako harmonického celku. 
+Návrh NKIVS a proces jeho tvorby si môžete pozrieť na podstránkach nižšie.
+NKIVS bola dňa 28.9.2016 schválená vládou SR:
+Národná koncepcia informatizácie verejnej správy Slovenskej republiky (2638 kB)
+
+		Publikované: 25.01.2016 / 
+		Aktualizované : 03.10.2016 / 		
+			UPVSRII
+					
+
+Späť »
+
+
+ Vytlačiť
+
+
+
+ 
+
+
+
+
+
+
+október, 2022
+
+
+
+
+
+
+
+
+Po
+Ut
+St
+Š
+Pi
+So
+Ne
+
+
+
+
+ 26
+27
+28
+29
+30
+1
+2
+ 3
+4
+5
+6
+7
+8
+9
+ 10
+11
+12
+13
+14
+15
+16
+ 17
+18
+19
+20
+21
+22
+23
+ 24
+25
+26
+27
+28
+29
+30
+ 31
+1
+2
+3
+4
+5
+6
+
+
+
+
+PRIDANIE UDALOSTI
+
+
+
+ 
+
+
+
+
+
+
+» Poradňa
+Vaše otázky
+
+» Používatelia
+prihlásenie
+
+ 
+Anketa
+
+
+
+ V rámci Operačného programu Integrovaná infraštruktúra 2014-2020 bude MFSR zodpovedným orgánom za plnenie cieľov jeho prioritnej osi 7 Informačná spoločnosť.
+Ktorý z nasledujúcich vybraných cieľov prioritnej osi 7 považujete vy osobne za najdôležitejší?
+
+
+
+Rozširovanie vládneho cloudu
+
+
+
+
+
+
+83497
+
+Rozvoj elektronických služieb pre občanov a podnikateľov
+
+
+
+
+
+
+100567
+
+Pokrytie všetkých domácností širokopásmovým internetom s rýchlosťou min. 30Mbit/s
+
+
+
+
+
+
+60891
+
+Zvyšovanie dostupnosti údajov verejnej správy prostredníctvom otvorených dát
+
+
+
+
+
+
+22784
+
+Podpora prebiehajúcej reformy verejnej správy prostriedkami IKT (informačno-komunikačné technológie) 
+
+
+
+
+
+
+88697
+  
+
+Staršie ankety
+
+
+
+
+
+
+
+» Odkazy
+
+
+
+
+
+ 
+Ministerstvo financií SR 
+
+
+
+
+ 
+Ústredný portál verejnej správy Slovensko.sk  
+
+
+
+
+ 
+Úrad vlády SR 
+
+
+
+
+ 
+Riadiaci orgán preOP IS 
+
+
+
+
+ 
+Softvér pre používateľov elektronických občianskych preukazov eID  
+
+
+
+
+
+Koordinácia synergií a komplementarít  
+
+
+
+
+
+OP EVS 
+
+
+
+
+
+ECAS 
+
+
+
+
+ 
+
+Pridať do obľúbených | Správca obsahu (ÚPVII) | Technická podpora (Datacentrum) | Právne informácie | RSS | Mapa stránok | Vyhlásenie o prístupnosti
+ 
+© 2009 Ministerstvo financií Slovenskej republiky
+
+Začiatok stránky
+
+
+
+

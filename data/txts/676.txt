@@ -155,36 +155,6 @@ Let's create smarter business
 
 
 
-                                        01 Oct
-                                    
-
-                                        Application development
-                                    
-
-
-                                    5 application development trends to watch in 2025 and 2026
-                                
-
-                                    
-                                        Mesh Flinders, 
-                                    
-                                        Ian Smalley
-                                    
-                                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
                                         30 Sep
                                     
 
@@ -253,6 +223,34 @@ Let's create smarter business
 
                                     
                                         Anabelle Nicoud
+                                    
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        23 Sep
+                                    
+
+                                        Data integration
+                                    
+
+
+                                    Stop the bleed: Avoid 3 data integration mistakes that cost millions
+                                
+
+                                    
+                                        Chandni Sinha
                                     
                                 
 

@@ -4,6 +4,7 @@
 
 
 
+Principles for Accountable Algorithms and a Social Impact Statement for Algorithms :: FAT ML
 
 
 
@@ -16,6 +17,7 @@
 
 
 
+Toggle navigation
 
 
 
@@ -27,6 +29,14 @@
 
 
 
+2018
+2017
+2016
+2015
+2014
+Organization
+Resources
+Mailing list
 
 
 
@@ -37,1623 +47,168 @@
 
 
 
-Australia’s AI Ethics Principles | Australia’s Artificial Intelligence Ethics Principles | Department of Industry Science and Resources
+Toggle navigation
 
 
 
 
+Resources
 
 
 
+Scholarship
+Events
+Projects
+Principles and Best Practices
 
 
 
-You have Javascript disabled and your user experience may not be as intended without enabling it. Please consider enabling Javascript or email us at digital [at] industry.gov.au for further assistance.
-  
 
 
 
 
+Principles for Accountable Algorithms and a Social Impact Statement for Algorithms
 
-        Skip to main content
-      
 
+Principles for Accountable Algorithms
+Automated decision making algorithms are now used throughout industry and government, underpinning many processes from dynamic pricing to employment practices to criminal sentencing. Given that such algorithmically informed decisions have the potential for significant societal impact, the goal of this document is to help developers and product managers design and implement algorithmic systems in publicly accountable ways. Accountability in this context includes an obligation to report, explain, or justify algorithmic decision-making as well as mitigate any negative social impacts or potential harms.
+We begin by outlining five equally important guiding principles that follow from this premise: 
+Algorithms and the data that drive them are designed and created by people -- There is always a human ultimately responsible for decisions made or informed by an algorithm. "The algorithm did it" is not an acceptable excuse if algorithmic systems make mistakes or have undesired consequences, including from machine-learning processes. 
+Responsibility
+Make available externally visible avenues of redress for adverse individual or societal effects of an algorithmic decision system, and designate an internal role for the person who is responsible for the timely remedy of such issues.
+Explainability
+Ensure that algorithmic decisions as well as any data driving those decisions can be explained to end-users and other stakeholders in non-technical terms.
+Accuracy
+Identify, log, and articulate sources of error and uncertainty throughout the algorithm and its data sources so that expected and worst case implications can be understood and inform mitigation procedures. 
+Auditability
+Enable interested third parties to probe, understand, and review the behavior of the algorithm through disclosure of information that enables monitoring, checking, or criticism, including through provision of detailed documentation, technically suitable APIs, and permissive terms of use. 
+Fairness
+Ensure that algorithmic decisions do not create discriminatory or unjust impacts when comparing across different demographics (e.g. race, sex, etc).
 
+We have left some of the terms above purposefully under-specified to allow these principles to be broadly applicable. Applying these principles well should include understanding them within a specific context. We also suggest that these issues be revisited and discussed throughout the design, implementation, and release phases of development. Two important principles for consideration were purposefully left off of this list as they are well-covered elsewhere: privacy and the impact of human experimentation. We encourage you to incorporate those issues into your overall assessment of algorithmic accountability as well.
+Social Impact Statement for Algorithms
+In order to ensure their adherence to these principles and to publicly commit to associated best practices, we propose that algorithm creators develop a Social Impact Statement using the above principles as a guiding structure. This statement should be revisited and reassessed (at least) three times during the design and development process:
 
-        Skip to search
-      
+design stage,
+pre-launch,
+and post-launch.
 
+When the system is launched, the statement should be made public as a form of transparency so that the public has expectations for social impact of the system.  
+The Social Impact Statement should minimally answer the questions below. Included below are concrete steps that can be taken, and documented as part of the statement, to address these questions. These questions and steps make up an outline of such a social impact statement.
+Responsibility
+Guiding Questions
 
+Who is responsible if users are harmed by this product? 
+What will the reporting process and process for recourse be? 
+Who will have the power to decide on necessary changes to the algorithmic system during design stage, pre-launch, and post-launch?
 
-        Skip to main website navigation
-      
+Initial Steps to Take
 
+Determine and designate a person who will be responsible for the social impact of the algorithm. 
+Make contact information available so that if there are issues it’s clear to users how to proceed
+Develop a plan for what to do if the project has unintended consequences.  This may be part of a maintenance plan and should involve post-launch monitoring plans.
+Develop a sunset plan for the system to manage algorithm or data risks after the product is no longer in active development. 
 
+Explainability
+Guiding Questions
 
+Who are your end-users and stakeholders? 
+How much of your system / algorithm can you explain to your users and stakeholders? 
+How much of the data sources can you disclose?
 
+Initial Steps to Take
 
+Have a plan for how decisions will be explained to users and subjects of those decisions. In some cases it may be appropriate to develop an automated explanation for each decision.
+Allow data subjects visibility into the data you store about them and access to a process in order to change it.
 
+If you are using a machine-learning model:
 
+consider whether a directly interpretable or explainable model can be used.
+describe the training data including how, when, and why it was collected and sampled.
+describe how and when test data about an individual that is used to make a decision is collected or inferred.
 
 
 
+Disclose the sources of any data used and as much as possible about the specific attributes of the data.  Explain how the data was cleaned or otherwise transformed.
 
 
+Accuracy
+Guiding Questions
 
- 
+What sources of error do you have and how will you mitigate their effect? 
+How confident are the decisions output by your algorithmic system? 
+What are realistic worst case scenarios in terms of how errors might impact society, individuals, and stakeholders? 
+Have you evaluated the provenance and veracity of data and considered alternative data sources? 
 
+Initial Steps to Take
 
+Assess the potential for errors in your system and the resulting potential for harm to users.
+Undertake a sensitivity analysis to assess how uncertainty in the output of the algorithm relates to uncertainty in the inputs. 
+Develop a process by which people can correct errors in input data, training data, or in output decisions.
+Perform a validity check by randomly sampling a portion of your data (e.g., input and/or training data) and manually checking its correctness. This check should be performed early in your development process before derived information is used. Report the overall data error rate on this random sample publicly.
+Determine how to communicate the uncertainty / margin of error for each decision.
 
+Auditability
+Guiding Questions
 
+Can you provide for public auditing (i.e. probing, understanding, reviewing of system behavior) or is there sensitive information that would necessitate auditing by a designated 3rd party? 
+How will you facilitate public or third-party auditing without opening the system to unwarranted manipulation? 
 
+Initial Steps to Take
 
-
-
-
-
-
-
-
-
-
-
-
-
-Mega menu
-
-
-
-
-        Who we are
-
-
-
-
-        Entities
-
-
-
-        Anti-Dumping Commission
-
-
-
-        Anti-Dumping Review Panel
-
-
-
-        AusIndustry
-
-
-
-        Australian Industry Participation Authority
-
-
-
-        Australian Radioactive Waste Agency
-
-
-
-        Australian SKA Office
-
-
-
-        Australian Space Agency
-
-
-
-        Australian Space Discovery Centre
-
-
-
-        Critical Minerals Office
-
-
-
-        Industry Innovation and Science Australia
-
-
-
-        Major Projects Facilitation Agency 
-
-
-
-        National Artificial Intelligence Centre
-
-
-
-        National Measurement Institute
-
-
-
-        National Offshore Petroleum Titles Administrator
-
-
-
-        Office of National Rail Industry Coordination
-
-
-
-        Office of Supply Chain Resilience 
-
-
-
-        Office of the Chief Economist
-
-
-
-        Office of the Chief Scientist
-
-
-
-        Offshore Decommissioning Directorate
-
-
-
-        Questacon
-
-
-
-
-
-        Ministers
-
-
-
-        People
-
-
-
-        Organisation chart
-
-
-
-        Overseas counsellors
-
-
-
-
-
-        Portfolio agencies and boards
-
-
-
-        Public consultation
-
-
-
-        Accessing information
-
-
-
-        Campaigns
-
-
-
-        Freedom of information 
-
-
-
-        Gifts and benefits 
-
-
-
-        Grants reporting
-
-
-
-        Indexed list of files 
-
-
-
-        Portfolio appointments and vacancies
-
-
-
-        Privacy impact assessments 
-
-
-
-
-
-        Careers
-
-
-
-        Current vacancies
-
-
-
-        Graduates
-
-
-
-
-
-        Corporate governance 
-
-
-
-        Annual report
-
-
-
-        Budget statements 
-
-
-
-        Corporate plans 
-
-
-
-        Fraud and corruption control 
-
-
-
-        Public interest disclosure 
-
-
-
-        Regulatory performance 
-
-
-
-
-
-        Government to government 
-
-
-
-        Australian Business Licensing and Information Service
-
-
-
-        business.gov.au
-
-
-
-        Business Grants Hub
-
-
-
-        Business Registration Service
-
-
-
-        Shared Services Hub
-
-
-
-        VANguard
-
-
-
-
-
-
-
-
-        Topics
-
-
-
-
-        Major projects and procurement 
-
-
-
-        Australian industry participation 
-
-
-
-        Major projects facilitation 
-
-
-
-
-
-        Manufacturing
-
-
-
-        Batteries
-
-
-
-        Green metals
-
-
-
-        Rail manufacturing 
-
-
-
-
-
-        Measurement
-
-
-
-        Australia's measurement system
-
-
-
-        Measurement standards 
-
-
-
-        Pattern approval
-
-
-
-        Trade measurement 
-
-
-
-
-
-        Awards
-
-
-
-        Chemical and biological measurement services
-
-
-
-        Physical measurement services
-
-
-
-        Testing and analytical services
-
-
-
-        Training and assessment
-
-
-
-
-
-        Mining, oil and gas
-
-
-
-        Minerals
-
-
-
-        Critical minerals 
-
-
-
-        Offshore minerals
-
-
-
-        Ranger Uranium Mine
-
-
-
-
-
-        Offshore greenhouse gas storage
-
-
-
-        Acreage release process
-
-
-
-
-
-        Oil and gas
-
-
-
-        Domestic gas supply 
-
-
-
-        Offshore oil and gas
-
-
-
-        Decommissioning the Northern Endeavour
-
-
-
-
-
-        Taxes, royalties and export controls 
-
-
-
-        Combination certificates 
-
-
-
-        Rough diamonds  
-
-
-
-        Uranium and controlled ores 
-
-
-
-
-
-
-
-        Radioactive waste management
-
-
-
-        Science, technology and innovation
-
-
-
-        Diversity in STEM
-
-
-
-        Industry innovation
-
-
-
-        AusIndustry
-
-
-
-        Business Research and Innovation Initiative
-
-
-
-        Critical Technologies Challenge Program
-
-
-
-        Industry Growth Program
-
-
-
-        Research and Development Tax Incentive
-
-
-
-
-
-        Industry Innovation and Science Australia
-
-
-
-        International collaboration 
-
-
-
-        Advice
-
-
-
-        China
-
-
-
-        India
-
-
-
-
-
-        Science engagement 
-
-
-
-        Australian Space Discovery Centre
-
-
-
-        Measurement awards
-
-
-
-        Prime Minister's Prizes for Science
-
-
-
-
-
-        Space and astronomy
-
-
-
-        Australian Space Agency
-
-
-
-        SKA
-
-
-
-        Optical astronomy
-
-
-
-
-
-        Technology
-
-
-
-        Artificial intelligence
-
-
-
-        National Artificial Intelligence Centre
-
-
-
-        Quantum
-
-
-
-        Robotics
-
-
-
-        Critical technology standards
-
-
-
-
-
-
-
-        Trade
-
-
-
-        Anti-dumping
-
-
-
-        Anti-dumping reviews 
-
-
-
-        Country of origin labelling
-
-
-
-        Exporting resources 
-
-
-
-        Free trade agreements
-
-
-
-        Reducing technical barriers
-
-
-
-        Standards and conformance
-
-
-
-        Steel tariff rate quotas
-
-
-
-        Supply chain resilience 
-
-
-
-
-
-
-
-
-Publications
-
-
-News
-
-
-Contact us
-
-
-
-
-
-
- close menu
-
-
-
-
-        Who we are
-
-
- BACK TO MAIN MENU
-
-
-        Entities
-
-
-
-        Anti-Dumping Commission
-
-
-
-        Anti-Dumping Review Panel
-
-
-
-        AusIndustry
-
-
-
-        Australian Industry Participation Authority
-
-
-
-        Australian Radioactive Waste Agency
-
-
-
-        Australian SKA Office
-
-
-
-        Australian Space Agency
-
-
-
-        Australian Space Discovery Centre
-
-
-
-        Critical Minerals Office
-
-
-
-        Industry Innovation and Science Australia
-
-
-
-        Major Projects Facilitation Agency 
-
-
-
-        National Artificial Intelligence Centre
-
-
-
-        National Measurement Institute
-
-
-
-        National Offshore Petroleum Titles Administrator
-
-
-
-        Office of National Rail Industry Coordination
-
-
-
-        Office of Supply Chain Resilience 
-
-
-
-        Office of the Chief Economist
-
-
-
-        Office of the Chief Scientist
-
-
-
-        Offshore Decommissioning Directorate
-
-
-
-        Questacon
-
-
-
-
-
-        Ministers
-
-
-
-        People
-
-
-
-        Organisation chart
-
-
-
-        Overseas counsellors
-
-
-
-
-
-        Portfolio agencies and boards
-
-
-
-        Public consultation
-
-
-
-        Accessing information
-
-
-
-        Campaigns
-
-
-
-        Freedom of information 
-
-
-
-        Gifts and benefits 
-
-
-
-        Grants reporting
-
-
-
-        Indexed list of files 
-
-
-
-        Portfolio appointments and vacancies
-
-
-
-        Privacy impact assessments 
-
-
-
-
-
-        Careers
-
-
-
-        Current vacancies
-
-
-
-        Graduates
-
-
-
-
-
-        Corporate governance 
-
-
-
-        Annual report
-
-
-
-        Budget statements 
-
-
-
-        Corporate plans 
-
-
-
-        Fraud and corruption control 
-
-
-
-        Public interest disclosure 
-
-
-
-        Regulatory performance 
-
-
-
-
-
-        Government to government 
-
-
-
-        Australian Business Licensing and Information Service
-
-
-
-        business.gov.au
-
-
-
-        Business Grants Hub
-
-
-
-        Business Registration Service
-
-
-
-        Shared Services Hub
-
-
-
-        VANguard
-
-
-
-
-
-
-
-
-        Topics
-
-
- BACK TO MAIN MENU
-
-
-        Major projects and procurement 
-
-
-
-        Australian industry participation 
-
-
-
-        Major projects facilitation 
-
-
-
-
-
-        Manufacturing
-
-
-
-        Batteries
-
-
-
-        Green metals
-
-
-
-        Rail manufacturing 
-
-
-
-
-
-        Measurement
-
-
-
-        Australia's measurement system
-
-
-
-        Measurement standards 
-
-
-
-        Pattern approval
-
-
-
-        Trade measurement 
-
-
-
-
-
-        Awards
-
-
-
-        Chemical and biological measurement services
-
-
-
-        Physical measurement services
-
-
-
-        Testing and analytical services
-
-
-
-        Training and assessment
-
-
-
-
-
-        Mining, oil and gas
-
-
-
-        Minerals
-
-
-
-        Critical minerals 
-
-
-
-        Offshore minerals
-
-
-
-        Ranger Uranium Mine
-
-
-
-
-
-        Offshore greenhouse gas storage
-
-
-
-        Acreage release process
-
-
-
-
-
-        Oil and gas
-
-
-
-        Domestic gas supply 
-
-
-
-        Offshore oil and gas
-
-
-
-        Decommissioning the Northern Endeavour
-
-
-
-
-
-        Taxes, royalties and export controls 
-
-
-
-        Combination certificates 
-
-
-
-        Rough diamonds  
-
-
-
-        Uranium and controlled ores 
-
-
-
-
-
-
-
-        Radioactive waste management
-
-
-
-        Science, technology and innovation
-
-
-
-        Diversity in STEM
-
-
-
-        Industry innovation
-
-
-
-        AusIndustry
-
-
-
-        Business Research and Innovation Initiative
-
-
-
-        Critical Technologies Challenge Program
-
-
-
-        Industry Growth Program
-
-
-
-        Research and Development Tax Incentive
-
-
-
-
-
-        Industry Innovation and Science Australia
-
-
-
-        International collaboration 
-
-
-
-        Advice
-
-
-
-        China
-
-
-
-        India
-
-
-
-
-
-        Science engagement 
-
-
-
-        Australian Space Discovery Centre
-
-
-
-        Measurement awards
-
-
-
-        Prime Minister's Prizes for Science
-
-
-
-
-
-        Space and astronomy
-
-
-
-        Australian Space Agency
-
-
-
-        SKA
-
-
-
-        Optical astronomy
-
-
-
-
-
-        Technology
-
-
-
-        Artificial intelligence
-
-
-
-        National Artificial Intelligence Centre
-
-
-
-        Quantum
-
-
-
-        Robotics
-
-
-
-        Critical technology standards
-
-
-
-
-
-
-
-        Trade
-
-
-
-        Anti-dumping
-
-
-
-        Anti-dumping reviews 
-
-
-
-        Country of origin labelling
-
-
-
-        Exporting resources 
-
-
-
-        Free trade agreements
-
-
-
-        Reducing technical barriers
-
-
-
-        Standards and conformance
-
-
-
-        Steel tariff rate quotas
-
-
-
-        Supply chain resilience 
-
-
-
-
-
-
-
-
-Publications
-
-
-News
-
-
-Contact us
-
-
-
-
-
-
-
-
-
-
-
-
-
-Search this website
-
-Search
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Navigate
-
-
-
-Explore the digital publication
-
-
-Australia’s Artificial Intelligence Ethics Principles
-
-
-
-        Australia’s AI Ethics Principles
-
-
-
-        Testing the AI Ethics Principles
-
-
-
-        Developing the AI Ethics Principles
-
-
-
-
-
-
-
-
-
-
-
-       Explore this publication
-
-
-Australia’s Artificial Intelligence Ethics Principles
-
-
-
-        Australia’s AI Ethics Principles
-
-
-
-        Testing the AI Ethics Principles
-
-
-
-        Developing the AI Ethics Principles
-
-
-
-
-
-
-
-
-
-
-Australia’s Artificial Intelligence Ethics Principles
-
-
-
-
-
-
-
-
-
-
-
-Home
-/
-
-
-Australia’s Artificial Intelligence Ethics Principles
-/
-
-
-          Australia’s AI Ethics Principles
-        
-
-
-
-
-
-
-Australia’s AI Ethics Principles
-
-
-
-
-
-
-
- 
-
-
-Australia’s 8 Artificial Intelligence (AI) Ethics Principles are designed to ensure AI is safe, secure and reliable.
-They will help:
-
-achieve safer, more reliable and fairer outcomes for all Australians
-reduce the risk of negative impact on those affected by AI applications
-businesses and governments to practice the highest ethical standards when designing, developing and implementing AI.
-
-When to apply these principles
-The principles are entirely voluntary. They are designed to prompt organisations to consider the impact of using AI enabled systems. We intend them to be aspirational and complement, not substitute, existing AI regulations and practices.
-Not every principle will be relevant to your use of AI. 
-Not every business uses AI, and not every use of AI requires comprehensive analysis against the principles. For example, many businesses use systems that may incorporate AI such as email or accounting software. This use is unlikely to be of sufficient impact to require the use of the principles. 
-If your AI use doesn’t involve or affect human beings, you may not need to consider all of the principles.
-Consider these questions 
-To help decide whether you should apply these ethical principles, consider the following threshold questions. If you answer ‘yes’ then applying the principles could help you plan for better outcomes. 
-
-Will the AI system you are developing or implementing be used to make decisions or in other ways have a significant impact (positive or negative) on people (including marginalised groups), the environment or society? 
-Are you unsure about how the AI system may impact your organisation or your customers/clients?
-
-Principles at a glance
-
-Human, societal and environmental wellbeing: AI systems should benefit individuals, society and the environment.
-Human-centred values: AI systems should respect human rights, diversity, and the autonomy of individuals.
-Fairness: AI systems should be inclusive and accessible, and should not involve or result in unfair discrimination against individuals, communities or groups.
-Privacy protection and security: AI systems should respect and uphold privacy rights and data protection, and ensure the security of data.
-Reliability and safety: AI systems should reliably operate in accordance with their intended purpose.
-Transparency and explainability: There should be transparency and responsible disclosure so people can understand when they are being significantly impacted by AI, and can find out when an AI system is engaging with them.
-Contestability: When an AI system significantly impacts a person, community, group or environment, there should be a timely process to allow people to challenge the use or outcomes of the AI system.
-Accountability: People responsible for the different phases of the AI system lifecycle should be identifiable and accountable for the outcomes of the AI systems, and human oversight of AI systems should be enabled.
-
-Principles in detail
-
-
-
-
-
-Human, social and environmental wellbeing 
-Throughout their lifecycle, AI systems should benefit individuals, society and the environment.
-This principle aims to clearly indicate from the outset that AI systems should be used for beneficial outcomes for individuals, society and the environment. AI system objectives should be clearly identified and justified. AI systems that help address areas of global concern should be encouraged, like the United Nation’s Sustainable Development Goals. Ideally, AI systems should be used to benefit all human beings, including future generations.
-AI systems designed for legitimate internal business purposes, like increasing efficiency, can have broader impacts on individual, social and environmental wellbeing. Those impacts, both positive and negative, should be accounted for throughout the AI system’s lifecycle, including impacts outside the organisation.
-
-
-
-
-
-Human-centred values
-Throughout their lifecycle, AI systems should respect human rights, diversity, and the autonomy of individuals.
-This principle aims to ensure that AI systems are aligned with human values. Machines should serve humans, and not the other way around. AI systems should enable an equitable and democratic society by respecting, protecting and promoting human rights, enabling diversity, respecting human freedom and the autonomy of individuals, and protecting the environment.
-Human rights risks need to be carefully considered, as AI systems can equally enable and hamper such fundamental rights. It’s permissible to interfere with certain human rights where it’s reasonable, necessary and proportionate.
-All people interacting with AI systems should be able to keep full and effective control over themselves. AI systems should not undermine the democratic process, and should not undertake actions that threaten individual autonomy, like deception, unfair manipulation, unjustified surveillance, and failing to maintain alignment between a disclosed purpose and true action.
-AI systems should be designed to augment, complement and empower human cognitive, social and cultural skills. Organisations designing, developing, deploying or operating AI systems should ideally hire staff from diverse backgrounds, cultures and disciplines to ensure a wide range of perspectives, and to minimise the risk of missing important considerations only noticeable by some stakeholders.
-
-
-
-
+Document and make available an API that allows third parties to query the algorithmic system and assess its response. 
+Make sure that if data is needed to properly audit your algorithm, such as in the case of a machine-learning algorithm, that sample (e.g., training) data is made available.
+Make sure your terms of service allow the research community to perform automated public audits.
+Have a plan for communication with outside parties that may be interested in auditing your algorithm, such as the research and development community. 
 
 Fairness
-Throughout their lifecycle, AI systems should be inclusive and accessible, and should not involve or result in unfair discrimination against individuals, communities or groups.
-This principle aims to ensure that AI systems are fair and that they enable inclusion throughout their entire lifecycle. AI systems should be user-centric and designed in a way that allows all people interacting with it to access the related products or services. This includes both appropriate consultation with stakeholders, who may be affected by the AI system throughout its lifecycle, and ensuring people receive equitable access and treatment.
-This is particularly important given concerns about the potential for AI to perpetuate societal injustices and have a disparate impact on vulnerable and underrepresented groups including, but not limited to, groups relating to age, disability, race, sex, intersex status, gender identity and sexual orientation. Measures should be taken to ensure the AI produced decisions are compliant with anti‐discrimination laws.
+Guiding Questions
+
+Are there particular groups which may be advantaged or disadvantaged, in the context in which you are deploying, by the algorithm / system you are building?  
+What is the potential damaging effect of uncertainty / errors to different groups?
+
+Initial Steps to Take
 
 
+Talk to people who are familiar with the subtle social context in which you are deploying.  For example, you should consider whether the following aspects of people’s identities will have impacts on their equitable access to and results from your system:
 
 
+Race
 
-Privacy protection and security
-Throughout their lifecycle, AI systems should respect and uphold privacy rights and data protection, and ensure the security of data.
-This principle aims to ensure respect for privacy and data protection when using AI systems. This includes ensuring proper data governance, and management, for all data used and generated by the AI system throughout its lifecycle. For example, maintaining privacy through appropriate data anonymisation where used by AI systems. Further, the connection between data, and inferences drawn from that data by AI systems, should be sound and assessed in an ongoing manner.
-This principle also aims to ensure appropriate data and AI system security measures are in place. This includes the identification of potential security vulnerabilities, and assurance of resilience to adversarial attacks. Security measures should account for unintended applications of AI systems, and potential abuse risks, with appropriate mitigation measures.
+Sex
+Gender identity
+Ability status
+Socio-economic status
+Education level
+Religion
 
-
-
-
-
-Reliability and safety
-Throughout their lifecycle, AI systems should reliably operate in accordance with their intended purpose.
-This principle aims to ensure that AI systems reliably operate in accordance with their intended purpose throughout their lifecycle. This includes ensuring AI systems are reliable, accurate and reproducible as appropriate.
-AI systems should not pose unreasonable safety risks, and should adopt safety measures that are proportionate to the magnitude of potential risks. AI systems should be monitored and tested to ensure they continue to meet their intended purpose, and any identified problems should be addressed with ongoing risk management as appropriate. Responsibility should be clearly and appropriately identified, for ensuring that an AI system is robust and safe.
+Country of origin
 
 
+If you are building an automated decision-making tool, you should deploy a fairness-aware data mining algorithm.  (See, e.g., the resources gathered at http://fatml.org).
 
+Calculate the error rates and types (e.g., false positives vs. false negatives) for different sub-populations and assess the potential differential impacts.
 
-
-Transparency and explainability
-There should be transparency and responsible disclosure so people can understand when they are being significantly impacted by AI, and can find out when an AI system is engaging with them.
-Achieving transparency in AI systems through responsible disclosure is important to each stakeholder group for the following reasons[1]:
-
-for users, what the system is doing and why
-for creators, including those undertaking the validation and certification of AI, the systems’ processes and input data
-for those deploying and operating the system, to understand processes and input data
-for an accident investigator, if accidents occur
-for regulators in the context of investigations
-for those in the legal process, to inform evidence and decision‐making
-for the public, to build confidence in the technology
-
-Responsible disclosures should be provided in a timely manner, and provide reasonable justifications for AI systems outcomes. This includes information that helps people understand outcomes, like key factors used in decision making.
-This principle also aims to ensure people have the ability to find out when an AI system is engaging with them (regardless of the level of impact), and are able to obtain a reasonable disclosure regarding the AI system.
-
-
-
-
-
-Contestability
-When an AI system significantly impacts a person, community, group or environment, there should be a timely process to allow people to challenge the use or outcomes of the AI system.
-This principle aims to ensure the provision of efficient, accessible mechanisms that allow people to challenge the use or output of an AI system, when that AI system significantly impacts a person, community, group or environment. The definition of the threshold for ‘significant impact’ will depend on the context, impact and application of the AI system in question.
-Knowing that redress for harm is possible, when things go wrong, is key to ensuring public trust in AI. Particular attention should be paid to vulnerable persons or groups.
-There should be sufficient access to the information available to the algorithm, and inferences drawn, to make contestability effective. In the case of decisions significantly affecting rights, there should be an effective system of oversight, which makes appropriate use of human judgment.
-
-
-
-
-
-Accountability
-Those responsible for the different phases of the AI system lifecycle should be identifiable and accountable for the outcomes of the AI systems, and human oversight of AI systems should be enabled.
-This principle aims to acknowledge the relevant organisations’ and individuals’ responsibility for the outcomes of the AI systems that they design, develop, deploy and operate. The application of legal principles regarding accountability for AI systems is still developing.
-Mechanisms should be put in place to ensure responsibility and accountability for AI systems and their outcomes. This includes both before and after their design, development, deployment and operation. The organisation and individual accountable for the decision should be identifiable as necessary. They must consider the appropriate level of human control or oversight for the particular AI system or use case.
-AI systems that have a significant impact on an individual’s rights should be accountable to external review, this includes providing timely, accurate, and complete information for the purposes of independent oversight bodies.
-Give us feedback
-Are you using the AI Ethics Principles in your work? Let us know your feedback by emailing mailto:Artificial.Intelligence@industry.gov.au
-
+Authors
+Nicholas Diakopoulos, University of Maryland, College Park
+Sorelle Friedler, Haverford College
+Marcelo Arenas, Pontificia Universidad Catolica de Chile, CL
+Solon Barocas, Microsoft Research
+Michael Hay, Colgate University
+Bill Howe, University of Washington
+H. V. Jagadish, University of Michigan
+Kris Unsworth, Drexel University
+Arnaud Sahuguet, Cornell Tech
+Suresh Venkatasubramanian, University of Utah
+Christo Wilson, Northeastern University
+Cong Yu, Google
+Bendert Zevenbergen, University of Oxford
 
 
 
 
 
  
-
-
-Footnotes
-
-Content based on the Ethically aligned design report by IEEE ↵
-
-
-
-
-
-
-
-
-
-
-
-Publication previous and next page links
-
-  Australia’s Artificial Intelligence Ethics Principles | Australia’s AI Ethics Principles
-  
-
-
-
- Previous page:
-Australia’s Artificial Intelligence Ethics Principles
-
-
-
-
-Next page:
-Testing the AI Ethics Principles
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Explore
-
-
-Careers 
-
-
-People
-
-
-Ministers
-
-
-Publications 
-
-
-News
-
-
-Accessibility
-
-
-Public consultation
-
-
-Corporate governance 
-
-
-Accessing information 
-
-
-Feedback and complaints 
-
-
-Site notices 
-
-
-Sitemap
-
-
-
-
-
-
-
-Contact us at the department
-
-Department of Industry, Science and Resources
-General Enquiries
-+61 2 6213 6000
-Industry House,10 Binara Street,Canberra
-Department of IndustryABN: 74 599 608 295
-
-
-
-
-
-
-
-Subscribe for updates at the department
-
-Sign up for one or more of our email lists to receive the latest news, announcements and opportunities from our department.
-Subscribe
-
-
-
-
-
-Connect with us at the department
-
-
-Follow us on LinkedIn
-Follow us on Facebook
-
-Follow us on X
-Follow us on Youtube
-Subscribe to our RSS feeds
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Acknowledgement of Country
-
-Our department recognises the First Peoples of this Nation and their ongoing cultural and spiritual connections to the lands, waters, seas, skies, and communities.
-We Acknowledge First Nations Peoples as the Traditional Custodians and Lore Keepers of the oldest living culture and pay respects to their Elders past and present. We extend that respect to all First Nations Peoples.
-
-
-
-
-  Visit the Acknowledgement of Country page
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -340,6 +340,60 @@ Read the paper
 
 
 
+                Four strategic shifts to accelerate value with AI governance
+            
+AI governance isn't just about compliance — it's a strategic lever for innovation, scale and value.
+
+Learn more
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Five best practices for responsible synthetic data use
+            
+Good AI begins with good data. Seize the opportunity of synthetic data with best practices for its responsible use.
+
+Get the insights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                 Transforming change management with responsible AI
             
 Prioritizing trust, transparency, skills and agility can help organizations lead the way through AI transformation. 
@@ -448,9 +502,9 @@ Read the blog
 
 
 
-                5 ways responsible AI has changed in the last 5 years
+                Five ways responsible AI has changed in the last 5 years
             
-Through the last five years of AI evolution, the IBM AI Ethics Board has helped IBM responsibly innovate by guiding the development and implementation of ethical guidelines for AI.
+Through the last five years of AI evolution, the IBM Responsible Technology Board has helped IBM responsibly innovate by guiding the development and implementation of ethical guidelines for AI.
 
 Find out how
 
@@ -475,65 +529,11 @@ Find out how
 
 
 
-                Celebrating the 5th anniversary of the IBM AI Ethics Board
+                Celebrating the 5th anniversary of the IBM Responsible Technology Board
             
-Members of the IBM AI Ethics Board reflect on their experiences helping to ensure that AI is used responsibly and for the benefit of all of society.
+Members of the IBM Responsible Technology Board reflect on their experiences helping to ensure that AI is used responsibly and for the benefit of all of society.
 
 Get the insights
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Gaining operational efficiency through data transparency
-            
-The Data & Trust Alliance Data Provenance Standards are helping IBM accelerate internal data diligence processes.
-
-Find out how
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Three key considerations for effective AI governance
-            
-AI governance matters now more than ever. But how do you get started? Find out in a new guide from the IBM Institute for Business Value.
-
-Get the guide
 
 
 
@@ -1240,11 +1240,13 @@ Read the white paper
 
 
 
-The IBM AI Ethics Board is at the center of IBM’s commitment to trust. Its mission is to:
-Provide governance and decision-making as IBM develops, deploys, and uses AI and other technologiesMaintain consistency with the company’s valuesAdvance trustworthy AI for our clients, our partners and the world
-The Board sponsors workstreams that deliver thought leadership, policy advocacy and education and training about responsible AI to drive responsible innovation and the advancement and improvement of AI and emerging technologies. It also assesses use cases that raise potential ethical concerns.
-The Board is a critical mechanism by which IBM holds our company and all IBMers accountable to our values and commitments to the ethical development and deployment of technology.
-Reflecting on the five-year anniversary of the IBM AI Ethics BoardLearn more about ethical impact in the 2023 IBM Impact Report
+The IBM Responsible Technology Board’s mission is to provide governance, standards and practical application of principles for how IBM develops and deploys AI and emerging technologies like quantum computing.
+
+It enables IBM teams to act with confidence, speed, and measurable impact in accordance with the company’s values—to advance technology responsibly for our clients, partners and the world.
+
+Learn more about the history of the Board and read its latest POVs and perpectives.
+ 
+
 
 
 

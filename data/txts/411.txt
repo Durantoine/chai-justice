@@ -141,7 +141,7 @@ Mr Wael William Diab
 
 ISO Technical Programme Manager [TPM]:
           
-Ms Jacquelyn MacCoon
+Mr Andrew Dryden
 
 
 
@@ -373,7 +373,7 @@ Peace, Justice and Strong Institutions
 
 
 
-45
+46
 
           ISO standards under development *
 
@@ -384,13 +384,13 @@ Peace, Justice and Strong Institutions
 
 
 
-49
+50
 Participating members
 
 
 
 
-26
+25
 
         Observing members
 
@@ -694,6 +694,11 @@ ISO/IEC
 
 ISO/IEC JTC 1/SC 43
 Brain-computer interfaces
+ISO/IEC
+
+
+ISO/IEC JTC 1/SC 44
+Consumer protection in the field of privacy by design
 ISO/IEC
 
 

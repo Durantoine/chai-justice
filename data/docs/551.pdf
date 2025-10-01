@@ -126,7 +126,7 @@ function OptanonWrapper() { }
 <meta name="pwcHideLevel" content="0"/>
 <meta name="target" content=""/>
 <meta name="pwcReleaseDate" content="2013-08-13T00:00:00.000-04:00"/>	
-<meta name="pwcLastModifiedDate" content="2025-09-17T16:22:29.790Z"/>	
+<meta name="pwcLastModifiedDate" content="2025-09-29T12:27:18.635Z"/>	
 <meta name="pwcselectednav" content="0"/>
 <meta name="viewport" id="pwcviewport" content="width=device-width, initial-scale=1.0">
 <link rel="apple-touch-icon" href="/content/pwc/script/network/apple-touch-icon.png"/>
@@ -322,7 +322,9 @@ function OptanonWrapper() { }
     
     
 
-</head>
+
+<script>!function(){function o(n,i){if(n&&i)for(var r in i)i.hasOwnProperty(r)&&(void 0===n[r]?n[r]=i[r]:n[r].constructor===Object&&i[r].constructor===Object?o(n[r],i[r]):n[r]=i[r])}try{var n=decodeURIComponent("%7B%0A%20%20%20%20%20%22RT%22%3A%7B%20%22cookie%22%3A%22%22%20%7D%0A%7D");if(n.length>0&&window.JSON&&"function"==typeof window.JSON.parse){var i=JSON.parse(n);void 0!==window.BOOMR_config?o(window.BOOMR_config,i):window.BOOMR_config=i}}catch(r){window.console&&"function"==typeof window.console.error&&console.error("mPulse: Could not parse configuration",r)}}();</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="W39ZE-EYXS3-WX3LT-SEQ79-Q239J",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"W39ZE-EYXS3-WX3LT-SEQ79-Q239J";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="rhbjowtikuugy2g5du4q-f-4d7003d60-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"39","ak.cp":"403533","ak.ai":parseInt("256181",10),"ak.ol":"0","ak.cr":7,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"fe99648","ak.r":50167,"ak.a2":n,"ak.m":"x","ak.n":"essl","ak.bpcip":"137.194.151.0","ak.cport":56802,"ak.gh":"2.20.137.33","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1759321401","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==CCa0r8uARWnhpyr4uuxh744pspU9gLBd4EKGg6j9aJ5OFMA0R7m7a3pGwbabeZ6EYiRGyHgTWX6IxnIHmTSuvYyMrJpnNIAhfBimqjEsz/ikSHmYjRYMFXp0IEpZJd4pLh5w0vAsUM9NtyBdmZBEpqY462+lzhAgSfZ6smBQtONOAn/VR99unElK3SJCAsvyJ6xpFI81Apo5Y2oKiUHiDyjHEnirDqCrVVqF78zZsiisk28FJ2IqeVzUc562wj5OcPKJTPAOKJUj1LupOvgPivzK/dW+CVFaVwPrBQHmeNJq/U9CA3VZJW7p4Yz/rh5UEOrqCOCLuZeTXINaMPdnUOz0oKz4jstqIq3a4/iXuLSMzE6urfqEpvRccluL3uB/74zC71cnyz7nrGsyO1Xf6khBKM5AIGzMDemB6fZsogE=","ak.pv":"443","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
     <body class="basepage page basicpage page-primary-col--orange page-secondary-col--orange page-tertiary-col--orange territory-homepage-template page-primary-col--orange page-secondary-col--orange page-tertiary-col--orange    bu-territory publish standard-spacing pwcscrolling longformcontent cmp-base-modernized">
         
              
@@ -2164,7 +2166,7 @@ function OptanonWrapper() { }
                             $('#pwc-access-button a').click(function () {
                                 if ($(accessControlButtonWrapper).hasClass(requestClasses.requestAccess)) {
                                     $(accessControlButton).button('loading');
-                                    reqObj.accessControlRequestedTime = "1758714784464";
+                                    reqObj.accessControlRequestedTime = "1759316421243";
                                     $.ajax('/bin/requestAccessServlet', {
                                         data: JSON.stringify(reqObj),
                                         type: "POST",
@@ -2248,7 +2250,7 @@ function OptanonWrapper() { }
 	 
     
     
-    <section id="promotion" class="cmp-container  page-section page-section--col-white  fullwidth video-hero mobile-hero-allowed sectionvideo experience_return syc syc-topic disable-syc-video-responsive-switching videobg videobghost  mobileBackgroundEnabled" data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement4c1532b6-c32a-69a0-2db7-14d8a8482107" data-videoAutoplay="true" data-videoLoop="true" style="height:;
+    <section id="promotion" class="cmp-container  page-section page-section--col-white  fullwidth video-hero mobile-hero-allowed sectionvideo experience_return syc syc-topic disable-syc-video-responsive-switching videobg videobghost  mobileBackgroundEnabled" data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelementeefde4e8-98d6-12fd-72e6-ab40d28f3c8a" data-videoAutoplay="true" data-videoLoop="true" style="height:;
                     background-size:cover;                    
                     background-position:center center; 
                     background-image:; 
@@ -2711,7 +2713,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
 	 
     
     
-    <section id="featured" class="cmp-container  page-section page-section--col-white  fullwidth experience_return  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement3c8ad659-d52e-275c-f416-6740760f2317" data-videoAutoplay="true" data-videoLoop="true" style="height:;
+    <section id="featured" class="cmp-container  page-section page-section--col-white  fullwidth experience_return  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelementd0fde90c-2b51-b0dc-db96-52ea259ed556" data-videoAutoplay="true" data-videoLoop="true" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -2722,7 +2724,44 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
             
         <div class="parsys sectionpar">
             
-        <div class="featurePromo section"><div></div>
+        <div class="reference-xf experiencefragment"><!-- SDI include (path: /content/pwc/gx/en/_jcr_content/root/container/featured/reference_xf_copy.dynamic.html, resourceType: pwc/components/modernized/content/reference-xf) -->
+
+<div id="reference-xf-ed336ef80d" class="cmp-experiencefragment cmp-experiencefragment--priority-page-colour-updates">
+
+
+    
+    <div id="container-6aa4dc7341" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="html parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+
+    <div data-custom-code="Marketing">
+    	
+    	    <div class="html-xf html-xf--colours"><link rel="stylesheet" href="/content/pwc/script/network/reduced-bu.css"></div>
+	
+    </div>
+
+</div>
+
+    
+</div>
+
+    </div>
+
+    
+</div>
+
+    
+</div>
+<div class="featurePromo section"><div></div>
 
     
 
@@ -2735,29 +2774,29 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
 	
 	<div class="dpe-component-wrapper row multi-featured-item multi-featured-item--3-items component--col-lightgrey">
 		<div class="col-sm-4 multi-featured-item__block featured_promo_aa">
-			<a href="https://www.pwc.com/gx/en/issues/c-suite-insights/the-leadership-agenda/three-tomorrows.html" target="_self" class="multi-featured-item__link">
+			<a href="https://www.pwc.com/gx/en/issues/esg/climate-sustainability-business-value-creation.html" target="_self" class="multi-featured-item__link">
 				<div class="multi-featured-item__image-wrapper">
-					<img src="/gx/en/issues/c-suite-insights/the-leadership-agenda/TLA-210-thumb.jpeg" alt="2035 is coming. But which one? " class="multi-featured-item__image"/>
+					<img src="/gx/en/assets/images/gx-adobestock-558703792-670.jpeg" alt="The sustainability factor: Mastering new drivers of value creation" class="multi-featured-item__image"/>
 				</div> 
 				<span class="multi-featured-item__content"> 
-				<span class="h3 regular" aria-label="2035 is coming. But which one?  ">
-					<span aria-hidden="true">2035 is coming. But which one? </span>
+				<span class="h3 regular" aria-label="The sustainability factor: Mastering new drivers of value creation ">
+					<span aria-hidden="true">The sustainability factor: Mastering new drivers of value creation</span>
 				</span>
-				 <span class="lead"> A new model shows how AI and climate risks could shape three very different tomorrows for the global economy. </span>
+				 <span class="lead"> To deliver growth, leaders must recognise the business value that sustainability trends have put into motion.</span>
 			</span>
 			</a>
 		</div>
 	
 		<div class="col-sm-4 multi-featured-item__block featured_promo_aa">
-			<a href="https://www.pwc.com/gx/en/issues/value-in-motion/leader-guide-value-in-motion.html" target="_self" class="multi-featured-item__link">
+			<a href="https://www.pwc.com/gx/en/issues/c-suite-insights/the-leadership-agenda/reinventing-for-growth.html" target="_self" class="multi-featured-item__link">
 				<div class="multi-featured-item__image-wrapper">
-					<img src="/gx/en/zz-test-brand-assets-pages-25/value-in-motion/articles/hero---resized/Leaders-guide-to-vim-hero.jpg" alt="The leader’s guide to value in motion" class="multi-featured-item__image"/>
+					<img src="/gx/en/issues/c-suite-insights/the-leadership-agenda/TLA-212-thumb.jpeg" alt="Three no-regret moves to reinvent for growth" class="multi-featured-item__image"/>
 				</div> 
 				<span class="multi-featured-item__content"> 
-				<span class="h3 regular" aria-label="The leader’s guide to value in motion ">
-					<span aria-hidden="true">The leader’s guide to value in motion</span>
+				<span class="h3 regular" aria-label="Three no-regret moves to reinvent for growth ">
+					<span aria-hidden="true">Three no-regret moves to reinvent for growth</span>
 				</span>
-				 <span class="lead"> Get ready for AI, climate change and other megatrends to shift value pools and redefine the top management agenda.</span>
+				 <span class="lead"> AI, climate risks, and other megatrends will transform the global economy by 2035. Learn how companies can capitalise.</span>
 			</span>
 			</a>
 		</div>
@@ -2793,7 +2832,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
 	 
     
     
-    <section id="dynamic-content" class="cmp-container  page-section page-section--col-white  fullwidth   videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelementfd34a03b-08bd-235a-e12a-7f9fa4bb41b9" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="dynamic-content" class="cmp-container  page-section page-section--col-white  fullwidth   videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement15b4584f-d144-d964-b1fd-c1d3d9fd8a3a" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -2826,7 +2865,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
 	 
     
     
-    <section id="content-free-1-332f" class="cmp-container  page-section page-section--col-white  fullwidth   videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelementcda2d9ca-6a1e-002f-72eb-05669a499b7a" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-332f" class="cmp-container  page-section page-section--col-white  fullwidth   videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement81f299ec-6bf6-016e-2d8f-c5463abdbc65" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:; 
                     background-image:; 
@@ -2890,7 +2929,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--custom::before {
 	 
     
     
-    <section id="content-free-1-5dec" class="cmp-container  page-section page-section--col-white   experience_return syc syc-std-text syc-topic  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement8e996ea0-a196-d7f2-6c28-4a3e23560e46" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-5dec" class="cmp-container  page-section page-section--col-white   experience_return syc syc-std-text syc-topic  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement90606942-d381-42f1-c563-c1e131444a37" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -3403,7 +3442,7 @@ With over one million downloads—and counting—our global podcast is sparking 
 	 
     
     
-    <section id="content-free-1-d0a7" class="cmp-container  page-section page-section--col-white  fullwidth syc-custom-hero-section experience_default  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement7300b4e2-66a4-3bcf-eedd-d09dc72cdfc1" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-d0a7" class="cmp-container  page-section page-section--col-white  fullwidth syc-custom-hero-section experience_default  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement8ba03ffd-3b33-5cf9-bd87-d1aa6e869f22" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -4526,7 +4565,7 @@ With over one million downloads—and counting—our global podcast is sparking 
 	 
     
     
-    <section id="content-free-1-7296" class="cmp-container  page-section page-section--col-white  fullwidth   videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelemente0472187-1754-ac91-addb-226e39e3fd44" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-7296" class="cmp-container  page-section page-section--col-white  fullwidth   videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelementa86ec34a-7342-00b6-8685-1b5b44046440" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:; 
                     background-image:; 
@@ -4661,7 +4700,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--syc::before {
 	 
     
     
-    <section id="content-free-1-7f7a" class="cmp-container  page-section page-section--col-white   syc-image-overlay experience_default  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement5874dcce-b5dd-944f-b8ee-509c442b005b" data-videoAutoplay="false" data-videoLoop="false" style="height:480px;
+    <section id="content-free-1-7f7a" class="cmp-container  page-section page-section--col-white   syc-image-overlay experience_default  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement50f8b89f-1663-c197-8b21-4069c867712d" data-videoAutoplay="false" data-videoLoop="false" style="height:480px;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -4718,7 +4757,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--syc::before {
 	 
     
     
-    <section id="content-free-1-7b5b" class="cmp-container  page-section page-section--col-white   syc-linenav experience_default  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelementa28843f3-6607-c077-efc7-2cff70487e9b" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-7b5b" class="cmp-container  page-section page-section--col-white   syc-linenav experience_default  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelementa52c9ad0-08e2-2fd4-2978-1b9e271d9029" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -4978,7 +5017,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--syc::before {
 	 
     
     
-    <section id="content-free-1-6bbf" class="cmp-container  page-section page-section--col-white   syc syc-topic syc-std-text experience_default  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement65e22b0d-bff1-fd7c-a354-adf5742ad2a1" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-6bbf" class="cmp-container  page-section page-section--col-white   syc syc-topic syc-std-text experience_default  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement564fa5d8-2041-32fd-d05c-3fc58f8ff7ac" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -5014,7 +5053,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--syc::before {
         <p><sup>Insights</sup></p>
 <h2>We look a decade ahead so you can create value today<br>
 </h2>
-<p>A reconfiguration of the global economy means <strong>US$7 trillion</strong> is on the move in 2025 alone. We’ve mapped the value in motion from now to 2035, so you can build a future-ready business to capture it.&nbsp;&nbsp;</p>
+<p>A reconfiguration of the global economy means <strong>US$7 trillion</strong> is on the move in 2025 alone. We’ve mapped the value in motion from now to 2035, so you can build a future-ready business to capture it.&nbsp;</p>
 <p><a pwcbtnrendition="White" pwcbtnfile="HideSize" href="/content/pwc/gx/en/issues/value-in-motion.html" class="undefined btn btn--secondary btn--transparent" pwcbtnicon="Chevron">Learn more</a></p>
 
     </div>
@@ -5191,7 +5230,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--syc::before {
 	 
     
     
-    <section id="content-free-1-451b" class="cmp-container  page-section page-section--col-white   syc syc-orange50 syc-3steps syc-topic syc--v2  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement1b44aa8d-a934-b67c-7408-e86240629275" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-451b" class="cmp-container  page-section page-section--col-white   syc syc-orange50 syc-3steps syc-topic syc--v2  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement1656561b-7371-55a6-48ae-8dd3493030cb" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -5492,7 +5531,7 @@ html.aem-AuthorLayer-Edit .html-xf.html-xf--syc::before {
 	 
     
     
-    <section id="content-free-1-7a39" class="cmp-container  page-section page-section--col-white   experience_return syc syc-std-text syc-topic  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelemente03ec007-dc26-132d-309f-9b3a1178834f" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-7a39" class="cmp-container  page-section page-section--col-white   experience_return syc syc-std-text syc-topic  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement1c604dbc-509f-4482-0b38-5d5c75da5379" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -6003,7 +6042,7 @@ Alongside you. Start to finish.</p>
 	 
     
     
-    <section id="content-free-1-3907" class="cmp-container  page-section page-section--col-white   syc-image-overlay experience_return  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement6016f83a-5b0c-a6d3-a966-9501b03268e2" data-videoAutoplay="false" data-videoLoop="false" style="height:480px;
+    <section id="content-free-1-3907" class="cmp-container  page-section page-section--col-white   syc-image-overlay experience_return  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement277bf3e1-1a05-5842-747e-a090462c5dce" data-videoAutoplay="false" data-videoLoop="false" style="height:480px;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -6060,7 +6099,7 @@ Alongside you. Start to finish.</p>
 	 
     
     
-    <section id="content-free-1-081e" class="cmp-container  page-section page-section--col-white   syc-linenav experience_return  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement8eb12544-c06d-8109-2f42-fb0f832c2692" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-081e" class="cmp-container  page-section page-section--col-white   syc-linenav experience_return  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement5d064890-d8f9-f72a-c4f1-8d2aa154d753" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 
@@ -6320,7 +6359,7 @@ Alongside you. Start to finish.</p>
 	 
     
     
-    <section id="content-free-1-2581" class="cmp-container  page-section page-section--col-white   syc syc-std-text syc-col-btns-alignment  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement859f01f8-8aa2-5feb-f03d-b2d0397e0421" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+    <section id="content-free-1-2581" class="cmp-container  page-section page-section--col-white   syc syc-std-text syc-col-btns-alignment  videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelement671e41e4-a7f6-4f16-8814-40ca15b99925" data-videoAutoplay="false" data-videoLoop="false" style="height:;
                     background-size:cover;                    
                     background-position:center top; 
                     background-image:; 

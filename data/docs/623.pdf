@@ -554,7 +554,7 @@ var doPageMetricsPlugin = function(s){
   "display_level": null,
   "distance": null,
   "downloadOption": null,
-  "duration": 0.0067827701568603516,
+  "duration": 0.006562232971191406,
   "embed": [],
   "embed!": [],
   "error_response_status": null,
@@ -589,7 +589,7 @@ var doPageMetricsPlugin = function(s){
   "query_string": "",
   "redirect_proxy": false,
   "redirect_to_item": null,
-  "referer": "",
+  "referer": "https://www.loc.gov/law/help/undocumented-migrants/index.php",
   "region": "",
   "release_id": 123456789,
   "request_host": "www.loc.gov",
@@ -611,7 +611,7 @@ var doPageMetricsPlugin = function(s){
   "suggested": null,
   "target": null,
   "template": "managed-content/layouts",
-  "timestamp": 1758695353.9602091,
+  "timestamp": 1759299408.9807534,
   "tz_aware": null,
   "unionFacets": "",
   "webcast_permalink": null
@@ -663,6 +663,163 @@ var doPageMetricsPlugin = function(s){
         
     
     '>
+
+
+
+
+
+
+<style>
+        .alert-wrapper {
+  background-color: #D1332E;
+}
+.alert-wrapper .alert-container {
+  max-width: 85.71428571rem;
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 2rem;
+  background-color: transparent;
+  box-sizing: border-box;
+  color: #fff;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  overflow: hidden;
+}
+@media (max-width: 768px) {
+  .alert-wrapper .alert-container {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+.alert-wrapper .alert-container a {
+  color: #fff;
+  text-decoration: underline;
+}
+.alert-wrapper .alert-container a:link {
+  text-decoration: underline;
+}
+.alert-wrapper .alert-container a:visited {
+  text-decoration: underline;
+}
+.alert-wrapper .alert-container a:hover {
+  text-decoration: none;
+}
+.alert-wrapper .alert-container a:focus {
+  text-decoration: none;
+}
+.alert-wrapper .alert-container a:active {
+  text-decoration: underline;
+}
+.alert-wrapper .alert-container .alert-row {
+  display: -webkit-box;
+  /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+  display: -ms-flexbox;
+  /* TWEENER - IE 10 */
+  display: -webkit-flex;
+  /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: -moz-box;
+  display: flex;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+  -webkit-flex-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 0 0;
+}
+.alert-wrapper .alert-container .alert-row .alert-content {
+  -webkit-box-flex: 1;
+  /* OLD - iOS 6-, Safari 3.1-6 */
+  -webkit-flex: 1;
+  /* Safari 6.1+. iOS 7.1+, BB10 */
+  -ms-flex: 1;
+  /* IE 10 */
+  -moz-box-flex: 1;
+  flex: 1;
+  /* NEW, Spec - Firefox, Chrome, Opera */
+  min-width: 0;
+  /* firefox fix */
+  margin: 0 0;
+  box-sizing: border-box;
+  line-height: 1.3;
+}
+.alert-wrapper .alert-container .alert-row .alert-content a {
+  text-decoration: underline;
+}
+.alert-wrapper .alert-container .alert-row .alert-button {
+  background-color: transparent;
+  border-color: transparent;
+  color: #0076AD;
+  padding: 0 0 0 1rem;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1;
+  height: 20px;
+}
+.alert-wrapper .alert-container .alert-row .alert-button:hover,
+.alert-wrapper .alert-container .alert-row .alert-button:focus {
+  background-color: transparent;
+  border-color: transparent;
+  color: #002347;
+}
+.alert-wrapper .alert-container .alert-row .alert-button:hover,
+.alert-wrapper .alert-container .alert-row .alert-button:focus {
+  color: #fff;
+}
+.alert-wrapper .alert-container .alert-row .alert-button span {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  border: 0;
+}
+
+        .alert-wrapper.alert-warning .alert-container a {
+  font-weight: bold;
+}
+
+</style>
+
+<section class="alert-wrapper alert-warning"
+         role="alertdialog">
+    <div class="alert-container">
+        <div class="alert-row">
+            <div
+                id='notice'
+                class="alert-content">
+                <i
+                    class="icon icon-exclamation-circle"
+                    aria-hidden="none"></i>
+                <strong>Notice</strong>
+                <div style="margin-top: .125rem;">Potential disruption of operations and services due to 
+anticipated shutdown. <a href="https://www.loc.gov/item/prn-25-a04/">More</a>.
+</div>
+            </div>
+            <button
+                class="alert-button">
+                <span>Close</span>
+                <i
+                    class="icon icon-times"
+                    aria-hidden="none"></i>
+            </button>
+        </div>
+    </div>
+</section>
+<script>
+jQuery(function($){
+    $('.alert-warning .alert-button').click(function() {
+        $('.alert-warning').hide();
+        UX.interaction($(this), 'Alert Warning Notice', 'Close', '');
+    });
+});
+</script>
+
+
+
 
 
 
@@ -4073,7 +4230,7 @@ handle_redirects();
 
 
 <script defer='defer'>
-PORTAL_FORM_KEY = 'baf970341214617540104ed2eff60b09';
+PORTAL_FORM_KEY = 'a7141978916872b3d4ae10e43ea6d421';
 </script>
 
 

@@ -54,7 +54,7 @@ Business
 Data
 Innovation
 Research
-SecurityBuy coursesGet expert-led live training on exactly what you want to learn.Sep23Microservice Communication Styles and PatternsSep23AI and the Coding InterviewSep24Introduction to Statistics and Data Analysis with Microsoft Excel
+SecurityBuy coursesGet expert-led live training on exactly what you want to learn.Sep30Building Simple Web Apps with AI ToolsOct1Writing Effective Prompts for ChatGPTOct1Agentic Coding with OpenAI Codex CLI
 See allTry the O’Reilly learning platformWith the O’Reilly learning platform, you get the resources and guidance to keep your skills sharp and stay ahead. Try it free for 10 days.Start trialGet the Radar Trends newsletter
 
 

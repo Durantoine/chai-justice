@@ -155,46 +155,20 @@ Let's create smarter business
 
 
 
-                                        23 Sep
+                                        01 Oct
                                     
 
-                                        Large language models
+                                        Application development
                                     
 
 
-                                    Classic text games are the new frontier for AI benchmarking
+                                    5 application development trends to watch in 2025 and 2026
                                 
 
                                     
-                                        Antonia Davison
+                                        Mesh Flinders, 
                                     
-                                
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                        23 Sep
-                                    
-
-                                        Data integration
-                                    
-
-
-                                    Stop the bleed: Avoid 3 data integration mistakes that cost millions
-                                
-
-                                    
-                                        Chandni Sinha
+                                        Ian Smalley
                                     
                                 
 
@@ -211,14 +185,14 @@ Let's create smarter business
 
 
 
-                                        22 Sep
+                                        30 Sep
                                     
 
-                                        Generative AI
+                                        Agentic AI
                                     
 
 
-                                    AI creative tools are ready—but businesses aren’t
+                                    From the sandbox to the stack: IBM’s TechXchange turns agentic AI into action
                                 
 
                                     
@@ -239,18 +213,46 @@ Let's create smarter business
 
 
 
-                                        22 Sep
+                                        30 Sep
                                     
 
-                                        Artificial intelligence
+                                        AI agents
                                     
 
 
-                                    Reimagining insurance with AI: Insights from the HFS roundtable with IBM
+                                    Deep research on a dime
                                 
 
                                     
-                                        Girish Ratnam
+                                        Aili McConnon
+                                    
+                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        26 Sep
+                                    
+
+                                        Agentic AI
+                                    
+
+
+                                    HashiCorp’s big bet: Infrastructure for the agentic era
+                                
+
+                                    
+                                        Anabelle Nicoud
                                     
                                 
 
@@ -278,21 +280,21 @@ Let's create smarter business
 
 
 
-                    04 Sep
+                    30 Sep
                 
 
                     Artificial intelligence
                 
 
 
-                SoftBank’s PayPay shows how AI is reshaping digital payments
+                From the sandbox to the stack: IBM TechXchange turns agentic AI into action
             
 
-What SoftBank is attempting isn’t just market entry — it’s ecosystem disruption. Read more.
+This year’s conference puts agent-building front and center. “We want people to experience the tech in their own way,” says Ami Tennison, a VP of IBM TechXchange and Client Advocacy. Read more.
 
 
                 
-                    Euny  Hong
+                    Anabelle Nicoud
                 
             
 
@@ -309,17 +311,22 @@ What SoftBank is attempting isn’t just market entry — it’s ecosystem disru
 
 
 
-                                    AI agents
+                                    Document conversion
                                 
 
-                                    02 May
+                                    24 Sep
                                 
 
 
-                                The 2025 Guide to AI Agents
+                                IBM Granite-Docling: End-to-end document understanding with one tiny model
                             
 
-
+                                
+                                    Dave Bergmann, 
+                                
+                                    Abraham Daniels
+                                
+                            
 
 
 
@@ -513,35 +520,6 @@ What if new AI tools and applications are only the tip of the iceberg?
                 Report
             
 
-                Meet the Chief AI Officers
-            
-They’re in charge of AI ROI. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Report
-            
-
                 The CMO revolution
             
 Is the marketing operating model built to deliver tomorrow’s big ideas?
@@ -574,6 +552,35 @@ Is the marketing operating model built to deliver tomorrow’s big ideas?
                 Businesses have systems of intelligence. Now they should move to systems of action
             
 IBM’s Bruno Aziza discusses how businesses and CIOs can navigate their next challenge: agent orchestration.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Report
+            
+
+                Meet the Chief AI Officers
+            
+They’re in charge of AI ROI. 
 
 
 
@@ -1054,7 +1061,7 @@ Our most popular stories in 2025 so far
 
 
   
-    AI for everyday life
+    Security
 
 
 
@@ -1069,10 +1076,97 @@ Our most popular stories in 2025 so far
 
 
 
-How AI is enhancing the ordinary
+Protect your business’s data and operations
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Guide
+            
+
+                The 2025 guide to cybersecurity
+            
+Explore every facet of cybersecurity, from basic principles to cutting-edge tools and developing threats.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Report
+            
+
+                2025 Cost of a Data Breach Report
+            
+New global research from IBM and Ponemon Institute reveals an AI oversight gap.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Report
+            
+
+                IBM X-Force 2025 Threat Intelligence Index
+            
+Explore insights from monitoring over 150 billion security events per day.
 
 
 
@@ -1099,8 +1193,9 @@ How AI is enhancing the ordinary
                 Podcast | Security Intelligence
             
 
-                Vibe hacking, HexStrike AI and the latest scheme from Scattered Lapsus$ Hunters 
+                Has AI made cybercrime too easy?
             
+On the Security Intelligence podcast: Vibe hacking, HexStrike AI and the latest scheme from Scattered Lapsus$ Hunters
 
 
 
@@ -1127,204 +1222,9 @@ How AI is enhancing the ordinary
                 Podcast | AI in Action
             
 
-                AI in real estate: Use AI for your next move
+                AI to defend against AI-based cybersecurity threats
             
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                News
-            
-
-                How AI is engaging Wimbledon fans in real time
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Podcast | Smart Talks with IBM
-            
-
-                How AI assistants can transform education
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Podcast | Mixture of Experts
-            
-
-                Perplexity’s Comet browser, Cloudflare blocks AI scrapers and Wimbledon Match Chat
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                News
-            
-
-                The race to teach AI to fight fires
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Podcast | Smart Talks with IBM
-            
-
-                L'Oréal and IBM: AI-powered beauty
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Podcast | Mixture of Experts
-            
-
-                Your brain on ChatGPT, AI for safer autonomous vehicles, and AI-generated ads
-            
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                Podcast | Transformers
-            
-
-                AI for good, with Frank Sweeney, CIO, Arizona Department of Child Safety
-            
+Learn how agentic AI is redefining the cybersecurity game for both sides: attackers and defenders.
 
 
 
@@ -1351,8 +1251,183 @@ How AI is enhancing the ordinary
                 Insights
             
 
-                Agentic AI in financial services: Navigating innovation, challenges and ethical adoption
+                Why social engineering still works
             
+Social engineering will always be a problem, but we can all do our part to make scammers' jobs harder.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Insights
+            
+
+                Make the dark web your early warning system
+            
+How to use the dark web to detect attacks before they do major damage.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Insights
+            
+
+                To fight AI-generated malware, focus on the fundamentals
+            
+Malware written by AI will still behave like malware.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Article
+            
+
+                What being a cop taught me about stopping hackers
+            
+Proactive cybersecurity has a frustrating truth: Its greatest successes are invisible.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Insights
+            
+
+                Scam (increasingly) likely: What’s behind the rise of vishing?
+            
+As cybersecurity teams thwart more direct hacks, attackers are turning to a quainter style of scam.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Article
+            
+
+                What is alert fatigue?
+            
+The proliferation of low-priority alerts can exhaust workers and lead to disaster.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Article
+            
+
+                What is AI security?
+            
+AI systems can automate threat detection, prevention and remediation to combat cyberattacks.
 
 
 
@@ -1415,14 +1490,14 @@ Hear the latest in AI, new tech, business transformation and more from various e
 
 
 
-                12 September 2025 | Mixture of Experts
+                26 September 2025 | Mixture of Experts
             
 
 
-                Why language models hallucinate
+                NVIDIA’s USD 100bn investment and Google’s AP2
             
 
-Watch episode 72
+Watch episode 74
 
 
 
@@ -1437,36 +1512,14 @@ Watch episode 72
 
 
 
-                3 September 2025 | Transformers
-            
-
-
-                AI & cyber resilience: What every C-suite must know
-            
-
-Watch S2 episode 8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-                10 September 2025 | Security Intelligence
+                17 September 2025 | Transformers
             
 
 
-                Have we made cybercrime too easy? 
+                Humans, partnerships & AI agents: Is your enterprise ready?
             
 
-Watch episode 1
+Watch S2 episode 9
 
 
 
@@ -1481,14 +1534,36 @@ Watch episode 1
 
 
 
-                9 September 2025 | AI in Action
+                24 September 2025 | Security Intelligence
             
 
 
-                Tractor Supply Company shows the power of AI in retail
+                The AI vulnerability apocalypse
             
 
-Watch S2 episode 12
+Watch episode 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                23 September 2025 | AI in Action
+            
+
+
+                Industrial work reimagined with AI and robotics
+            
+
+Watch S2 episode 13
 
 
 
@@ -1531,11 +1606,47 @@ Explore all videos
 
 
 
-AI Academy | 
-Put AI to work for observability
-In this episode of AI Academy, Vikram Murali explains why observability is so important in the AI era and provides actionable advice on how to establish a solid observability strategy.
+Explainers | 
+What is quantum computing?
+Jessie Yu explains the five key elements of a quantum computer.
 
 
+
+
+
+
+
+
+
+Explainers
+What is quantum computing?
+
+
+
+
+
+
+
+Explainers
+AI vs machine learning
+
+
+
+
+
+
+
+AI Academy
+Trust, transparency and governance in the age of generative AI
+
+
+
+
+
+
+
+AI Academy
+Achieving AI readiness with hybrid cloud
 
 
 
@@ -1572,42 +1683,6 @@ Unlock the full value of enterprise AI
 
 AI Academy
 Building a data strategy for enterprise AI
-
-
-
-
-
-
-
-AI Academy
-The rise of generative AI for business
-
-
-
-
-
-
-
-AI Academy
-Put AI to work for finance
-
-
-
-
-
-
-
-AI Academy
-Put AI to work for talent
-
-
-
-
-
-
-
-Think 2025 on demand
-Usher in the future of work with AI agents built for the enterprise
 
 
 
@@ -1677,11 +1752,11 @@ Explore expert-led sessions on AI agents, data for AI, AI models, AI automation,
 
 
 
-                18 Sept 2025 | AI Models
+                16 October 2025 | AI Agents
             
 
 
-                Achieving ROI: AI Agents in Your Business
+                Agentic AI: Revolutionizing Customer Service
             
 
 

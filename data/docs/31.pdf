@@ -449,7 +449,7 @@
       <div class="block__content">
       <nav class="breadcrumb" aria-label="Fil d'Ariane">
   <ol>
-    <li class="with-link"><a href="/fr" title="Accueil" class="item">Accueil</a></li><li class="with-link"><a href="/fr/themes/administration-numerique" title="Administration numérique" class="item">Administration numérique</a></li><li class="with-link"><a href="/fr/themes/administration-numerique/intelligence-artificielle-et-blockchain-et-nouvelles-technologies" title="Intelligence artificielle et nouvelles technologies" class="item">Intelligence artificielle et nouvelles technologies</a></li>  </ol>
+    <li class="with-link"><a href="/fr" title="Accueil" class="item">Accueil</a></li>  </ol>
 </nav>
 
     </div>
@@ -1117,7 +1117,7 @@
 <script src="/themes/contrib/kiso/js/outdated-browser.min.js?v=10.3.13"></script>
 <script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
 <script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
-<script src="/sites/default/files/languages/fr_m0KTrM0kAJ8tDRqyJ9cJWodC5xS31PUAPB-E2y9Loyc.js?t32azk"></script>
+<script src="/sites/default/files/languages/fr_m0KTrM0kAJ8tDRqyJ9cJWodC5xS31PUAPB-E2y9Loyc.js?t3f9o1"></script>
 <script src="/core/misc/drupalSettingsLoader.js?v=10.3.13"></script>
 <script src="/core/misc/drupal.js?v=10.3.13"></script>
 <script src="/core/misc/drupal.init.js?v=10.3.13"></script>
@@ -1140,17 +1140,17 @@
 <script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=10.3.13"></script>
 <script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
 <script src="/core/misc/autocomplete.js?v=10.3.13"></script>
-<script src="/themes/custom/bosa/js/dropdown-menu.min.js?t32azk"></script>
-<script src="/themes/custom/bosa/js/init.min.js?t32azk"></script>
-<script src="/themes/custom/bosa/js/orejime-config.js?t32azk"></script>
-<script src="/themes/custom/bosa/js/orejime.js?t32azk"></script>
-<script src="/themes/custom/bosa/js/bosa.js?t32azk"></script>
+<script src="/themes/custom/bosa/js/dropdown-menu.min.js?t3f9o1"></script>
+<script src="/themes/custom/bosa/js/init.min.js?t3f9o1"></script>
+<script src="/themes/custom/bosa/js/orejime-config.js?t3f9o1"></script>
+<script src="/themes/custom/bosa/js/orejime.js?t3f9o1"></script>
+<script src="/themes/custom/bosa/js/bosa.js?t3f9o1"></script>
 <script src="/libraries/wai-aria-patterns-and-widgets/dist/accordion/js/accordion.min.js?v=1.0.6"></script>
 <script src="/modules/contrib/extlink/extlink.js?v=10.3.13"></script>
 <script src="/themes/contrib/kiso/js/extlink-window.min.js?v=10.3.13"></script>
 <script src="/libraries/what-input/dist/what-input.min.js?v=^5.2"></script>
-<script src="/themes/custom/bosa/js/toc.min.js?t32azk"></script>
-<script src="/themes/custom/bosa/js/content-progress.min.js?t32azk"></script>
+<script src="/themes/custom/bosa/js/toc.min.js?t3f9o1"></script>
+<script src="/themes/custom/bosa/js/content-progress.min.js?t3f9o1"></script>
 <script src="/core/misc/progress.js?v=10.3.13"></script>
 <script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
 <script src="/core/misc/debounce.js?v=10.3.13"></script>
@@ -1159,8 +1159,8 @@
 <script src="/core/misc/ajax.js?v=10.3.13"></script>
 <script src="/core/misc/jquery.tabbable.shim.js?v=10.3.13"></script>
 <script src="/core/misc/position.js?v=10.3.13"></script>
-<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?t32azk"></script>
-<script src="/themes/custom/bosa/js/sitemap-toc.min.js?t32azk"></script>
+<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?t3f9o1"></script>
+<script src="/themes/custom/bosa/js/sitemap-toc.min.js?t3f9o1"></script>
 
     <noscript class="noscript">
             For full functionality of this site it is necessary to enable JavaScript.<br>

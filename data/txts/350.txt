@@ -315,6 +315,10 @@ Artificial intelligence
 
 
 
+
+
+
+
 From:
 
 Department for Science, Innovation and Technology, Office for Artificial Intelligence and Centre for Data Ethics and Innovation
@@ -671,21 +675,6 @@ First published.
 
 
  
-
-
-
-
-        Related content
-      
-
-
-Understanding artificial intelligence ethics and safety
-Managing your artificial intelligence project
-Using natural language processing to structure market research
-Natural language processing for Land Registry documentation in Sweden
-Using data from electricity meters to predict energy consumption
-
-
 
 
 

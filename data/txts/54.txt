@@ -461,7 +461,7 @@ Quantum Programming in Depth: Bringing Software Engineering Practices to Quantum
 
 
 
-ByteCast Ep74: Torsten Hoefler
+ByteCast Ep75: Cecilia Aragon
 
 
 
@@ -492,15 +492,15 @@ The ACM Learning Center offers ACM members access to lifelong learning tools and
 
 
 
+ByteCast Ep75: Cecilia Aragon
+
+
+
 ByteCast Ep74: Torsten Hoefler
 
 
 
 ByteCast Ep73: Maja Matarić
-
-
-
-ByteCast Ep72: Alfred Spector
 
 
 

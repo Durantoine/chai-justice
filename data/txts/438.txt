@@ -1,5 +1,5 @@
      
-         Responsible AI Principles and Approach | Microsoft AI                                                  This is the Trace Id: db9755cc5a0fae5c7da89e33a2cc26c9              
+         Responsible AI Principles and Approach | Microsoft AI                                                   This is the Trace Id: 55189b620506bf5a84c5860bb61975ed              
 
 
 
@@ -279,10 +279,13 @@ Become a partner
 Partner Network
 
 
-Azure Marketplace
+Microsoft Marketplace
 
 
-AppSource
+Marketplace Rewards
+
+
+Software development companies
 
 
 
@@ -475,10 +478,10 @@ Support for AI marketplace apps
 Microsoft Tech Community
 
 
-Azure Marketplace
+Microsoft Marketplace
 
 
-AppSource
+Marketplace Rewards
 
 
 Visual Studio

@@ -126,6 +126,9 @@ GitHub - GoodTechnologyCollective/GTS: Good Technology Standard (GTS:2019-DRAFT-
 
 
 
+
+
+
 Skip to content
 
 
@@ -613,8 +616,6 @@ Explore
       Partners
 
     
-
-
 
 
 

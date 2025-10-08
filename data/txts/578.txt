@@ -1,0 +1,651 @@
+
+
+
+
+
+
+
+
+
+
+AI Initiatives - Responsible AI - Sony Group Portal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+menu
+
+
+
+
+
+
+
+
+close
+
+
+
+
+
+
+
+
+
+
+                    Businesses & Products
+                    open
+
+
+
+
+Businesses & Products Top
+
+
+
+Games & Network Services
+
+
+
+
+PlayStation
+
+
+
+
+Sony Interactive Entertainment
+
+
+
+
+
+
+Music
+
+
+
+
+Pictures: Movies & TV Shows
+
+
+
+
+Electronics: Entertainment Technology & Services
+
+
+
+
+Consumer Electronics
+
+
+
+
+Professional Products & Solutions
+
+
+
+
+
+
+Imaging & Sensing Solutions
+
+
+
+
+Financial Services
+
+
+
+
+New Initiatives
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+                    About Sony Group
+                    open
+
+
+
+
+About Sony Group Top
+
+
+
+Sony's Purpose & Values
+
+
+
+
+Message from the CEO
+
+
+
+
+News Releases
+
+
+
+
+Sony Corporate Blog
+
+
+
+
+Brand
+
+
+
+
+History
+
+
+
+
+Corporate Data
+
+
+
+
+Affiliated Companies
+
+
+
+
+
+Close
+
+
+
+
+
+
+                    Technology
+                    open
+
+
+
+
+Technology Top
+
+
+
+Chief Digital Officer Message
+
+
+
+
+Tech Stories
+
+
+
+
+Programs & Events
+
+
+
+
+Corporate Distinguished Engineer
+
+
+
+
+Publications
+
+
+
+
+
+Close
+
+
+
+
+
+
+                    Sustainability
+                    open
+
+
+
+
+Sustainability Top
+
+
+
+Vision of Founder andBasic Policy for Sustainability Initiatives
+
+
+
+
+Sustainability Report
+
+
+
+
+Environment
+
+
+
+
+Social Contribution
+
+
+
+
+Diversity
+
+
+
+
+Accessibility
+
+
+
+
+Response to COVID-19
+
+
+
+
+
+Close
+
+
+
+
+
+
+                    Design
+                    open
+
+
+
+
+Design Top
+
+
+
+About
+
+
+
+
+Design Stories
+
+
+
+
+Interviews & Lectures
+
+
+
+
+Gallery
+
+
+
+
+News
+
+
+
+
+
+Close
+
+
+
+
+
+
+                    Employees / Careers
+                    open
+
+
+
+
+Employees Top
+Careers Top
+
+
+Close
+
+
+
+
+
+
+                    Investor Relations
+                    open
+
+
+
+
+Investor Relations Top
+
+
+
+IR News
+
+
+
+
+IR Library
+
+
+
+
+Corporate Report
+
+
+
+
+Earning Announcement
+
+
+
+
+Corporate Bonds & Ratings
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+Contact Us
+
+
+
+
+
+
+
+
+Search button in the site
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Technology
+Responsible AI
+
+
+
+
+Responsible AI
+
+Japanese
+
+
+
+
+
+
+
+
+
+
+contents menu
+
+
+
+
+
+
+
+
+
+Organizational Structure
+Promoting Responsible AI
+Related Sony Group Initiatives
+
+
+
+
+
+
+
+
+
+Responsible AI
+In line with the Sony Group Code of Conduct, Sony promotes the responsible use of AI. Sony has introduced policies such as the Sony Group AI Ethics Guidelines and has put appropriate AI governance frameworks in place to ensure thorough compliance with relevant laws and regulations alongside adherence to these internal policies. Sony also engages in dialogue with diverse stakeholders in its active pursuit of accountability and transparency.
+
+
+
+
+
+
+
+Organizational Structure
+
+
+Sony has been building and strengthening systems in support of responsible AI use since 2018. Notable milestones in this area are shown below.
+
+
+■Milestones
+
+2018：
+Established Sony Group AI Ethics Guidelines
+2019：
+Established Sony Group AI Ethics Committee
+2021：
+Established AI Ethics Office (currently the AI Governance Office) within Sony Group Corporation
+2023-2024：
+Established internal guidelines governing use of generative AI tools at major Sony Group companies
+2025：
+Established Sony Global AI Governance Policy to ensure thorough compliance with relevant laws, regulations, and internal policies
+
+
+
+
+
+
+
+
+
+Promoting Responsible AI
+
+
+Response to AI Ethics Risks
+Through the utilization of artificial intelligence (AI), Sony aims to contribute to the development of a peaceful and sustainable society while delivering kando—a sense of excitement, wonder and emotion—to the world. At the same time, Sony understands that the influence of AI on society is multi-faceted and can have unintended consequences.
+In line with this understanding, the Sony Group Code of Conduct, which guides Sony’s day-to-day operations, sets out Sony’s commitment to ethical development and use of technology, together with compliance with relevant laws and regulations and internal policies. Sony also advances wide-ranging dialogue with stakeholders in the active pursuit of accountability and transparency regarding the development and utilization of AI technology.
+This stance is clearly demonstrated by the Sony Group AI Ethics Guidelines, which Sony established in September 2018 and set forth policies for how all Sony officers and employees should utilize AI and conduct AI-related R&D in order to ensure harmony with wider society. The guidelines comprise the following items:
+
+Sony Group AI Ethics Guidelines
+
+Supporting Creative Life Styles and Building a Better Society
+Stakeholder Engagement
+Provision of Trusted Products and Services
+Privacy Protection
+Respect for Fairness
+Pursuit of Transparency
+The Evolution of AI and Ongoing Education
+
+One initiative rooted in these guidelines covers electronics and other products equipped with AI. From early in the commercialization process, elements such as fairness and transparency are evaluated based on pre-defined requirements to confirm that appropriate measures are being implemented.
+Major Sony Group companies have also established and applied internal guidelines covering generative AI tools as they advance the responsible use of this technology.
+
+
+AI Governance
+Sony continues to build and develop frameworks to ensure the appropriate application of policies and guidelines.
+For example, the Sony Group AI Ethics Committee, which comprises Sony Group executives with diverse backgrounds, checks and reviews Sony’s use of AI and related research and development from a variety of viewpoints to ensure that activities are conducted appropriately from societal and ethical perspectives, in accordance with the Sony Group AI Ethics Guidelines.
+In recent years, Sony has introduced AI governance policies that ensure strict adherence to laws, regulations and internal policies governing the development, use, and provision of AI, and Sony has created as well as operates and improves structures to safeguard AI governance across the entire Sony Group. These frameworks also contribute to the integration of such policies and guidelines within each Sony Group company.
+In addition, while the AI Governance Office (formerly the AI Ethics Office) was established as an organization mainly intended to provide all Sony Group businesses with specialist knowledge regarding AI ethics, its role has expanded alongside the introduction of AI governance policies. The office currently advances the creation, operation and improvement of AI governance structures across Sony Group while also raising awareness of responsible AI use within Sony Group and supports the promotion of AI governance in each of Sony Group’s businesses. Through these activities, it reinforces the frameworks described earlier in this section.
+
+
+Sony Group AI Ethics Guidelines（PDF）
+
+
+
+
+
+
+
+Related Sony Group Initiatives
+
+
+Integrity and Sincerity are the key Values to achieving Sony's Purpose. The Sony Group Code of
+                  Conduct sets forth a standard of daily behavior based on these Values. The Code of Conduct
+                  supports Sony's value creation and serves as the basis for earning the trust for the Sony brand
+                  through the ethical and responsible conduct of every Sony Group employee.
+
+Sony Group Code of Conduct
+
+
+
+Sony also believes that all human beings should be treated with dignity and respect. This commitment is established by the Sony Group Code of Conduct. In regards to ethical issues
+                  related to the use of AI, we are responding sincerely from the perspective of fairness and
+                  transparency while engaging in dialogue with stakeholders.
+
+Sony's Approach to Respect for Human Rights
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Technology
+Responsible AI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Terms and Conditions
+Privacy Policy
+Cookie Policy
+
+Customize Cookies
+
+About this Site
+Site Map
+
+
+Copyright 2025 Sony Group Corporation
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -293,15 +293,15 @@ Paper statistics
 
 
 Downloads
-   10,068
+   10,102
 
 
 Abstract Views
-   23,543
+   23,638
 
 
 Rank
-    1,247
+    1,245
 
 
 
@@ -418,7 +418,7 @@ FOLLOWERS
 
 
 PAPERS
-   32,053
+   32,360
 
 
 
@@ -448,11 +448,11 @@ Artificial Intelligence - Law, Policy, & Ethics eJournal
 
 
 FOLLOWERS
-      346
+      349
 
 
 PAPERS
-    6,235
+    6,196
 
 
 
@@ -511,11 +511,11 @@ Innovation Law & Policy eJournal
 
 
 FOLLOWERS
-      243
+      244
 
 
 PAPERS
-   32,774
+   32,894
 
 
 
@@ -548,7 +548,7 @@ FOLLOWERS
 
 
 PAPERS
-   10,015
+   10,028
 
 
 
@@ -581,7 +581,7 @@ FOLLOWERS
 
 
 PAPERS
-    6,351
+    6,356
 
 
 

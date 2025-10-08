@@ -581,31 +581,12 @@ News
 
 
 
-TechDispatch - Human Oversight of Automated Decision-Making
+EDPS Recognised for Accountability at GPA Awards
 
 
-23 September 2025
+1 October 2025
 
-The EDPS TechDispatch provides factual descriptions of a new technology and its implication for personal data protection. Check the latest edition.
-
-
-
-
-
-
-
-
-
-
-
-Sharing of personal data with the United States must be accompanied by comprehensive and effective safeguards
-
-
-18 September 2025
-
-Read the Press Release on the EDPS Opinion on Recommendation on a framework agreement between EU and USA on the exchange of information for security screenings and identity verifications.
-Read Press Release
-Read Opinion
+the EDPS has been awarded at the GPA Awards in the Accountability category for two strategic initiatives to enhance personal data breach management across EU institutions: The Data Breach Awareness Campaign and PATRICIA Exercise - Personal dATa bReach awareness In Cybersecurity Incident hAndling!
 
 
 
@@ -617,15 +598,35 @@ Read Opinion
 
 
 
-International cooperation to fight crime should respect EU fundamental rights guarantees
+European Cybersecurity Month 2025
 
 
-9 September 2025
+1 October 2025
 
-Press release on the EDPS Opinion on the United Nations Convention against Cybercrime.
-Read the press release
-Read the Opinion
+2025 marks the 13th Anniversary of the European Cybersecurity Month. Join forces with the EU institutions, bodies and agencies in an annual awareness campaign to strengthen cybersecurity among Europeans.
+ 
+Read our infographics on phishing, ransomware and pretexting.
+Read more about what can the EU institutions, bodies and agencies do to tackle personal data breaches.
+Watch the high-level panel discussion featuring EDPS Wojciech Wiewiórowski at the Inter-Institutional Kick-Off event.
 
+
+
+
+
+
+
+
+
+
+
+Data protection beyond borders: a milestone for international organisations
+
+
+26 September 2025
+
+The International Organisations Workshop celebrates 20 years of fostering cooperation on key data protection aspects, bringing together global experts to address shared challenges.
+
+Read blogpost by Wojciech Wiewiórowski
 
 
 
@@ -641,6 +642,42 @@ Read the Opinion
  + View full agenda
 
 Agenda
+
+
+
+
+
+
+
+9 October 2025
+
+
+
+Mastercard Innovation Forum 2025, Speech by Wojciech Wiewiórowski, Paris, France
+
+
+
+
+
+
+
+7 October 2025
+
+
+
+109th EDPB Plenary, Participation of Wojciech Wiewiórowski, Brussels, Belgium
+
+
+
+
+
+
+
+7 October 2025
+
+
+
+2nd meeting of the AI Act correspondent network, Welcome address by Wojciech Wiewiórowski, Brussels, Belgium
 
 
 
@@ -665,44 +702,6 @@ Interinstitutional Kick-off Event 2025 for the European Cybersecurity Month (ECS
 
 
 EDPS-Civil Society Summit, "GDPR Under Attack? What Resists, Persists. A Roundtable with the EDPS", Participation by Wojciech Wiewiórowski in roundtable organised by the EDPS and EDRi at PrivacyCamp 2025, Brussels, Belgium
-
-
-
-
-
-
-
-29 September 2025
-
-
-
-RAID Conference, Regulation of Artificial Intelligence, Internet and Data, Participation by Wojciech Wiewiórowski in panel "International Data Flows in a Time of Fragmentation", Brussels, Belgium
-
-
-
-
-
-
-
-25 September 2025
-
-                  - 26 September 2025
-
-
-
-International Organisations Workshop on Data Protection 2025, Opening remarks by Wojciech Wiewiórowski, at event organised by UNESCO, Paris, France
-
-
-
-
-
-
-
-22 September 2025
-
-
-
-Workshop organised by the Personal Information Protection Commission of Japan (PPC), panel participation by Wojciech Wiewiórowski, Tokyo, Japan
 
 
 

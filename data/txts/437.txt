@@ -687,7 +687,7 @@ Cited publications
 
 
 
-Spotlight: AI-POWERED EXPERIENCE
+PODCAST SERIES
 
 
 
@@ -696,12 +696,12 @@ Spotlight: AI-POWERED EXPERIENCE
 
 
 
-Microsoft research copilot experience
-Discover more about research at Microsoft through our AI-powered experience
+AI Testing and Evaluation: Learnings from Science and Industry
+Discover how Microsoft is learning from other domains to advance evaluation and testing as a pillar of AI governance.
 
 
 
-							Start now						
+							Listen now						
 
 
 

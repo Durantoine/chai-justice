@@ -1,0 +1,6 @@
+matplotlib
+pandas
+wordcloud
+nltk
+pdfplumber
+bs4

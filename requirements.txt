@@ -4,3 +4,4 @@ wordcloud
 nltk
 pdfplumber
 bs4
+langdetect

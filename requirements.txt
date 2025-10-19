@@ -5,3 +5,4 @@ nltk
 pdfplumber
 bs4
 langdetect
+spacy

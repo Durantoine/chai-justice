@@ -4,3 +4,7 @@ wordcloud
 nltk
 pdfplumber
 bs4
+langdetect
+spacy
+penman 
+networkx 

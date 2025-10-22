@@ -1,0 +1,242 @@
+# ::id 202
+# ::snt equality, justice and equity, non­discrimination,
+2 Callegaro, M.
+(a / and
+      :op1 (a2 / and
+            :op1 (e / equal-01)
+            :op2 (j / justice)
+            :op3 (e2 / equity)
+            :op4 (d / discriminate-01
+                  :polarity -))
+      :op2 (p / person
+            :name (n / name
+                  :op1 "M."
+                  :op2 "2"
+                  :op3 "Callegaro")))
+
+
+# ::id 202
+# ::snt is racial bias in the risk scores used in the US crimi­ The situation is further complicated by the absence
+nal justice system.
+(m / multi-sentence
+      :snt1 (b / bias-01
+            :ARG1 (s / score-01
+                  :ARG3 (r / risk-01)
+                  :ARG1-of (u / use-01
+                        :ARG2 (c / crime-02
+                              :location (c2 / country
+                                    :name (n / name
+                                          :op1 "US")))))
+            :mod (r2 / race))
+      :snt2 (c3 / complicate-01
+            :ARG0 (a / absent-01
+                  :ARG1 (s2 / system
+                        :mod (j / justice)
+                        :mod (s3 / substantive)))
+            :ARG1 (s4 / situation)
+            :degree (f / further)))
+
+
+# ::id 160
+# ::snt Conclusions __________________________________________________________________ 70
+VIII AI and digital tools in workplace management and evaluation
+List of abbreviations
+AGI Artificial general intelligence
+AI Artificial intelligence
+AIaaS AI as a service
+Regulation of the European Parliament and of the Council laying down harmonised
+AI act rules on artificial intelligence (Artificial Intelligence act) And amending certain union
+legislative acts
+AIDA Special Committee on Artificial Intelligence in a Digital Age
+BCI Brain-computer interface
+CDEI Centre for Data Ethics and Innovation
+Charter EU Charter of Fundamental Rights
+CIPD Chartered Institute of Personnel and Development
+CJEU Court of Justice of the European Union
+CNIL Commission Nationale de l'Informatique et des Libertés
+DPA Data protection authority
+DPIA Data Protection Impact Assessment
+DPO Data protection officer
+ECHR European Convention on Human Rights
+ECtHR European Court of Human Rights
+EDPB European Data Protection Body
+EDPS European Data Protection Supervisor
+EESC European Economic and Social Committee
+ETUC European Trade Union Confederation
+EU-OSHA European Occupational Safety and Health at Work Authority
+FLI Future of Life Institute
+GDPR General Data Protection Regulation
+HBS Harvard Business School
+HRM Human resource management
+ICO Information Commissioner's Office
+ILO International Labour Organization
+IP Internet protocol
+IX STOA | Panel for the Future of Science and Technology
+ML Machine learning
+NFC Near-field communication
+OECD Organisation for Economic Co-operation and Development
+OSH Occupational safety and health
+PwC PricewaterhouseCoopers
+SMS Social media screening
+TUC Trades Union Congress
+WEF World Economic Forum
+X AI and digital tools in workplace management and evaluation
+1.
+(m / multi-sentence
+      :snt1 (a / and
+            :op1 (c / concern-02
+                  :ARG0 (p / publication
+                        :name (n / name
+                              :op1 "Conclusions"))
+                  :ARG1 (a2 / and
+                        :op1 (ii / intelligent-01
+                              :mod (a3 / artificial))
+                        :op2 (t / tool
+                              :mod (d / digital)
+                              :purpose (m2 / manage-01
+                                    :ARG1 (w / workplace)))))
+            :op2 (l / list-01
+                  :ARG2 (t2 / thing
+                        :ARG1-of (a4 / abbreviate-01))))
+      :snt2 (a5 / and
+            :op1 (ii2 / intelligent-01
+                  :mod (a6 / artificial)
+                  :ARG1-of (g / general-02))
+            :op2 (ii3 / intelligent-01
+                  :mod (a7 / artificial)
+                  :mod (a8 / as
+                        :op1 (s / service))))
+      :op3 (r / regulate-01
+            :ARG0 (a9 / and
+                  :op1 (o / organization
+                        :name (n2 / name
+                              :op1 "European"
+                              :op2 "Parliament"))
+                  :op2 (o2 / organization
+                        :name (n3 / name
+                              :op1 "Council")))
+            :ARG0-of (l2 / lay-01
+                  :ARG1 (r2 / rule-01
+                        :ARG1 (l3 / law
+                              :name (n4 / name
+                                    :op1 "Artificial"
+                                    :op2 "Intelligence"
+                                    :op3 "Act"))
+                        :ARG1-of (h / harmonize-01))))
+      :op4 (a10 / amend-01
+            :ARG1 (l4 / law
+                  :mod (c2 / certain)
+                  :mod (u / union)))
+      :op5 (o3 / organization
+            :name (n5 / name
+                  :op1 "European"
+                  :op2 "Communization"
+                  :op3 "and"
+                  :op4 "Social"
+                  :op5 "Committee"))
+      :op6 (o4 / organization
+            :name (n6 / name
+                  :op1 "European"
+                  :op2 "Trade"
+                  :op3 "Union"
+                  :op4 "Confederation"))
+      :op7 (o5 / organization
+            :name (n7 / name
+                  :op1 "Future"
+                  :op2 "of"
+                  :op3 "Life"
+                  :op4 "Institute"))
+      :op8 (o6 / organization
+            :name (n8 / name
+                  :op1 "HBS"
+                  :op2 "Harvard"
+                  :op3 "Business"
+                  :op4 "School"))
+      :op9 (o7 / organization
+            :name (n9 / name
+                  :op1 "Human"
+                  :op2 "resource"
+                  :op3 "Management"
+                  :op4 "Commission"))
+      :op10 (o8 / organization
+            :name (n10 / name
+                  :op1 "International"
+                  :op2 "Labour"
+                  :op3 "Organization"))
+      :op11 "and"
+      :op12 "the"
+      :op13 "Future"
+      :op14 "of"
+      :op15 "Science"
+      :op16 "and"
+      :op17 "Technology")
+
+
+# ::id 160
+# ::snt To that extent, as the Court of Justice of
+the European Union (CJEU) ruled, 'an employer that does not allow a worker to exercise his right to
+paid annual leave must bear the consequences.'72 In no way should an employer be allowed to hide
+behind an algorithm in this respect.
+(m / multi-sentence
+      :snt1 (o / obligate-01
+            :li 72
+            :ARG1 (c / company
+                  :ARG0-of (e / employ-01)
+                  :ARG0-of (a / allow-01
+                        :polarity -
+                        :ARG1 (e2 / exercise-01
+                              :ARG0 (p / person
+                                    :ARG0-of (w / work-01))
+                              :ARG1 (r / right-05
+                                    :ARG1 p
+                                    :ARG2 (p2 / pay-01
+                                          :ARG3 (l / leave-15
+                                                :frequency (r2 / rate-entity-91
+                                                      :ARG3 (t / temporal-quantity
+                                                            :quant 1
+                                                            :unit (y / year)))))))))
+            :ARG2 (b / bear-01
+                  :ARG0 c
+                  :ARG1 (c2 / consequence-03
+                        :ARG1 c))
+            :degree (e3 / extent
+                  :mod (t2 / that))
+            :ARG1-of (r3 / rule-01
+                  :ARG0 (o2 / organization
+                        :name (n / name
+                              :op1 "Court"
+                              :op2 "of"
+                              :op3 "Justice"
+                              :op4 "of"
+                              :op5 "the"
+                              :op6 "European"
+                              :op7 "Union"))))
+      :snt2 (r4 / recommend-01
+            :li 72
+            :ARG1 (a2 / allow-01
+                  :polarity -
+                  :ARG1 (h / hide-01
+                        :ARG0 (c3 / company
+                              :ARG0-of (e4 / employ-01)
+                              :ARG1-of h)
+                        :location (b2 / behind
+                              :op1 (a3 / algorithm))
+                        :topic (t3 / this)))))
+
+
+# ::id 160
+# ::snt 72 European Court of Justice 29 November 2017, Case No.
+(c / case-03
+      :mod 72
+      :ARG2 (o / organization
+            :name (n / name
+                  :op1 "European"
+                  :op2 "Court"
+                  :op3 "of"
+                  :op4 "Justice"))
+      :time (d / date-entity
+            :day 29
+            :month 11
+            :year 2017))
+
+

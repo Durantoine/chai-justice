@@ -7,4 +7,6 @@ bs4
 langdetect
 spacy
 penman 
-networkx 
+networkx
+pymupdf
+fitz 

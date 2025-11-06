@@ -10,3 +10,4 @@ penman
 networkx
 pymupdf
 fitz 
+scikit-learn

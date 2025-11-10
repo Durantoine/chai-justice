@@ -2,10 +2,10 @@
 
 ## Team members
 
-`Antoine DURAND`
-`Cora BOUVIER`
-`Paul CINTRA`
-`Yimou ZHANG`
+- `Antoine DURAND`
+- `Cora BOUVIER`
+- `Paul CINTRA`
+- `Yimou ZHANG`
 
 
 ## Overview

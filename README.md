@@ -7,7 +7,6 @@
 - `Paul CINTRA`
 - `Yimou ZHANG`
 
-
 ## Overview
 
 - Natural language processing project exploring how the MapAIE corpus discusses justice and related ethical notions in AI charters and manifestos.
